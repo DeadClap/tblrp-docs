@@ -1,5 +1,5 @@
 ---
-description: Thin Blue Line RPPENAL CODE HANDBOOK2021-2022
+description: Thin Blue Line RP PENAL CODE HANDBOOK 2021-2022
 ---
 
 # Penal Code
