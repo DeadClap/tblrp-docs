@@ -8,7 +8,7 @@ _**2021-2022**_
 
 **Table of Contents**
 
-Title 0: Preamble and Definitions
+[Title 0: Preamble and Definitions](penal.md#title-0-preamble-and-definitions)
 
 Title 1: Crimes Against the Person
 
@@ -142,7 +142,7 @@ All items in \(\(\)\) refer to Out of Character Notes.
 
 \(\(Nothing in this document should be used for any real world purpose. This document is not an attempt to create real world legal advice.\)\)
 
-## **Title 1.Crimes Against The Person**
+## **Title 1: Crimes Against The Person**
 
 ### **\(1\)01.Criminal Threats**
 
@@ -241,7 +241,7 @@ NOTE: Manslaughter is homicide that is not premeditated or proven to have intent
 
 - Violations of Penal Code \(1\)13 are a felony with 180 seconds imprisonment.
 
-## **Title 2.Crimes Against Property And Criminal Profiteering**
+## **Title 2: Crimes Against Property And Criminal Profiteering**
 
 ### **\(2\)01. Arson**
 
@@ -364,7 +364,7 @@ NOTES: Extortion depends on a person or organization using its authority, power,
 
 - Violations of Penal Code \(2\)14 is a misdemeanor with 90 seconds imprisonment and a fine of $1,000.
 
-## **Title 3. Crimes Against Public Decency**
+## **Title 3: Crimes Against Public Decency**
 
 ### **\(3\)01. Lewd Or Dissolute Conduct In Public**
 
@@ -425,7 +425,7 @@ NOTE: Anyone who cannot be proven to commit prostitution may charged with Indece
 
 - Violations of Penal Code \(3\)09 is a felony with 120 seconds imprisonment.
 
-## **Title 4. Crimes Against Public Justice**
+## **Title 4: Crimes Against Public Justice**
 
 ### **\(4\)01. Bribery**
 
@@ -584,7 +584,7 @@ Note: This section must be charged by a judge. \(\(Because court proceeding are 
 
 -Penal code \(4\)21 is a felony offense resulting in 300 seconds jail, for first offense. 2nd offense is 600 seconds, and 3rd offense is loss of character -- life sentences. A 4th or more offense results in a 24 + ban
 
-## **Title 5. Crimes Against Public Peace**
+## **Title 5: Crimes Against Public Peace**
 
 ### **\(5\)01. Disturbing The Peace**
 
@@ -680,7 +680,7 @@ NOTE: Since it’s irrelevant of possession, this charge can indeed stack with w
 
 NOTE: Persons who are held under this code have not committed a crime and are being held for their own well being. Use of this code does not stack with any charge and cannot be used in lieu of a standard punishment for a crime. If a crime has been committed this section is not to be used. This is commonly referred to as a 5150 hold or a baker act hold. This section is most commonly used after an attempted suicide or a person threatening to commit suicide. \(\(Application of this section is done by use of the hospital script for 60 seconds.\)\)
 
-## **Title 7. Crimes Against State Dependents**
+## **Title 7: Crimes Against State Dependents**
 
 ### **\(7\)01. Animal Abuse / Cruelty**
 
@@ -706,7 +706,7 @@ NOTES: "Domesticated" refers to animals listed in [this list](http://en.wikipedi
 
 - Violations of Penal Code \(7\)03 is a misdemeanor with a fine of $1,000.
 
-## **Title 8. Vehicular Offenses**
+## **Title 8: Vehicular Offenses**
 
 ### **\(8\)01. Applicability**
 
@@ -1129,7 +1129,7 @@ NOTE: Each piece of equipment missing or not authorized is a violation of this c
 
 - Violations of Penal Code \(8\)32 are an infraction with a $154 fine and impoundment of the vehicle at the discretion of the officer. If the vehicle is a commercial motor vehicle, the vehicle must be put out of service.
 
-## **Title 9. Control Of Deadly Weapons And Equipment**
+## **Title 9: Control Of Deadly Weapons And Equipment**
 
 ### **\(9\)01. Possession Of An Illegal Weapon**
 
@@ -1181,7 +1181,7 @@ NOTE: This charge can stack with brandishing a firearm, so you can in fact be ch
 
 - Violations of Penal Code \(9\)05 are a misdemeanor with 60 seconds imprisonment, a fine of $1,000, and revocation of any weapons permit the holder carries.
 
-## **Title 10. Operation of Commercial Motor Vehicles**
+## **Title 10: Operation of Commercial Motor Vehicles**
 
 ### **\(10\)00. Applicability**
 
@@ -1262,7 +1262,7 @@ NOTE: A Commercial drivers license is not a separate license from a normal drive
 
 - Violations of Penal Code \(10\)04 are an infraction with a fine of $234. A commercial motor vehicle shall be put out of service for a violation of this section until such time that the violation is corrected, a legal driver takes possession of the vehicle, or a towing company moves the vehicle to private property that the vehicle is authorized to park on. A vehicle may not be put out of service for a violation that occurred prior to the last 10 hour rest period.
 
-## **Title 11. Operation of Aircraft**
+## **Title 11: Operation of Aircraft**
 
 ### **\(11\)00. Applicability**
 
@@ -1334,7 +1334,7 @@ NOTE:
 
 This charge is stackable with 8\(24\) or 8\(25\) as appropriate.
 
-## **Title 12. Operation of Marine Vessels**
+## **Title 12: Operation of Marine Vessels**
 
 ### **\(12\)00. Applicability**
 
@@ -1369,7 +1369,7 @@ This charge is stackable with 8\(24\) or 8\(25\) as appropriate.
 
 - Violations of Penal Code \(12\)03 are an infraction with a fine of $384.
 
-## **Title 13. Sentencing Enhancements**
+## **Title 13: Sentencing Enhancements**
 
 ### **\(13\)00. Exception**
 
@@ -1407,7 +1407,7 @@ This charge is stackable with 8\(24\) or 8\(25\) as appropriate.
 1. A person who knowingly and willingly helps another person who had successfully committed a criminal act shall receive HALF the punishment issued to the person who committed the criminal act.
 2. Examples include harboring a fugitive, helping destroy or distort evidence, withholding information relating to a crime or assisting the person elude or avoid police custody.
 
-## **Title 14. Legal Procedures**
+## **Title 14: Legal Procedures**
 
 ### **\(14\)01. Use of Penal Code**
 
@@ -1563,7 +1563,7 @@ This charge is stackable with 8\(24\) or 8\(25\) as appropriate.
 
 \(\(OOC Note: This section can be waived by the civilian involved in the case.\)\)
 
-## **Title 15. Miscellaneous Violations**
+## **Title 15: Miscellaneous Violations**
 
 ### **\(15\)01. Racketeering**
 
@@ -1607,7 +1607,7 @@ NOTE: One-party notification means that at least one party being recorded visual
 
 NOTE: This code may be “stacked” with other penal codes violations as appropriate.
 
-## **Title 16. Fish and Game**
+## **Title 16: Fish and Game**
 
 ### **\(16\)00. Applicability**
 
@@ -1694,7 +1694,7 @@ Boar / Coyote / Crow / Deer / Fish / Mountain Lion / Pigeon / Rabbit
 
 - Violations of Penal Code \(16\)09 are a misdemeanor with a $670 fine.
 
-## **Title 17. Amendments & Additions**
+## **Title 17: Amendments & Additions**
 
 * At the pleasure of the State Legislature, amendments, additions, and revisions to this penal code may be made at any time with respect to the due process of the legislative process of those authorities.
 * The Chief Justice may also review the Penal Code and make proposed changes to ensure its effectiveness and appropriate language for legal interpretation. Major changes should be consulted upon with the State Legislature.
