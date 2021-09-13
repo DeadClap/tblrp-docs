@@ -4,11 +4,9 @@ description: Thin Blue Line RP Member Orientation
 
 # Orientation
 
-
-
 Read the following rules.
 
-### **Community Rules**
+## **Community Rules**
 
 1. Discord is a requirement. If you leave the Discord server, it is considered a resignation.
 2. Administrators and Staff will try to keep everyone on topic while in Discord or TeamSpeak, so when asked, move off-topic chats to the appropriate channel.
@@ -24,7 +22,7 @@ Read the following rules.
 12. Furthermore -- we do not tolerate unnecessary drama of any sort. There is no place for it here, as this community is an escape from our normal lives to come and play games, and have fun together.
 13. You may not be in TeamSpeak while under the influence of alcohol, with the exception of specific events that would be announced in \#announcements.
 
-### FiveM Rules
+### FiveM Specific Rules <a id="Orientation-FiveMSpecificRules:"></a>
 
 1. Joining another Emergency Services server on any GTA V platform \(FiveM, RageMP, GTA:MP, etc.\), FivePD server, or FiveM/RageMP/GTA:MP/etc Community and/or having a role of Member or higher \(NOT Fan\) in a Discord or TeamSpeak server belonging to one of those servers will be considered a violation of the double clanning policy. In the case of multi-game communities it has to be very clear that the membership is for FiveM/RageMP/GTA:MP/etc specifically and not another game the community offers.
 2. A first offense for double clanning will result in a 7 day temporary ban. You will be temporarily banned from TeamSpeak, muted in Discord, and removed from the whitelist for the duration. You will not lose any tags or tenure. If you continue to double clan during this temporary ban – you will be moved to a community removal with a 30 day ban.
@@ -35,7 +33,7 @@ Read the following rules.
 7. There is to be no out-of-character interactions while in the server. Period.
 8. Use of outside communication tools \(Discord Calls, other Discord Servers, Snapchat, etc.\) are not permitted for patrol. Any kind of coordination for scenes, character development, or discussion related to patrol or Thin Blue Line RP policies and procedures should occur in the Thin Blue Line RP Discord. Third-party communication for these types of things aren't permitted.
 
-### Avatar & Username Rules
+## Avatar & Username Rules
 
 1. No NSFW or semi-NSFW avatars in TS3 or Discord
 2. Keep emoticon use in usernames to a minimum. Not a hard rule - just be smart.
@@ -44,4 +42,5 @@ Read the following rules.
 5. Sound clips of other community members are not allowed unless EXPLICIT permission is given by that person.
 6. No political avatars. Politics is an IRL thing - we play video games here. Be smart!
 
-Test Edit 
+
+
