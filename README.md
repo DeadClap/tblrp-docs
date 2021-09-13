@@ -4,7 +4,7 @@ description: Thin Blue Line RP Member Orientation
 
 # Orientation
 
-Read the following rules.
+Welcome to TBLRP. We pride ourselves on realism.\`\`
 
 ## **Community Rules**
 
