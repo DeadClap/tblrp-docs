@@ -22,7 +22,7 @@ Read the following rules.
 12. Furthermore -- we do not tolerate unnecessary drama of any sort. There is no place for it here, as this community is an escape from our normal lives to come and play games, and have fun together.
 13. You may not be in TeamSpeak while under the influence of alcohol, with the exception of specific events that would be announced in \#announcements.
 
-### FiveM Specific Rules <a id="Orientation-FiveMSpecificRules:"></a>
+## FiveM Specific Rules
 
 1. Joining another Emergency Services server on any GTA V platform \(FiveM, RageMP, GTA:MP, etc.\), FivePD server, or FiveM/RageMP/GTA:MP/etc Community and/or having a role of Member or higher \(NOT Fan\) in a Discord or TeamSpeak server belonging to one of those servers will be considered a violation of the double clanning policy. In the case of multi-game communities it has to be very clear that the membership is for FiveM/RageMP/GTA:MP/etc specifically and not another game the community offers.
 2. A first offense for double clanning will result in a 7 day temporary ban. You will be temporarily banned from TeamSpeak, muted in Discord, and removed from the whitelist for the duration. You will not lose any tags or tenure. If you continue to double clan during this temporary ban – you will be moved to a community removal with a 30 day ban.
@@ -42,5 +42,18 @@ Read the following rules.
 5. Sound clips of other community members are not allowed unless EXPLICIT permission is given by that person.
 6. No political avatars. Politics is an IRL thing - we play video games here. Be smart!
 
+## Inappropriate Behavior towards YouTube / Twitch Streamers
 
+1. Don't @TAG excessively in Discord, or Fan-out over them excessively. That's a pretty quick way to getting kicked from the server or muted in Discord.
+2. They are human, treat them as such. Be kind and respectful to them as you would toward other members.
+
+## Connection Points and Additional Related Information
+
+### **TeamSpeak3**
+
+Our Teamspeak 3 server is set up to show all tags and ranks throughout the entire server. There are several patrol rooms for each server, namely the Law Enforcement channel, and the Civilian channel for each server. We also store the required FiveM add-on menu files required on our Teamspeak 3 as well. Teamspeak 3 is the main form of hanging out and communicating with other members, whether playing FiveM or not.
+
+### **Discord Server**
+
+Our Discord server is set up for different roles based on the qualifications you have earned. A lot of useful information is stored on discord, along with the “important-docs” channel which is your one-stop-shop for all relevant guides, policies, and information for FiveM. Discord’s ease of use and great mobile App make Discord a great platform for communication, instead of using a traditional forum system on a website.
 
