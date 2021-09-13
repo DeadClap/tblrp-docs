@@ -1,50 +1,50 @@
+---
+description: Thin Blue Line RPPENAL CODE HANDBOOK2021-2022
+---
+
 # Penal Code
 
-Thin Blue Line RP
+## 
 
-PENAL CODE HANDBOOK
-
-_**2021-2022**_
-
-**Table of Contents**
+## **Table of Contents**
 
 [Title 0: Preamble and Definitions](penal.md#title-0-preamble-and-definitions)
 
-Title 1: Crimes Against the Person
+[Title 1: Crimes Against the Person](penal.md#title-1-crimes-against-the-person)
 
-Title 2: Crimes Against Property and Criminal Profiteering
+[Title 2: Crimes Against Property and Criminal Profiteering](penal.md#title-2-crimes-against-property-and-criminal-profiteering)
 
-Title 3: Crimes Against Public Decency
+[Title 3: Crimes Against Public Decency](penal.md#title-3-crimes-against-public-decency)
 
-Title 4: Crimes Against Public Justice
+[Title 4: Crimes Against Public Justice](penal.md#title-4-crimes-against-public-justice)
 
-Title 5: Crimes Against Public Peace
+[Title 5: Crimes Against Public Peace](penal.md#title-5-crimes-against-public-peace)
 
-Title 6: Crimes Against Public Health and Safety
+[Title 6: Crimes Against Public Health and Safety](penal.md#title-6-of-crimes-against-public-health-and-safety)
 
-Title 7: Crimes Against State Dependents
+[Title 7: Crimes Against State Dependents](penal.md#title-7-crimes-against-state-dependents)
 
-Title 8: Vehicular Offense
+[Title 8: Vehicular Offense](penal.md#title-8-vehicular-offenses)
 
-Title 9: Control of Deadly Weapons and Equipment
+[Title 9: Control of Deadly Weapons and Equipment](penal.md#title-9-control-of-deadly-weapons-and-equipment)
 
-Title 10: Operation of Commercial Motor Vehicle
+[Title 10: Operation of Commercial Motor Vehicle](penal.md#title-10-operation-of-commercial-motor-vehicles)
 
-Title 11: Operation of Aircraft
+[Title 11: Operation of Aircraft](penal.md#title-11-operation-of-aircraft)
 
-Title 12: Operation of Marine Vessels
+[Title 12: Operation of Marine Vessels](penal.md#title-12-operation-of-marine-vessels)
 
-Title 13: Sentencing Enhancements
+[Title 13: Sentencing Enhancements](penal.md#title-13-sentencing-enhancements)
 
-Title 14: Legal Procedures
+[Title 14: Legal Procedures](penal.md#title-14-legal-procedures)
 
-Title 15: Miscellaneous Violations
+[Title 15: Miscellaneous Violations](penal.md#title-15-miscellaneous-violations)
 
-Title 16: Fish and Game
+[Title 16: Fish and Game](penal.md#title-16-fish-and-game)
 
-Title 17: Amendments and Additions
+[Title 17: Amendments and Additions](penal.md#title-17-amendments-and-additions)
 
-Sentencing Quick Reference Guide
+[Sentencing Quick Reference Guide](penal.md#sentencing-quick-reference-guide)
 
 _**THIS PENAL CODE AND RELATED DOCUMENTS, AMENDMENTS AND ADDITIONS ARE NOT LEGALLY BINDING, OR TO BE CONSTRUED, SUBSTITUTED OR USED AS ACTUAL PENAL CODE LAWS AND REGULATIONS IN REAL LIFE. LOS SANTOS COUNTY DEPARTMENT OF JUSTICE RP ASSUMES NO LIABILITY FOR YOUR USE OF THESE IN REAL LIFE, AND AT YOUR SOLE DISCRETION. THIS IS TO BE USED IN GAME ONLY!!!**_
 
@@ -606,7 +606,7 @@ Note: This section must be charged by a judge. \(\(Because court proceeding are 
 
 1. A person who with the intent to cause a riot does an act or engages in conduct that urges a riot, or urges others to commit acts of force or violence, or the burning or destroying of property, and at a time and place and under circumstances that produce a clear and present and immediate danger of acts of force or violence or the burning or destroying of property is guilty under this code section.Violations of Penal Code \(5\)03 is a misdemeanor with 60 seconds imprisonment and a $1,000 fine.
 
-**Title 6. Of Crimes Against Public Health And Safety**
+## **Title 6. Of Crimes Against Public Health And Safety**
 
 ### **\(6\)01. Possession Of A Controlled Substance**
 
