@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Orientation](README.md)
-* [Penal Code](untitled.md)
+* [Penal Code](penal.md)
 
