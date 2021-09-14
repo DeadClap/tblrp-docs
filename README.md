@@ -53,7 +53,11 @@ Welcome to TBLRP. We pride ourselves on realism.\`\`
 
 Our Teamspeak 3 server is set up to show all tags and ranks throughout the entire server. There are several patrol rooms for each server, namely the Law Enforcement channel, and the Civilian channel for each server. We also store the required FiveM add-on menu files required on our Teamspeak 3 as well. Teamspeak 3 is the main form of hanging out and communicating with other members, whether playing FiveM or not.
 
+You can join it here: [Teamspeak 3](http://invite.teamspeak.com/198.23.193.242/?addbookmark=TBLRP)
+
 ### **Discord Server**
 
 Our Discord server is set up for different roles based on the qualifications you have earned. A lot of useful information is stored on discord, along with the “important-docs” channel which is your one-stop-shop for all relevant guides, policies, and information for FiveM. Discord’s ease of use and great mobile App make Discord a great platform for communication, instead of using a traditional forum system on a website.
+
+You can join it here: [Discord](https://discord.gg/KSY8mFa)
 
