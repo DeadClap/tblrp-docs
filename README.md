@@ -32,6 +32,7 @@ Welcome to TBLRP. We pride ourselves on realism.\`\`
 6. We do not “10-22” or disregard situations. If it is seen, it must be roleplayed.
 7. There is to be no out-of-character interactions while in the server. Period.
 8. Use of outside communication tools \(Discord Calls, other Discord Servers, Snapchat, etc.\) are not permitted for patrol. Any kind of coordination for scenes, character development, or discussion related to patrol or Thin Blue Line RP policies and procedures should occur in the Thin Blue Line RP Discord. Third-party communication for these types of things aren't permitted.
+9. The age of your character must be at least 18.
 
 ## Avatar & Username Rules
 
