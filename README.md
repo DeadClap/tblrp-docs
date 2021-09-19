@@ -33,6 +33,8 @@ Welcome to TBLRP. We pride ourselves on realism.\`\`
 7. There is to be no out-of-character interactions while in the server. Period.
 8. Use of outside communication tools \(Discord Calls, other Discord Servers, Snapchat, etc.\) are not permitted for patrol. Any kind of coordination for scenes, character development, or discussion related to patrol or Thin Blue Line RP policies and procedures should occur in the Thin Blue Line RP Discord. Third-party communication for these types of things aren't permitted.
 9. The age of your character must be at least 18.
+10. FRP - Fail RP is not permitted \(Repairing vehicle in the middle of a scene, etc\)
+11. VDM - Vehicle Deathmatching is not permitted \(Running over users in retaliation, Demo Derbies, unless approved by staff\)
 
 ## Avatar & Username Rules
 
