@@ -14,6 +14,10 @@
 * [RDM / RVDM](gameplay-rules/rdm-rvdm.md)
 * [Meta Gaming](gameplay-rules/meta-gaming.md)
 * [Power Gaming / Forced RP](gameplay-rules/power-gaming-forced-rp.md)
+* [Breaking RP](gameplay-rules/breaking-rp.md)
+* [Fear RP](gameplay-rules/fear-rp.md)
+* [New Life](gameplay-rules/new-life.md)
+* [Fail RP](gameplay-rules/fail-rp.md)
 
 ## Server Rules
 
