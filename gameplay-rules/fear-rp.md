@@ -9,4 +9,3 @@ Example of **Fear RP**:
 {% hint style="danger" %}
 `Subject A` is in an alleyway with **4 gang members who all have guns** pointed towards him/her. `Subject A` follows all demands and stays co-operative due to fear for his life.
 {% endhint %}
-

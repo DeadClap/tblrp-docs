@@ -1,4 +1,3 @@
 # No-Nonsense Policy
 
 We're all here to roleplay realistically. By entering our server, you are agreeing to play with a character /personality that has a decent backstory. It also means that you're agreeing to the understanding that when you begin a roleplay scenario, whatever that roleplay may be, that it should include a reason for existing; in other words, you could explain from start to finish exactly why the roleplay has been initiated, what reasons your character has for being apart of the roleplay, what the end goal of that roleplay is, and how your character's personality / existence ties into the nature of the roleplay. 
-

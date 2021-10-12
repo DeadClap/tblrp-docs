@@ -12,8 +12,8 @@ To provide the best possible experience we can. The ideal atmosphere we strive f
 
 **Punishments**
 
-By joining the server you will agree to all the rules listed within this document. Members of the **moderation team** reserve the right to **warn, kick, ban** you if you are caught in violation of these rules.  
-  
+By joining the server you will agree to all the rules listed within this document. Members of the **moderation team** reserve the right to **warn, kick, ban** you if you are caught in violation of these rules.\
+\
 Our community's servers, support team, and moderation are provided for free by volunteers; everyone is considered a guest on our servers and it is a privilege that can be removed at any time. 
 
 If a rule is broken, we issue a punishment to the account that the rule violation occurred through, regardless of shared or borrowed accounts; not doing so would defeat the purpose of issuing punishments in the first place. The account owner is responsible for their account.
@@ -40,5 +40,4 @@ Appealing to staff with the reason of removing a valid punishment: to avoid havi
 
 **Community Management**
 
-The staff team members responsible for managing the community \(Admin+\) reserve the right to kick or ban you from SADRP's servers at any point if they deem it necessary. Admin+ have the right to exempt individuals from rules under special circumstances. Admin+ can be exempted from these rules if deemed necessary for their duties.
-
+The staff team members responsible for managing the community (Admin+) reserve the right to kick or ban you from SADRP's servers at any point if they deem it necessary. Admin+ have the right to exempt individuals from rules under special circumstances. Admin+ can be exempted from these rules if deemed necessary for their duties.

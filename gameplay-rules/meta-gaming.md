@@ -1,6 +1,6 @@
 # Meta Gaming
 
-This is when you **utilize Out-Of-Character information/knowledge for personal In-Character benefit or gain**. Even if it doesn't put you at an advantage, mixing OOC with IC will be considered Meta Gaming. Only use the information/knowledge you received IC.
+This is when you** utilize Out-Of-Character information/knowledge for personal In-Character benefit or gain**. Even if it doesn't put you at an advantage, mixing OOC with IC will be considered Meta Gaming. Only use the information/knowledge you received IC.
 
 This includes any information gained from external programs such as **Discord**, **Twitch Streams**, **OOC Chat**.
 
@@ -11,6 +11,4 @@ Example of **Meta Gaming**:
 {% hint style="danger" %}
 `Subject A` goes to `Subject B's` twitch stream and uses it to find the location of `Subject B` to kill him.
 {% endhint %}
-
-
 

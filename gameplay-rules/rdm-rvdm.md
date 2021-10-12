@@ -23,4 +23,3 @@ Example of **RVDM:**
 {% hint style="success" %}
 `Subject A` runs over `Subject B` in his Toyota Prius then drives off as nothing happened.
 {% endhint %}
-

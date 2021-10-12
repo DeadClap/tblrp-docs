@@ -25,7 +25,11 @@
 * [Chat](server-rules/chat.md)
 * [Microphone](server-rules/microphone.md)
 * [Spam Connection](server-rules/spam-connection.md)
-* [AOP \(Area-of-Play\)](server-rules/aop-area-of-play.md)
-* [AFK \(Away-from-Keyboard\)](server-rules/afk-away-from-keyboard.md)
+* [AOP (Area-of-Play)](server-rules/aop-area-of-play.md)
+* [AFK (Away-from-Keyboard)](server-rules/afk-away-from-keyboard.md)
 * [Chain of Command](server-rules/chain-of-command.md)
 
+## Standard Operating Procedures
+
+* [SOP - Law Enforcement](standard-operating-procedures/sop-law-enforcement/README.md)
+  * [Rolling Road Block - APET](standard-operating-procedures/sop-law-enforcement/rolling-road-block-apet.md)

@@ -11,4 +11,3 @@ Examples of **Breaking RP**:
 {% hint style="danger" %}
 Saying things such as: "It's lag", "I'm going to report you", "That's not allowed your breaking server rules", "I don't want to roleplay this" etc.
 {% endhint %}
-

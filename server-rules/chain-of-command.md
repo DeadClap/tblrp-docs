@@ -12,7 +12,6 @@ Due to the fact that "departments" are a major aspect of roleplay on TBLRP, the 
 
 Community Ranks:
 
-Management  
-Senior Administrators  
+Management\
+Senior Administrators\
 Junior Administrators
-

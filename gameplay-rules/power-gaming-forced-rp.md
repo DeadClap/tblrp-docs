@@ -8,7 +8,7 @@ Declaring that your actions against another player were successful without allow
 
 Forcefully performing an unrealistic action against someone without providing them an opportunity to evade such an action.
 
-Claimable property \(Shops, Homes, etc.\) on the server is viewed as first-come first-serve. Stating that you legitimately own a property while another player had already legitimately claimed to own the same location is power-gaming. 
+Claimable property (Shops, Homes, etc.) on the server is viewed as first-come first-serve. Stating that you legitimately own a property while another player had already legitimately claimed to own the same location is power-gaming. 
 
 {% hint style="info" %}
 **Examples:**
@@ -21,4 +21,3 @@ Typing "/me stabs officer to death" while standing next to a police officer.
 
 Typing "/me grabs your head and smacks you into a wall."
 {% endhint %}
-

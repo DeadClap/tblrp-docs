@@ -8,5 +8,4 @@ We understand that you enjoy doing criminal activities but we advise you not to 
 
 Try to roleplay acquiring equipment that gets used in a crime, such as finding dealers or stores to get weapons, get items to help open doors, break windows, clothes, etc.. This allows for more detailed RP, and gives other players an opportunity to help aid in the RP by providing equipment/supplies.
 
-Dress appropriately for the crime and realistically based on your resources. **Dressing in tens-of-thousands of dollars worth of full tactical, military, or special forces gear to commit a robbery is unrealistic. Criminals wear street clothes, not military gear.** 
-
+Dress appropriately for the crime and realistically based on your resources. **Dressing in tens-of-thousands of dollars worth of full tactical, military, or special forces gear to commit a robbery is unrealistic. Criminals wear street clothes, not military gear. **

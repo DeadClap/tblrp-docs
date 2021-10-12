@@ -8,10 +8,10 @@ Examples of **Fail RP**:
 
 {% hint style="danger" %}
 * Police vehicles are equipped with tracking devices, they cannot be removed. 
-* Refusing to verbally identify yourself is fine but you **must** provide your character name if the police run your fingerprints while booking/arresting you. You may not destroy your fingerprints. 
+* Refusing to verbally identify yourself is fine but you **must **provide your character name if the police run your fingerprints while booking/arresting you. You may not destroy your fingerprints. 
 * Using 'Ragdoll' to appear-dead and then getting back up to join a gunfight by surprise.
 * Using /carry or cuff/drag to let a player respawn without teleporting to a hospital.
-* Applying handcuffs or /carry onto a player who does not agree to it, or is running/walking. You may only handcuff or /carry a person who agrees to it, surrenders \(complying\), or is not capable of resisting \(on the floor, tackled, stunned/tased, incapacitated, etc.\).
+* Applying handcuffs or /carry onto a player who does not agree to it, or is running/walking. You may only handcuff or /carry a person who agrees to it, surrenders (complying), or is not capable of resisting (on the floor, tackled, stunned/tased, incapacitated, etc.).
 * Failing to respond to /me /do /sv /sp to avoid roleplay. 
 * Being searched and lying about what you posses.
 * Spawning/Despawning Vehicles randomly in the public.
@@ -29,4 +29,3 @@ Examples of **Fail RP**:
   * It can only be used to detect heat that is coming off of surfaces e.g. a person in the open / outside. 
   * Thermal vision cannot be used to see and follow people who are underwater; it is unrealistic.
 {% endhint %}
-

@@ -46,6 +46,5 @@ Develop your character over time, start off with small things, whether your char
 {% hint style="warning" %}
 **Suicide RP**
 
-Should be a decision/story which is **developed over time.** **Suicide cannot be used to escape from an RP.** 
+Should be a decision/story which is **developed over time.** **Suicide cannot be used to escape from an RP. **
 {% endhint %}
-
