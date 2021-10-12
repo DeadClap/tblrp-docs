@@ -25,16 +25,16 @@ Welcome to TBLRP. We pride ourselves on realism.\`\`
 ## FiveM Specific Rules
 
 1. Joining another Emergency Services server on any GTA V platform (FiveM, RageMP, GTA:MP, etc.), FivePD server, or FiveM/RageMP/GTA:MP/etc Community and/or having a role of Member or higher (NOT Fan) in a Discord or TeamSpeak server belonging to one of those servers will be considered a violation of the double clanning policy. In the case of multi-game communities it has to be very clear that the membership is for FiveM/RageMP/GTA:MP/etc specifically and not another game the community offers.
-2. A first offense for double clanning will result in a 7 day temporary ban. You will be temporarily banned from TeamSpeak, muted in Discord, and removed from the whitelist for the duration. You will not lose any tags or tenure. If you continue to double clan during this temporary ban – you will be moved to a community removal with a 30 day ban.
-3. A second offense for double clanning will result in a temporary ban of 90 days – after which you can then re-apply as a brand new member.
-4. A third offense for double clanning will result in a permanent ban, which can be appealed via Discord and a majority vote from the FiveM Staff Team.
-5. Returning to the scene after injury, death, being taken to the hospital, or being taken to jail is not permitted.
-6. We do not “10-22” or disregard situations. If it is seen, it must be roleplayed.
-7. There is to be no out-of-character interactions while in the server. Period.
-8. Use of outside communication tools (Discord Calls, other Discord Servers, Snapchat, etc.) are not permitted for patrol. Any kind of coordination for scenes, character development, or discussion related to patrol or Thin Blue Line RP policies and procedures should occur in the Thin Blue Line RP Discord. Third-party communication for these types of things aren't permitted.
-9. The age of your character must be at least 18.
-10. FRP - Fail RP is not permitted (Repairing vehicle in the middle of a scene, etc)
-11. VDM - Vehicle Deathmatching is not permitted (Running over users in retaliation, Demo Derbies, unless approved by staff)
+   1. A first offense for double clanning will result in a 7 day temporary ban. You will be temporarily banned from TeamSpeak, muted in Discord, and removed from the whitelist for the duration. You will not lose any tags or tenure. If you continue to double clan during this temporary ban – you will be moved to a community removal with a 30 day ban.
+   2. A second offense for double clanning will result in a temporary ban of 90 days – after which you can then re-apply as a brand new member.
+   3. A third offense for double clanning will result in a permanent ban, which can be appealed via Discord and a majority vote from the FiveM Staff Team.
+2. Returning to the scene after injury, death, being taken to the hospital, or being taken to jail is not permitted.
+3. We do not “10-22” or disregard situations. If it is seen, it must be roleplayed.
+4. There is to be no out-of-character interactions while in the server. Period.
+5. Use of outside communication tools (Discord Calls, other Discord Servers, Snapchat, etc.) are not permitted for patrol. Any kind of coordination for scenes, character development, or discussion related to patrol or Thin Blue Line RP policies and procedures should occur in the Thin Blue Line RP Discord. Third-party communication for these types of things aren't permitted.
+6. The age of your character must be at least 18.
+7. FRP - Fail RP is not permitted (Repairing vehicle in the middle of a scene, etc)
+8. VDM - Vehicle Deathmatching is not permitted (Running over users in retaliation, Demo Derbies, unless approved by staff)
 
 ## Avatar & Username Rules
 
