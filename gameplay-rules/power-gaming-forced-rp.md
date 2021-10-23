@@ -4,11 +4,11 @@ The following are prohibited:
 
 Depicting another player's actions without them agreeing to it, or doing it themselves.
 
-Declaring that your actions against another player were successful without allowing them the opportunity to respond. 
+Declaring that your actions against another player were successful without allowing them the opportunity to respond.&#x20;
 
 Forcefully performing an unrealistic action against someone without providing them an opportunity to evade such an action.
 
-Claimable property (Shops, Homes, etc.) on the server is viewed as first-come first-serve. Stating that you legitimately own a property while another player had already legitimately claimed to own the same location is power-gaming. 
+Claimable property (Shops, Homes, etc.) on the server is viewed as first-come first-serve. Stating that you legitimately own a property while another player had already legitimately claimed to own the same location is power-gaming.&#x20;
 
 {% hint style="info" %}
 **Examples:**

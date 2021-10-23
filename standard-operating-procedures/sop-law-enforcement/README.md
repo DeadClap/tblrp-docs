@@ -93,7 +93,7 @@ Officers on duty  carry taser devices with two cartridges. This tool is consider
 
 
 * When preparing to tase a subject, officers should issue a warning to the effect of “If you do not comply, I will tase you.”
-* When a taser is deployed, officers should where possible declare ‘taser taser taser’ before firing. 
+* When a taser is deployed, officers should where possible declare ‘taser taser taser’ before firing.&#x20;
 * No subject should be tased on ladders, vehicles, edges of rooftops (or when running/walking towards an edge) or near slopes or drops.
 * Tasers should not be deployed on persons standing in water above ankle height, Any person tased in water of any sort should be actively removed from this drowning risk as soon as possible for their own safety. It is however preferable to tase subjects away from water where possible.
 * Due to the limitation on cartridges you carry, tasers should be preferentially used as a compliance tool, not the first method of stopping foot pursuits. Tasers provide us with a vital tool that allows us to disarm subjects with edged or blunt weapons without using lethal force; it is ideal to save your cartridges for these cases where a life might be saved rather than someone running. Tackling is a favored option for these cases.
@@ -274,7 +274,7 @@ If your vehicle is not capable of transporting a suspect and no officer is avail
 
 ### **Warrants** <a href="soplawenforcement-warrants" id="soplawenforcement-warrants"></a>
 
-If a suspect is not already in custody, the officer can submit a warrant through the CAD. This needs to be done within 24 hours after the crime happened. 
+If a suspect is not already in custody, the officer can submit a warrant through the CAD. This needs to be done within 24 hours after the crime happened.&#x20;
 
 Note, CIU investigations are not limited to the 24-hour rule for warrant requests.
 
@@ -282,9 +282,9 @@ Note, CIU investigations are not limited to the 24-hour rule for warrant request
 
 Your warrant should include the following:
 
-*         Suspect
-*         Charges
-*         Brief summary of the evidence proving the crime and identification of the suspect.
+* &#x20;       Suspect
+* &#x20;       Charges
+* &#x20;       Brief summary of the evidence proving the crime and identification of the suspect.
 
 ** **
 
@@ -292,9 +292,9 @@ Your warrant should include the following:
 
 If additional evidence is needed and the person is not willing to let the detective search their property, the detective will submit a search warrant request. The warrant will include:
 
-*         Location to be searched
-*         Property owner
-*         Scope of the search  - What you expect to find and why you expect to find it (Evidence).
+* &#x20;       Location to be searched
+* &#x20;       Property owner
+* &#x20;       Scope of the search  - What you expect to find and why you expect to find it (Evidence).
 
 ### **Priorities In game** <a href="soplawenforcement-prioritiesingame" id="soplawenforcement-prioritiesingame"></a>
 
@@ -352,7 +352,7 @@ Due to the fact that those buttons can have an All Call response to them, office
 
 Vehicle pursuits require coordination, and as such will constitute a priority on the channel allowing for communication of involved and attaching units.
 
-With this there are some rules that need to be followed, 
+With this there are some rules that need to be followed,&#x20;
 
 *
   * Do not self-attach to a pursuit, even if it passes you. Wait for dispatch, or units involved, to ask for backup.
@@ -360,7 +360,7 @@ With this there are some rules that need to be followed,
   * The secondary unit or Air One will give 10-20s (aka directions). Utilize your PLD on the screen to give updates to the current road and direction of travel.
   * Only the primary unit or a supervisor can request pursuit ending techniques such as roadblocks or spike strips. These are not to be deployed at will, and misuse will result in disciplinary action.
   * Always call for Air Support during a pursuit when available, as this makes LEO’s job far easier.
-  * If shots are fired during a pursuit, back off to a safe distance (100-200m) and follow safely. 
+  * If shots are fired during a pursuit, back off to a safe distance (100-200m) and follow safely.&#x20;
   * Do not utilize oncoming lanes unless absolutely necessary and the primary officer reserves the right to call off pursuits if it becomes too dangerous to LEO or civilian life.
   * If a pursuit gets too dangerous, the primary unit, a supervisor or Air One can call in tracking mode. This means that all units should reduce to code 1 and back off to a safe distance (500m - 800m).
 * **When an officer gets injured or is in a traffic collision, the last unit needs to break off and assist the injured officer.**

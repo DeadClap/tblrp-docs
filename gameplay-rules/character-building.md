@@ -27,9 +27,9 @@ Character traits help create a personality for whom you are playing, and help de
 
 **Character's Purpose**
 
-Have a real purpose for your character with a consistent or developing story. 
+Have a real purpose for your character with a consistent or developing story.&#x20;
 
-Example of what not to do: Have a single character who is simultaneously the CEO of a company and a homeless drug user. 
+Example of what not to do: Have a single character who is simultaneously the CEO of a company and a homeless drug user.&#x20;
 
 **Story**
 
@@ -40,7 +40,7 @@ Develop your character over time, start off with small things, whether your char
 {% endhint %}
 
 {% hint style="danger" %}
-`Subject Shitlord` goes and starts to run a dealership in Los Santos from the money he yoinked out his ass, he then starts to kill his customers if they have blonde hair, he eventually becomes a serial killer and then he also becomes a chef at a restaurant and poisons people, he robs shops and banks during his spare time and even robbed his own dealership. 
+`Subject Shitlord` goes and starts to run a dealership in Los Santos from the money he yoinked out his ass, he then starts to kill his customers if they have blonde hair, he eventually becomes a serial killer and then he also becomes a chef at a restaurant and poisons people, he robs shops and banks during his spare time and even robbed his own dealership.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}

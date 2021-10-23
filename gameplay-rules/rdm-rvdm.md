@@ -4,7 +4,7 @@ description: Random Deathmatching or Random Vehicle Deathmatching
 
 # RDM / RVDM
 
-Killing/running over a player for **no reason** randomly with **no intention to roleplaying the incident**. Prior interaction with a player and a **valid exchange** must be established before you can kill someone. Vehicle Deathmatching is only allowed if the other person **poses a threat** or has had a prior interaction with the player. 
+Killing/running over a player for **no reason** randomly with **no intention to roleplaying the incident**. Prior interaction with a player and a **valid exchange** must be established before you can kill someone. Vehicle Deathmatching is only allowed if the other person **poses a threat** or has had a prior interaction with the player.&#x20;
 
 Example of **RDM**:
 
@@ -20,6 +20,6 @@ Examples of what is **valid** interaction and exchange:
 
 Example of **RVDM:**
 
-{% hint style="success" %}
+{% hint style="danger" %}
 `Subject A` runs over `Subject B` in his Toyota Prius then drives off as nothing happened.
 {% endhint %}

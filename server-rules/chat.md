@@ -36,4 +36,4 @@ Do not use the colors for your entire chat message, only use it for highlighting
 
 **Private Information / "DOXing": **
 
-The disclosure of private or identifying information about another person without their consent is prohibited. 
+The disclosure of private or identifying information about another person without their consent is prohibited.&#x20;
