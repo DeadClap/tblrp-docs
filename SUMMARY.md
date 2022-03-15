@@ -4,6 +4,7 @@
 * [Disclaimer](disclaimer.md)
 * [Acronyms](acronyms.md)
 * [Penal Code](penal.md)
+* [Registration Process - First Join](registration-process-first-join.md)
 
 ## Gameplay Rules
 
