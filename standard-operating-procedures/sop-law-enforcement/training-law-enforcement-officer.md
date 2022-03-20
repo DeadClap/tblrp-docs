@@ -60,10 +60,9 @@ _Requirement:_
 * Ensure that RTO is followed at all times
 * Ensure they know how to do proper call outs ( Give them scenarios and tell them to do the call out for it.)
 * Do’s and Don'ts of comm traffic
-*
-  * No unnecessarily long transmissions, or long pauses.
-  * No fluff wording (Unnecessary info, ummm’s, ect.)
-  * Keep it Short and to the point with all relevant info.
+* No unnecessarily long transmissions, or long pauses.
+* No fluff wording (Unnecessary info, ummm’s, ect.)
+* Keep it Short and to the point with all relevant info.
 
 \
 \
@@ -74,20 +73,17 @@ _Requirement:_
 _Requirements:_
 
 * They are to be Kind, courteous, and professional at all times.
-*
-  * This includes reciting key things such as:
-  *
-    * Miranda Rights
-    * Anything on you that’s going to poke me, stick me or hurt me?
-* Higher expectations from now on, at all times, since they are trained they know better. (Even off duty, act accordingly. Remember you are a Civ off duty not a LEO)
-* What they can do (Take pictures, bag/collect certain evidence, get contact info, statements)
-* Basic scene contamination protection.
-* What they can’t do (Dust and lift prints/run prints, DNA, Interrogations, Breathilyzers, ect.) They can however call for the County to do it for them.
-* They can do interviews in the field, and at the station. They can’t offer plea deals, or payments etc. that fall under CIU. They can however bluff to get information.\
+* This includes reciting key things such as:
+  * Miranda Rights
+  * Anything on you that’s going to poke me, stick me or hurt me?
+  * Higher expectations from now on, at all times, since they are trained they know better. (Even off duty, act accordingly. Remember you are a Civ off duty not a LEO)
+  * What they can do (Take pictures, bag/collect certain evidence, get contact info, statements)
+  * Basic scene contamination protection.
+  * What they can’t do (Dust and lift prints/run prints, DNA, Interrogations, Breathilyzers, ect.) They can however call for the County to do it for them.
+  * They can do interviews in the field, and at the station. They can’t offer plea deals, or payments etc. that fall under CIU. They can however bluff to get information.\
   \
 
-*
-  * The basic difference here is that an interview is typically a less formal and accusatory conversation whose main point is to elicit information whereas an interrogation is formal and is mainly designed to get a suspect to confess.
+ * The basic difference here is that an interview is typically a less formal and accusatory conversation whose main point is to elicit information whereas an interrogation is formal and is mainly designed to get a suspect to confess.
 * In plain sight investigation/inquiry upon approach, active/passive policing, don’t tunnel vision, etc.
 * Understanding title 14
 * De Escalation not escalation
@@ -106,7 +102,6 @@ _Location _- **STEAM OVERLAY / FIELD**
 _Requirements: _
 
 * Starting Patrol:
-*
   * Arriving at LEO Station already dressed for duty, or creating an off duty version to drive in (on their own time). Link the MP creation video if they don’t know how yet: [https://www.youtube.com/watch?v=ATbl1j9Avg4](https://www.youtube.com/watch?v=ATbl1j9Avg4)
   * Once you are in Uniform and/or signed into that CAD you are considered on duty. Since you now represent your respective LEO departments.
   * Talk about RP gathering your equipment.
@@ -116,14 +111,11 @@ _Requirements: _
 * Understanding quick buttons, status, location, etc. Go over all of them and demonstrate.&#x20;
 * IN-game command list, show them how to get to it, and how to navigate it.
 * Proper use of Panic Button
-*
   * Dead officers can’t push buttons =(
   * Inform them of /panic and 10-99
   * 10-33 is now priority traffic, go over how to properly use it.
-  *
-    * Need to give location and identifiers.
+  * Need to give location and identifiers.
 * Ending Patrol:
-*
   * Driving to the station, deleting vehicles.
   * Setting self out-of-game / notifying Dispatch or channel
   * IRL Emergency procedures (Let SOMEONE quickly know)
@@ -140,7 +132,6 @@ _Requirements: _
 _Requirements_:
 
 * Proper Usage and restrictions of the M4 or Carbine (longarm)
-*
   * No full Auto (certain divisions can, with the right weapon)
   * Accuracy test (with a LEO car with its lights and sirens on during instruction)
 
@@ -159,7 +150,6 @@ Less than Lethal means less likely to kill a person however under certain circum
 * Give at least one warning, if they don’t comply they will be tased.
 * Call out Taser Taser when firing it.
 * Do **Not** tase someone Who is
-*
   * Near a ledge (once tased they can fall off)
   * On a ladder
   * Jumping or climbing over obstacles
@@ -173,7 +163,6 @@ Less than Lethal means less likely to kill a person however under certain circum
 
 
 * Bean Bag Shotgun (separate training NOT for normal LEO)
-*
   * Category: Less than Lethal Level 2
   * Clearly state and inform others that you are switching to a less than lethal.&#x20;
   * Give at least one warning, if they don’t comply they will be hit with a bag projectile.
@@ -192,7 +181,6 @@ Note - Bean bag rounds and tasers are used when a person is a danger to themselv
 _Requirements:_
 
 * Roadblocks are to be only used when requested by the primary unit in the pursuit, or the supervisor.
-*
   * One police Vehicle can only block one lane, multiple lanes require multiple vehicles.
   * Emergency Lights must be on.
   * Officer must be out of vehicle
@@ -200,7 +188,6 @@ _Requirements:_
   * Try to find hard cover
   * If you are, the tailing units form your own road blocks and box them in.
 * Spikestrips are to be only used when requested by the primary unit in the pursuit, or the supervisor in the pursuit. It is to be considered Lethal force.
-*
   * Consider all conditions before use, remember when you blow out the tires the person loses control of said vehicle. Try to minimize risk to all.
   * Cannot be used when there are hostages in the vehicle
   * Be mindful of other vehicles LEO, CIV, AI Don’t pop their tires.
@@ -218,7 +205,6 @@ _Location - _**ON AN ACTUAL ROAD WITH TRAFFIC**&#x20;
 _Requirements:_
 
 * Make sure they know how to do a basic setup of the radar system (Wraith ARS 2x) this should not take much longer the old way. This does not include UI, that they can do on their own time.
-*
   * [https://www.youtube.com/watch?v=B-6VD8pXNYE](https://www.youtube.com/watch?v=B-6VD8pXNYE)
 * This system allows speed tracking of two vehicles. Strong signals, and fast signals. Strong just means large vehicles like bus’s or trucks, and fast vehicles that are smaller/going faster. So people can’t dodge radar thinking they can whip in and out of large vehicles.
 * Num pad 7 locks and unlocks front ant, num pad 4 lock and unlocks rear ant.&#x20;
@@ -284,19 +270,15 @@ _Requirements:_
 * “Double Slant” technique for additional responding unit to high risk felony stops, all vehicles angled in the same direction to provide cover for driving in comparison to suspect. (Your engine block = Cover)&#x20;
 * Introduced to both Primary and secondary rolls, start with primary.
 * Recruit Understands and demonstrates proper commands.
-*
   * Driver, Lower your window. (wait for compliance repeat as needed) Driver place both of your hands on the outside of the door. (wait for compliance repeat as needed) Driver with your Left hand only, take the keys out of the ignition, and throw them out of the window, and place your hand back. (wait for compliance repeat as needed) Driver with your right hand, open the door from the outside. Step out and face away from me with your hands up. (wait for compliance, repeat as needed) Walk back to the sound of my voice. (give necessary instructions for subject to be just in front of primaries door, with enough room to work in)&#x20;
 * Can demonstrate proper handling of the suspect.
-*
   * Cuffs subject, takes them back to the driver side back panel for cover. Searches, then sticks them in the back of the patrol vehicle.
 * Be able to properly clear vehicle after suspect is in custody
-*
   * Avoid crossfire situations.
   * Use “2 man shoulder-to-shoulder” for clearing.
   * Not walking in front of the vehicle.
   * Repeat commands and processes for any additional person in the vehicle.
 * Recruit should learn the additional unit’s role.
-*
   * Lead in clearing the vehicle.
   * Responsible for calling in when they are on scene to begin priority RTO, and to call in when the felony stop is over, and to move their vehicle into the standard backup position.
 * All trainee’s must demonstrate and correctly perform all aspects of a high risk warrant takedown.
@@ -311,20 +293,16 @@ _Requirements:_
 
 * Explain Primary / Secondary / 3rd and so on and their roles.
 * Should be in control of the vehicle at all times during pursuit.
-*
   * Officer safety and the public's safety is paramount, call off the pursuit if too dangerous.
   * Use other resources to help maintain safety.
 * No PIT Maneuvers used in Aspirant Gaming
-*
   * Roadblocks, Spikes when the situation calls for it, and natural resolution via Civilian screwing up. If we don't teach it, they can't do it.
   * 10 minutes must pass prior to the use of officer initiated pursuit ending techniques (Spikes only).
 * Go over Codes, and their proper uses. (routine, expedited routine (Code 1), Code 2, Code 3).
 * Vehicle is on the road way and under good control
 * Explain why it's important to keep the vehicle on the ground.
-*
   * If the wheels don't touch the ground, then braking and turning isn’t going to happen.
 * Why do we pass on left, not right.
-*
   * When turning left, people use their turn signal, and look behind them instinctively, while they do not do so for when they are turning right.
 * Proper intersection clearing procedures. Explain Why
 * Extremely minimal damage to a vehicle (desync recognized)
@@ -341,14 +319,11 @@ _Location _- Have the Vehicle Pursuit end with a foot chase.  &#x20;
 _Requirements: _
 
 * Understands roles of weapons
-*
   * Force escalation, the force pyramid&#x20;
 * Understand how to properly end a foot chase safely.
-*
   * Don’t run blindly after the person(s) into an unknown, set up a perimeter then clear it.
 * Roleplay of getting tired, falling, or anything else that comes along, this includes officers as well as civilians.
 * Do not blindly run into areas (buildings or lots of places to hide) after a subject. It makes it too easy to kill or injure the officer.
-*
   * Call for more units to clear the area as a team. Set up a perimeter depending on the seriousness of the situation.
 * If you lose sight, call it out, immediately search the area, then call in BOLO if necessary.
 
@@ -359,7 +334,6 @@ _Requirements: _
 
 * In Game Commands
 * Hospital + Jail scripts
-*
   * Proper Jailing is required or discipline issued to officers performing arrest.
 * Penal Code (Read it! Have it up when patrolling!)
 * Players to AI is also a thing for Roleplay.
