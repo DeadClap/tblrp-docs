@@ -77,7 +77,7 @@ Requirements:
 
 Location - STEAM OVERLAY / FIELD
 
-Requirements: 
+Requirements:
 
 * Starting Patrol:
   * Arriving at LEO Station already dressed for duty, or creating an off duty version to drive in (on their own time). Link the MP creation video if they don’t know how yet: [https://www.youtube.com/watch?v=ATbl1j9Avg4](https://www.youtube.com/watch?v=ATbl1j9Avg4)
@@ -86,7 +86,7 @@ Requirements:
   * Spawning vehicle (crown Vics only for trainees, any for trainers just keep in mind their limitations).
   * How to set up the CAD/MDT in steam overlay.
   * Setting self in-game, checking BOLOs, AOP, etc.
-* Understanding quick buttons, status, location, etc. Go over all of them and demonstrate.&#x20;
+* Understanding quick buttons, status, location, etc. Go over all of them and demonstrate.
 * IN-game command list, show them how to get to it, and how to navigate it.
 * Proper use of Panic Button
   * Dead officers can’t push buttons =(
@@ -124,10 +124,9 @@ Less than Lethal means less likely to kill a person however under certain circum
   * On a elevated surface
   * Is known to have a pacemaker (They have stated they a pacemaker and it is proven(ed) or well known from previous encounters)
   * On a moving motorcycle
-
 * Bean Bag Shotgun (separate training NOT for normal LEO)
   * Category: Less than Lethal Level 2
-  * Clearly state and inform others that you are switching to a less than lethal.&#x20;
+  * Clearly state and inform others that you are switching to a less than lethal.
   * Give at least one warning, if they don’t comply they will be hit with a bag projectile.
   * Announce “Firing bean bags” so other units don’t mistake it as a lethal round.
   * Minimal usage ranges 10 feet unless extreme life or death reaction to a threat.
@@ -147,23 +146,23 @@ Requirements:
   * Officer should not be hiding behind their vehicle (they will squish you)
   * Try to find hard cover
   * If you are, the tailing units form your own road blocks and box them in.
-* Spikestrips are to be only used when requested by the primary unit in the pursuit, or the supervisor in the pursuit. It is to be considered Lethal force.
+* Spike strips are to be only used when requested by the primary unit in the pursuit, or the supervisor in the pursuit. It is to be considered Lethal force.
   * Consider all conditions before use, remember when you blow out the tires the person loses control of said vehicle. Try to minimize risk to all.
   * Cannot be used when there are hostages in the vehicle
   * Be mindful of other vehicles LEO, CIV, AI Don’t pop their tires.
   * Can not be used until 10 minutes after the pursuit.
-  * Utilizing subdivision assets when applicable.&#x20;
+  * Utilizing subdivision assets when applicable.
 
 ## Radar Use
 
-Location - ON AN ACTUAL ROAD WITH TRAFFIC;
+Location - **ON AN ACTUAL ROAD WITH TRAFFIC**
 
 Requirements:
 
 * Make sure they know how to do a basic setup of the radar system (Wraith ARS 2x) this should not take much longer the old way. This does not include UI, that they can do on their own time.
   * [https://www.youtube.com/watch?v=B-6VD8pXNYE](https://www.youtube.com/watch?v=B-6VD8pXNYE)
 * This system allows speed tracking of two vehicles. Strong signals, and fast signals. Strong just means large vehicles like bus’s or trucks, and fast vehicles that are smaller/going faster. So people can’t dodge radar thinking they can whip in and out of large vehicles.
-* Num pad 7 locks and unlocks front ant, num pad 4 lock and unlocks rear ant.&#x20;
+* Num pad 7 locks and unlocks front ant, num pad 4 lock and unlocks rear ant.
 * Num pad 9 to lock and unlock the front reader, and num pad 6 to lock and unlock the rear reader.
 * K key for small key set mode. Uses 1 2 3 4 in the order above instead of the num pad.
 * Key lock is “F5”
@@ -175,49 +174,49 @@ Requirements:
 * [https://www.youtube.com/watch?v=pwzqKYaJ7uQ](https://www.youtube.com/watch?v=pwzqKYaJ7uQ)
 * [https://wolfknight98.github.io/wkwars2xweb/manual.pdf](https://wolfknight98.github.io/wkwars2xweb/manual.pdf)
 
-Traffic Stop
+#### Traffic Stop
 
-Location - ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)
+Location - **ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)**
 
 Requirements:
 
 * Understanding the procedures of a traffic stop.
 * Proper angling of the Vehicle, and its tires and why it's important.
-* Always do a Licence Plate check and a NCIC check prior to making contact. (Ensure understanding)
-* Understands which precautions to take on traffic stop, deadmans ally, B-post cover ect.
+* Always do a License Plate check and a NCIC check prior to making contact. (Ensure understanding)
+* Understands which precautions to take on traffic stop, Deadman's ally, B-post cover etc.
 * Can use proper RTO during a traffic stop, keeping all transmissions short, and to the point.
 * RP opportunities, such as but not limited to “In plain view”
 * Back-up duties and responsibilities, night shift.
 * How to properly transport a subject to the station if needed. (Routine)
 * All trainee’s must demonstrate and correctly perform all aspects of a traffic stop.
 
-Low Risk Warrant Take Dow
+#### Low Risk Warrant Take Dow
 
-Location - ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)
+Location - **ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)**
 
 Requirements:
 
 * Starts the same as a normal Traffic Stop. Get their info, Confirm that this is their ID, with their name (Can you confirm the name on this ID for me sir?) or /me checks to see if the person matches the person in the picture. Need to be done for each individual.
-* Ensure that the person you are interacting with is in fact, the person with said warrant. (Check their ID.)&#x20;
+* Ensure that the person you are interacting with is in fact, the person with said warrant. (Check their ID.)
 * Recruit should understand when and how to call in for additional units. Backup unit is required. (234-S to dispatch, requesting backup for a Low Risk Take Down.)
 * Recruit can get suspects out of the vehicle calmly without incident through voluntary compliance, they can lie to get them out however that can escalate the situation so be prepared. The broken tail light is not the best way.
 * How to safely detain them once they are out. (You can perform a Terry frisk and use that to grab and cuff them).
 * Understanding how to transport and search suspect
-* /cuff [id] + /grab [id] + /release [id]
+* /cuff \[id] + /grab \[id] + /release \[id]
 * All trainee’s must demonstrate and correctly perform all aspects of a low risk warrant takedown.
 
-High Risk Warrant Take Down
+#### High Risk Warrant Take Down
 
-Location - ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)
+Location - **ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)**
 
 Requirements:
 
-* Understands when and how to do High Risk stops. Known or suspected for Felonious violent crimes (attempted murder, murder, etc.) Unregistered vehicle.&#x20;
+* Understands when and how to do High Risk stops. Known or suspected for Felonious violent crimes (attempted murder, murder, etc.) Unregistered vehicle.
 * Backup unit is required.
-* “Double Slant” technique for additional responding unit to high risk felony stops, all vehicles angled in the same direction to provide cover for driving in comparison to suspect. (Your engine block = Cover)&#x20;
+* “Double Slant” technique for additional responding unit to high risk felony stops, all vehicles angled in the same direction to provide cover for driving in comparison to suspect. (Your engine block = Cover)
 * Introduced to both Primary and secondary rolls, start with primary.
 * Recruit Understands and demonstrates proper commands.
-  * Driver, Lower your window. (wait for compliance repeat as needed) Driver place both of your hands on the outside of the door. (wait for compliance repeat as needed) Driver with your Left hand only, take the keys out of the ignition, and throw them out of the window, and place your hand back. (wait for compliance repeat as needed) Driver with your right hand, open the door from the outside. Step out and face away from me with your hands up. (wait for compliance, repeat as needed) Walk back to the sound of my voice. (give necessary instructions for subject to be just in front of primaries door, with enough room to work in)&#x20;
+  * Driver, Lower your window. (wait for compliance repeat as needed) Driver place both of your hands on the outside of the door. (wait for compliance repeat as needed) Driver with your Left hand only, take the keys out of the ignition, and throw them out of the window, and place your hand back. (wait for compliance repeat as needed) Driver with your right hand, open the door from the outside. Step out and face away from me with your hands up. (wait for compliance, repeat as needed) Walk back to the sound of my voice. (give necessary instructions for subject to be just in front of primaries door, with enough room to work in)
 * Can demonstrate proper handling of the suspect.
   * Cuffs subject, takes them back to the driver side back panel for cover. Searches, then sticks them in the back of the patrol vehicle.
 * Be able to properly clear vehicle after suspect is in custody
@@ -230,11 +229,11 @@ Requirements:
   * Responsible for calling in when they are on scene to begin priority RTO, and to call in when the felony stop is over, and to move their vehicle into the standard backup position.
 * All trainee’s must demonstrate and correctly perform all aspects of a high risk warrant takedown.
 
-Vehicle Pursuit 
+#### Vehicle Pursuit
 
-Location - City
+Location - **City**
 
-Note - This also doubles as the EVOC.&#x20;
+Note - This also doubles as the EVOC.
 
 Requirements:
 
@@ -256,14 +255,14 @@ Requirements:
 * Keep up with the vehicle in front of them. Is expedient.
 * Uses emergency lanes when needed.
 
-Foot Pursuit
+#### Foot Pursuit
 
-Location - Have the Vehicle Pursuit end with a foot chase.  &#x20;
+Location - Have the Vehicle Pursuit end with a foot chase.
 
 Requirements:
 
 * Understands roles of weapons
-  * Force escalation, the force pyramid&#x20;
+  * Force escalation, the force pyramid
 * Understand how to properly end a foot chase safely.
   * Don’t run blindly after the person(s) into an unknown, set up a perimeter then clear it.
 * Roleplay of getting tired, falling, or anything else that comes along, this includes officers as well as civilians.
@@ -271,7 +270,7 @@ Requirements:
   * Call for more units to clear the area as a team. Set up a perimeter depending on the seriousness of the situation.
 * If you lose sight, call it out, immediately search the area, then call in BOLO if necessary.
 
-Ending Notes
+## Ending Notes
 
 * In Game Commands
 * Hospital + Jail scripts
