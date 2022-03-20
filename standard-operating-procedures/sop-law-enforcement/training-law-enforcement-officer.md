@@ -19,9 +19,6 @@
   * “Y” key to turn it on, and limitations.
 * If they have already created a character that they wish to be LEO prior to training they need to use #ask-coc to start the process to have it corrected in the database. Or submit a name change through the CAD and the reason why. (Submitting a name change request will **NOT** get your character changed to LEO. This is only if you want to re-purpose the character.)
 
-\
-
-
 ## **LEO Equipment**
 
 _Requirement:_
@@ -46,10 +43,6 @@ _Requirement:_
 * Only TEU can administer field sobriety tests, this includes the breathalyzer.
   * An at-station breathalyzer can be used by officers if no TEU is on, or a blood draw at a hospital.
 
-\
-\
-
-
 ## **Comms/RTO**
 
 _Requirement:_
@@ -60,10 +53,6 @@ _Requirement:_
 * No unnecessarily long transmissions, or long pauses.
 * No fluff wording (Unnecessary info, ummm’s, ect.)
 * Keep it Short and to the point with all relevant info.
-
-\
-\
-
 
 ## **Officer Expectations**
 
@@ -77,9 +66,7 @@ _Requirements:_
   * What they can do (Take pictures, bag/collect certain evidence, get contact info, statements)
   * Basic scene contamination protection.
   * What they can’t do (Dust and lift prints/run prints, DNA, Interrogations, Breathilyzers, ect.) They can however call for the County to do it for them.
-  * They can do interviews in the field, and at the station. They can’t offer plea deals, or payments etc. that fall under CIU. They can however bluff to get information.\
-  \
-
+  * They can do interviews in the field, and at the station. They can’t offer plea deals, or payments etc. that fall under CIU. They can however bluff to get information.
  * The basic difference here is that an interview is typically a less formal and accusatory conversation whose main point is to elicit information whereas an interrogation is formal and is mainly designed to get a suspect to confess.
 * In plain sight investigation/inquiry upon approach, active/passive policing, don’t tunnel vision, etc.
 * Understanding title 14
@@ -87,10 +74,6 @@ _Requirements:_
 * The force continuum: [https://i.imgur.com/EBepNJ0.png](https://i.imgur.com/EBepNJ0.png)
 * Know the difference between probable cause vs. reasonable suspicion
 * If a person(s) are being arrested for (X) reason, tell them that they are under arrest, what they’re being charged with, read them their rights preferably before putting them in your vehicle. There are circumstances where it's not required. They however, do need to be searched before they are in the back of your vehicle.
-
-\
-\
-
 
 ## **Starting Patrol/Setup**
 
@@ -120,10 +103,6 @@ _Requirements: _
 * No more than four cars in a patrol (two people in one car is Car1 only a max of four is permitted)
 * (Ensure understanding)
 
-\
-\
-
-
 **Advance Weapons Training**
 
 _Requirements_:
@@ -132,21 +111,14 @@ _Requirements_:
   * No full Auto (certain divisions can, with the right weapon)
   * Accuracy test (with a LEO car with its lights and sirens on during instruction)
 
-\
-
-
 Less than Lethal means less likely to kill a person however under certain circumstances it will or can just as likely as a Lethal weapon.
 
-* **Taser**
-
-\
-
-
-* Category: Less than Lethal
-* Clearly state and inform others that you are switching to a taser/less than lethal.
-* Give at least one warning, if they don’t comply they will be tased.
-* Call out Taser Taser when firing it.
-* Do **Not** tase someone Who is
+* Taser
+  * Category: Less than Lethal
+  * Clearly state and inform others that you are switching to a taser/less than lethal.
+  * Give at least one warning, if they don’t comply they will be tased.
+  * Call out Taser Taser when firing it.
+  * Do **Not** tase someone Who is
   * Near a ledge (once tased they can fall off)
   * On a ladder
   * Jumping or climbing over obstacles
@@ -154,10 +126,6 @@ Less than Lethal means less likely to kill a person however under certain circum
   * On a elevated surface
   * Is known to have a pacemaker (They have stated they a pacemaker and it is proven(ed) or well known from previous encounters)
   * On a moving motorcycle
-
-\
-\
-
 
 * Bean Bag Shotgun (separate training NOT for normal LEO)
   * Category: Less than Lethal Level 2
