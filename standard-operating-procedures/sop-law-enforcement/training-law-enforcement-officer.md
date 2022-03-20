@@ -1,14 +1,12 @@
 # Training - Law Enforcement Officer
 
+Training Guide for LEO
 
-
-**Training Guide for LEO**
-
-**Purpose: **To standardize the training of new recruits to provide the best roleplaying experience for all members.
+Purpose: To standardize the training of new recruits to provide the best roleplaying experience for all members.
 
 (Ensure understanding): Ask why it's important, what does this mean etc. Ensure they fully understand. For all in all aspects of LEO training.
 
-**Pre-Training**
+Pre-Training
 
 * Recruit should be able to locate department specific SOP, Penal Code, and In-Game command list in Teamspeak 3 / CAD System.
 * Per SOP: Check Uniform compliance per department.
@@ -17,11 +15,11 @@
 * Per SOP: Equipment setup (equipment commands) They are not to change anything.
 * Go over LI-Dar
   * “Y” key to turn it on, and limitations.
-* If they have already created a character that they wish to be LEO prior to training they need to use #ask-coc to start the process to have it corrected in the database. Or submit a name change through the CAD and the reason why. (Submitting a name change request will **NOT** get your character changed to LEO. This is only if you want to re-purpose the character.)
+* If they have already created a character that they wish to be LEO prior to training they need to use #ask-coc to start the process to have it corrected in the database. Or submit a name change through the CAD and the reason why. (Submitting a name change request will NOT get your character changed to LEO. This is only if you want to re-purpose the character.)
 
-## **LEO Equipment**
+## LEO Equipment
 
-_Requirement:_
+Requirement:
 
 * Go over what equipment they have in their vehicle and person.
 * Outside of their normal loadout they have and go over usage.
@@ -43,9 +41,9 @@ _Requirement:_
 * Only TEU can administer field sobriety tests, this includes the breathalyzer.
   * An at-station breathalyzer can be used by officers if no TEU is on, or a blood draw at a hospital.
 
-## **Comms/RTO**
+## Comms/RTO
 
-_Requirement:_
+Requirement:
 
 * Ensure that RTO is followed at all times
 * Ensure they know how to do proper call outs ( Give them scenarios and tell them to do the call out for it.)
@@ -54,9 +52,9 @@ _Requirement:_
 * No fluff wording (Unnecessary info, ummm’s, ect.)
 * Keep it Short and to the point with all relevant info.
 
-## **Officer Expectations**
+## Officer Expectations
 
-_Requirements:_
+Requirements:
 
 * They are to be Kind, courteous, and professional at all times.
 * This includes reciting key things such as:
@@ -67,19 +65,19 @@ _Requirements:_
   * Basic scene contamination protection.
   * What they can’t do (Dust and lift prints/run prints, DNA, Interrogations, Breathilyzers, ect.) They can however call for the County to do it for them.
   * They can do interviews in the field, and at the station. They can’t offer plea deals, or payments etc. that fall under CIU. They can however bluff to get information.
- * The basic difference here is that an interview is typically a less formal and accusatory conversation whose main point is to elicit information whereas an interrogation is formal and is mainly designed to get a suspect to confess.
-* In plain sight investigation/inquiry upon approach, active/passive policing, don’t tunnel vision, etc.
-* Understanding title 14
-* De Escalation not escalation
-* The force continuum: [https://i.imgur.com/EBepNJ0.png](https://i.imgur.com/EBepNJ0.png)
-* Know the difference between probable cause vs. reasonable suspicion
-* If a person(s) are being arrested for (X) reason, tell them that they are under arrest, what they’re being charged with, read them their rights preferably before putting them in your vehicle. There are circumstances where it's not required. They however, do need to be searched before they are in the back of your vehicle.
+  * The basic difference here is that an interview is typically a less formal and accusatory conversation whose main point is to elicit information whereas an interrogation is formal and is mainly designed to get a suspect to confess.
+  * In plain sight investigation/inquiry upon approach, active/passive policing, don’t tunnel vision, etc.
+  * Understanding title 14
+  * De Escalation not escalation
+  * The force continuum: [https://i.imgur.com/EBepNJ0.png](https://i.imgur.com/EBepNJ0.png)
+  * Know the difference between probable cause vs. reasonable suspicion
+  * If a person(s) are being arrested for (X) reason, tell them that they are under arrest, what they’re being charged with, read them their rights preferably before putting them in your vehicle. There are circumstances where it's not required. They however, do need to be searched before they are in the back of your vehicle.
 
-## **Starting Patrol/Setup**
+## Starting Patrol/Setup
 
-_Location _- **STEAM OVERLAY / FIELD**
+Location - STEAM OVERLAY / FIELD
 
-_Requirements: _
+Requirements: 
 
 * Starting Patrol:
   * Arriving at LEO Station already dressed for duty, or creating an off duty version to drive in (on their own time). Link the MP creation video if they don’t know how yet: [https://www.youtube.com/watch?v=ATbl1j9Avg4](https://www.youtube.com/watch?v=ATbl1j9Avg4)
@@ -103,9 +101,9 @@ _Requirements: _
 * No more than four cars in a patrol (two people in one car is Car1 only a max of four is permitted)
 * (Ensure understanding)
 
-**Advance Weapons Training**
+## Advanced Weapons Training
 
-_Requirements_:
+Requirements:
 
 * Proper Usage and restrictions of the M4 or Carbine (longarm)
   * No full Auto (certain divisions can, with the right weapon)
@@ -118,7 +116,7 @@ Less than Lethal means less likely to kill a person however under certain circum
   * Clearly state and inform others that you are switching to a taser/less than lethal.
   * Give at least one warning, if they don’t comply they will be tased.
   * Call out Taser Taser when firing it.
-  * Do **Not** tase someone Who is
+  * Do Not tase someone Who is
   * Near a ledge (once tased they can fall off)
   * On a ladder
   * Jumping or climbing over obstacles
@@ -134,16 +132,13 @@ Less than Lethal means less likely to kill a person however under certain circum
   * Announce “Firing bean bags” so other units don’t mistake it as a lethal round.
   * Minimal usage ranges 10 feet unless extreme life or death reaction to a threat.
   * Do NOT aim for the head, neck, groin, directly over the heart, Or abdomen, this can cause grievous bodily harm or death.
-  * Shooting the hands is not recommended but is allowed, just remember it **WIll** break their hands.
+  * Shooting the hands is not recommended but is allowed, just remember it WIll break their hands.
 
-Note - Bean bag rounds and tasers are used when a person is a danger to themselves or others but is not a direct threat in such a manner that deadly force would be appropriate – typically a suicidal individual with a bladed weapon. They are _**intended**_ to disable the person without killing them.
+Note - Bean bag rounds and tasers are used when a person is a danger to themselves or others but is not a direct threat in such a manner that deadly force would be appropriate – typically a suicidal individual with a bladed weapon. They are intended to disable the person without killing them.
 
-\
+## Advanced Techniques
 
-
-**Advanced Techniques**
-
-_Requirements:_
+Requirements:
 
 * Roadblocks are to be only used when requested by the primary unit in the pursuit, or the supervisor.
   * One police Vehicle can only block one lane, multiple lanes require multiple vehicles.
@@ -157,17 +152,13 @@ _Requirements:_
   * Cannot be used when there are hostages in the vehicle
   * Be mindful of other vehicles LEO, CIV, AI Don’t pop their tires.
   * Can not be used until 10 minutes after the pursuit.
-* Utilizing subdivision assets when applicable.&#x20;
+  * Utilizing subdivision assets when applicable.&#x20;
 
-\
-\
+## Radar Use
 
+Location - ON AN ACTUAL ROAD WITH TRAFFIC;
 
-## **Radar Use**
-
-_Location - _**ON AN ACTUAL ROAD WITH TRAFFIC**&#x20;
-
-_Requirements:_
+Requirements:
 
 * Make sure they know how to do a basic setup of the radar system (Wraith ARS 2x) this should not take much longer the old way. This does not include UI, that they can do on their own time.
   * [https://www.youtube.com/watch?v=B-6VD8pXNYE](https://www.youtube.com/watch?v=B-6VD8pXNYE)
@@ -182,16 +173,13 @@ _Requirements:_
 * PLt AUd or plate audio, the voice that tells you you are locked into a plate. loudness 1 lowest: 5 highest.
 * Units MPH or KPH
 * [https://www.youtube.com/watch?v=pwzqKYaJ7uQ](https://www.youtube.com/watch?v=pwzqKYaJ7uQ)
-* [https://wolfknight98.github.io/wk\_wars2x\_web/manual.pdf](https://wolfknight98.github.io/wk\_wars2x\_web/manual.pdf)
+* [https://wolfknight98.github.io/wkwars2xweb/manual.pdf](https://wolfknight98.github.io/wkwars2xweb/manual.pdf)
 
-\
+Traffic Stop
 
+Location - ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)
 
-**Traffic Stop **
-
-_Location _- **ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)**
-
-_Requirements:_
+Requirements:
 
 * Understanding the procedures of a traffic stop.
 * Proper angling of the Vehicle, and its tires and why it's important.
@@ -203,14 +191,11 @@ _Requirements:_
 * How to properly transport a subject to the station if needed. (Routine)
 * All trainee’s must demonstrate and correctly perform all aspects of a traffic stop.
 
-\
+Low Risk Warrant Take Dow
 
+Location - ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)
 
-**Low Risk Warrant Take Down **
-
-_Location _- **ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)**
-
-_Requirements: _
+Requirements:
 
 * Starts the same as a normal Traffic Stop. Get their info, Confirm that this is their ID, with their name (Can you confirm the name on this ID for me sir?) or /me checks to see if the person matches the person in the picture. Need to be done for each individual.
 * Ensure that the person you are interacting with is in fact, the person with said warrant. (Check their ID.)&#x20;
@@ -218,17 +203,14 @@ _Requirements: _
 * Recruit can get suspects out of the vehicle calmly without incident through voluntary compliance, they can lie to get them out however that can escalate the situation so be prepared. The broken tail light is not the best way.
 * How to safely detain them once they are out. (You can perform a Terry frisk and use that to grab and cuff them).
 * Understanding how to transport and search suspect
-* /cuff \[id] + /grab \[id] + /release \[id]
+* /cuff [id] + /grab [id] + /release [id]
 * All trainee’s must demonstrate and correctly perform all aspects of a low risk warrant takedown.
 
-\
+High Risk Warrant Take Down
 
+Location - ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)
 
-**High Risk Warrant Take Down **
-
-_Location _- **ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)**
-
-_Requirements:_
+Requirements:
 
 * Understands when and how to do High Risk stops. Known or suspected for Felonious violent crimes (attempted murder, murder, etc.) Unregistered vehicle.&#x20;
 * Backup unit is required.
@@ -248,13 +230,13 @@ _Requirements:_
   * Responsible for calling in when they are on scene to begin priority RTO, and to call in when the felony stop is over, and to move their vehicle into the standard backup position.
 * All trainee’s must demonstrate and correctly perform all aspects of a high risk warrant takedown.
 
-**Vehicle Pursuit **
+Vehicle Pursuit 
 
-_Location _- City
+Location - City
 
 Note - This also doubles as the EVOC.&#x20;
 
-_Requirements:_
+Requirements:
 
 * Explain Primary / Secondary / 3rd and so on and their roles.
 * Should be in control of the vehicle at all times during pursuit.
@@ -274,14 +256,11 @@ _Requirements:_
 * Keep up with the vehicle in front of them. Is expedient.
 * Uses emergency lanes when needed.
 
-\
+Foot Pursuit
 
+Location - Have the Vehicle Pursuit end with a foot chase.  &#x20;
 
-**Foot Pursuit **
-
-_Location _- Have the Vehicle Pursuit end with a foot chase.  &#x20;
-
-_Requirements: _
+Requirements:
 
 * Understands roles of weapons
   * Force escalation, the force pyramid&#x20;
@@ -292,10 +271,7 @@ _Requirements: _
   * Call for more units to clear the area as a team. Set up a perimeter depending on the seriousness of the situation.
 * If you lose sight, call it out, immediately search the area, then call in BOLO if necessary.
 
-\
-
-
-**Ending Notes**
+Ending Notes
 
 * In Game Commands
 * Hospital + Jail scripts
@@ -306,10 +282,7 @@ _Requirements: _
 * Question Time!
 * Congratulate recruit on passing/Correct any failings
 
-\
-
-
-**IF PASS:**
+IF PASS:
 
 * Log the training completion. [Click](https://forms.gle/s3fG5qB1pbdLA1bB9)
 * Ensure trainee is given proper CAD access to LEO
