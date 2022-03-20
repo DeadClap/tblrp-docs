@@ -16,7 +16,6 @@
 * Go over Livery commands, and inform them they are not permitted to change any part of it.
 * Per SOP: Equipment setup (equipment commands) They are not to change anything.
 * Go over LI-Dar
-*
   * “Y” key to turn it on, and limitations.
 * If they have already created a character that they wish to be LEO prior to training they need to use #ask-coc to start the process to have it corrected in the database. Or submit a name change through the CAD and the reason why. (Submitting a name change request will **NOT** get your character changed to LEO. This is only if you want to re-purpose the character.)
 
@@ -29,7 +28,6 @@ _Requirement:_
 
 * Go over what equipment they have in their vehicle and person.
 * Outside of their normal loadout they have and go over usage.
-*
   * First Aid Kit
   * Fire Extinguisher
   * Prybar
@@ -46,7 +44,6 @@ _Requirement:_
   * High Visibility Vest - for traffic control.
   * Extra equipment such as batteries, cable ties, tape, and hand sanitizer.
 * Only TEU can administer field sobriety tests, this includes the breathalyzer.
-*
   * An at-station breathalyzer can be used by officers if no TEU is on, or a blood draw at a hospital.
 
 \
