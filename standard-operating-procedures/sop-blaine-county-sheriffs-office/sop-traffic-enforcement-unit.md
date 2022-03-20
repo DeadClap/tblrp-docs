@@ -1,6 +1,6 @@
 # SOP - Traffic Enforcement Unit
 
-![](../.gitbook/assets/0)
+![](../../.gitbook/assets/0)
 
 > Version 1.00 (Last Updated 00/00/2022)
 
@@ -47,7 +47,7 @@ The purpose of the training is to make sure all Deputys in this division are ful
 
 #### **1.1 Driving Course:**
 
-![](../.gitbook/assets/1)
+![](../../.gitbook/assets/1)
 
 **Aspects You Will Be Graded On:**
 
@@ -90,7 +90,7 @@ The TED Recruit must show an understanding of how to pursue a subject in a safe 
 
 #### **1.7.1 Motor Bike Unit (MBU)**
 
-****![](../.gitbook/assets/2)
+****![](../../.gitbook/assets/2)
 
 The TED Recruit must show the ability to maintain control of the motorcycle at high speeds and show you can clear intersections correctly and safely. You cannot crash the motorcycle at any time or hit any vehicle on the roadway. Remember while riding you must stay aware of your surroundings. That includes what is behind you as well.
 
@@ -121,7 +121,7 @@ All TED Deputies will use the standard weapon loadout of a regular BCSO Deputy.
 
 #### **2.2 Uniform Structure**
 
-****![](../.gitbook/assets/3)
+****![](../../.gitbook/assets/3)
 
 BCSO Fluro Polo
 
@@ -129,7 +129,7 @@ You can find in /eup
 
 BCSO Fluro Jacket
 
-![](../.gitbook/assets/4)
+![](../../.gitbook/assets/4)
 
 You can find in /eup
 

@@ -35,4 +35,5 @@
 * [SOP - Law Enforcement](standard-operating-procedures/sop-law-enforcement/README.md)
   * [Rolling Road Block - APET](standard-operating-procedures/sop-law-enforcement/rolling-road-block-apet.md)
   * [Training - Law Enforcement Officer](standard-operating-procedures/sop-law-enforcement/training-law-enforcement-officer.md)
-* [SOP - Traffic Enforcement Unit](standard-operating-procedures/sop-traffic-enforcement-unit.md)
+* [SOP - Blaine County Sheriff's Office](standard-operating-procedures/sop-blaine-county-sheriffs-office/README.md)
+  * [SOP - Traffic Enforcement Unit](standard-operating-procedures/sop-blaine-county-sheriffs-office/sop-traffic-enforcement-unit.md)
