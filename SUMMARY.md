@@ -35,3 +35,4 @@
 * [SOP - Law Enforcement](standard-operating-procedures/sop-law-enforcement/README.md)
   * [Rolling Road Block - APET](standard-operating-procedures/sop-law-enforcement/rolling-road-block-apet.md)
   * [Training - Law Enforcement Officer](standard-operating-procedures/sop-law-enforcement/training-law-enforcement-officer.md)
+* [SOP - Traffic Enforcement Unit](standard-operating-procedures/sop-traffic-enforcement-unit.md)
