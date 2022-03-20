@@ -174,7 +174,7 @@ Requirements:
 * [https://www.youtube.com/watch?v=pwzqKYaJ7uQ](https://www.youtube.com/watch?v=pwzqKYaJ7uQ)
 * [https://wolfknight98.github.io/wkwars2xweb/manual.pdf](https://wolfknight98.github.io/wkwars2xweb/manual.pdf)
 
-#### Traffic Stop
+### Traffic Stop
 
 Location - **ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)**
 
@@ -190,7 +190,7 @@ Requirements:
 * How to properly transport a subject to the station if needed. (Routine)
 * All trainee’s must demonstrate and correctly perform all aspects of a traffic stop.
 
-#### Low Risk Warrant Take Dow
+### Low Risk Warrant Take Dow
 
 Location - **ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)**
 
@@ -205,7 +205,7 @@ Requirements:
 * /cuff \[id] + /grab \[id] + /release \[id]
 * All trainee’s must demonstrate and correctly perform all aspects of a low risk warrant takedown.
 
-#### High Risk Warrant Take Down
+### High Risk Warrant Take Down
 
 Location - **ON AN ACTUAL ROAD WITH TRAFFIC (Somewhere in the city)**
 
@@ -229,7 +229,7 @@ Requirements:
   * Responsible for calling in when they are on scene to begin priority RTO, and to call in when the felony stop is over, and to move their vehicle into the standard backup position.
 * All trainee’s must demonstrate and correctly perform all aspects of a high risk warrant takedown.
 
-#### Vehicle Pursuit
+### Vehicle Pursuit
 
 Location - **City**
 
@@ -255,7 +255,7 @@ Requirements:
 * Keep up with the vehicle in front of them. Is expedient.
 * Uses emergency lanes when needed.
 
-#### Foot Pursuit
+### Foot Pursuit
 
 Location - Have the Vehicle Pursuit end with a foot chase.
 
