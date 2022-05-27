@@ -153,4 +153,18 @@ Dignitary Protection requests are made to a BCSO Lieutenant and up the CoC. Also
 
 #### 3.2 Traffic Collisions
 
-TEU units' main focus on motor vehicle accidents (MVA) is to keep the scene safe from any other threats. That could be executed by blocking the road to stop traffic to keep the scene secured. Also, if on scene before fire does TEU units like BCSO deputies are to help aid victims.   TEU units are also responsible to investigate or aid in the investigation.
+TEU units' main focus on motor vehicle accidents (MVA) is to keep the scene safe from any other threats. That could be executed by blocking the road to stop traffic to keep the scene secured. Also, if on scene before fire does. TEU units like BCSO deputies are to help aid victims.   TEU units are also responsible to investigate or aid in the investigation.
+
+#### 3.3 DUI Enforcement
+
+TEU units are also responsible for DUI enforcement. They should be called for any DUI related scenes to assist at the scene to breathalyze suspects and assist in the investigation.
+
+#### 3.4 DUI Checkpoints
+
+TEU units are also responsible for conducting DUI checkpoints. One way to do that is to set up DUI checkpoints. Checkpoints are often set up late at night or in the very early morning hours and on weekends, and on holidays associated with parties at which time the proportion of impaired drivers tends to be the highest. Checkpoints are also often set near the exit points of public events where people have been drinking to prevent large numbers of drunk drivers from being released into traffic simultaneously from the event. Checkpoints must be coordinated with a patrol supervisor.
+
+#### 3.5 Speed Enforcement
+
+
+
+###
