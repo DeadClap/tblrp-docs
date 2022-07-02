@@ -1,16 +1,16 @@
 # SOP - Traffic Enforcement Unit
 
-![](../../.gitbook/assets/0)
+![](../../.gitbook/assets/c8BCSOwithlogo.png)
 
-> Version 1.00 (Last Updated 00/00/2022)
+> Version 1.00 (Last Updated 05/27/2022)
 
-{% hint style="warning" %}
-**NOT FINAL COPY**
+{% hint style="success" %}
+**1.00 Final Copy**
 {% endhint %}
 
 ### Enrollment Requirements into TEU
 
-* Must be a Deputy II or higher. Reserves permitted.
+* Must be a Deputy III or higher. Reserves permitted.
 * Must be in good standing within TBLRP (No Points).
 * Must be in good standing with the department.
 * Must be active and well-mannered in patrols.
@@ -43,7 +43,7 @@ The initial rank for all TEU Deputies . Once this Deputy has proved their compet
 
 **Training Overview:**
 
-The purpose of the training is to make sure all Depuies in this division are fully prepared for what they will and might encounter in the field. This training will compose of tactical driving, tactical pursuits skills, DUI Training, and general traffic enforcement.
+The purpose of the training is to make sure all Deputies in this division are fully prepared for what they will and might encounter in the field. This training will compose of tactical driving, tactical pursuits skills, DUI Training, and general traffic enforcement.
 
 #### **1.1 Driving Course:**
 
@@ -157,7 +157,7 @@ TEU units' main focus on motor vehicle accidents (MVA) is to keep the scene safe
 
 #### 3.3 DUI Enforcement
 
-TEU units are also responsible for DUI enforcement. They should be called for any DUI related scenes to assist at the scene to breathalyze suspects and assist in the investigation.
+TEU units are also responsible for DUI enforcement. They should be called for any DUI-related scenes to assist at the scene to breathalyze suspects and assist in the investigation.
 
 #### 3.4 DUI Checkpoints
 
@@ -165,6 +165,14 @@ TEU units are also responsible for conducting DUI checkpoints. One way to do tha
 
 #### 3.5 Speed Enforcement
 
+A speed trap consists of one TEU Deputy, or more, or a TEU Deputy, and a group of regular Deputies as chase vehicles. The responsibility of the primary TEU Deputy is to take up a hidden position near busy roadways in order to effectively radar excessive speeders and reckless drivers.
 
+The primary TEU Deputy will call out speeding or reckless drivers to chase units in the area. While the TEU Deputy can initiate the traffic stop, it's encouraged to continue monitoring the roadway if you have extra chase resources available – in order to catch multiple offenders.
+
+#### 3.6 Pursuits
+
+When active in patrol, a TEU Deputy is meant to be the primary unit on all vehicle pursuits when available. While in pursuit of standard vehicles, Motor Units must travel at the end of the pursuit. Motor Units, however, should be taking primary on all motorcycle pursuits (over regular TEU units). The point that a pit is requested and approved a unit with a push bar should take over primary to execute the pit.
+
+####
 
 ###

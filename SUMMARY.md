@@ -37,3 +37,4 @@
   * [Training - Law Enforcement Officer](standard-operating-procedures/sop-law-enforcement/training-law-enforcement-officer.md)
 * [SOP - Blaine County Sheriff's Office](standard-operating-procedures/sop-blaine-county-sheriffs-office/README.md)
   * [SOP - Traffic Enforcement Unit](standard-operating-procedures/sop-blaine-county-sheriffs-office/sop-traffic-enforcement-unit.md)
+  * [SOP - Fish And Game Warden](standard-operating-procedures/sop-blaine-county-sheriffs-office/sop-fish-and-game-warden.md)
