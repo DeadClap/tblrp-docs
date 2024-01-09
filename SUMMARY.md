@@ -38,3 +38,4 @@
 * [SOP - Blaine County Sheriff's Office](standard-operating-procedures/sop-blaine-county-sheriffs-office/README.md)
   * [SOP - Traffic Enforcement Unit](standard-operating-procedures/sop-blaine-county-sheriffs-office/sop-traffic-enforcement-unit.md)
   * [SOP - Fish And Game Warden](standard-operating-procedures/sop-blaine-county-sheriffs-office/sop-fish-and-game-warden.md)
+* [SOP - Department of Public Safety](standard-operating-procedures/sop-department-of-public-safety.md)
