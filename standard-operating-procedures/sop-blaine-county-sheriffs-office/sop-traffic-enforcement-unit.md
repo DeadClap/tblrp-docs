@@ -155,6 +155,18 @@ Dignitary Protection requests are made to a BCSO Lieutenant and up the CoC. Also
 
 TEU units' main focus on motor vehicle accidents (MVA) is to keep the scene safe from any other threats. That could be executed by blocking the road to stop traffic to keep the scene secured. Also, if on scene before fire does. TEU units like BCSO deputies are to help aid victims.   TEU units are also responsible to investigate or aid in the investigation.
 
+#### 3.3 DUI Checkpoints and Enforcement
+
+At the root of keeping the public, DUI checkpoints are essential in preventing irresponsible drivers from injuring or potentially taking the lives of themselves or citizens around them. Checkpoints are often set up late at night or in the very early morning hours and on weekends, and on holidays associated with parties at which time the proportion of impaired drivers tends to be the highest. Checkpoints are also often set near the exit points of public events where people have been drinking to prevent large numbers of drunk drivers from being released into traffic simultaneously from the event. To conduct a DUI Checkpoint you must have 4 TEU units.&#x20;
+
+Traffic Enforcement Deputies, when available, will be the primary units responsible for handling DUI drivers on scenes.
+
+#### 3.4 Speed Traps
+
+A speed trap consists of one TEU Deputies, or more, or a TEU Deputies, and a group of regular Deputies as chase vehicles. The responsibility of the primary TEU Deputies is to take up a hidden position near busy roadways in order to effectively radar excessive speeders and reckless drivers.
+
+The primary TEU Deputy will call out speeding or reckless drivers to chase units in the area. While the TEU Deputies can initiate the traffic stop, it's encouraged to continue monitoring the roadway if you have extra chase resources available – in order to catch multiple offenders.
+
 #### 3.3 DUI Enforcement
 
 TEU units are also responsible for DUI enforcement. They should be called for any DUI-related scenes to assist at the scene to breathalyze suspects and assist in the investigation.
