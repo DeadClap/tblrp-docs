@@ -26,13 +26,11 @@ During winter, we mandate long sleeves for all officers (or winter jackets) that
 
 Note: See your department’s Uniform Structure in CAD or through Gitbooks for details.
 
-
-
 **You are not to drive any law enforcement vehicle when off duty, unless you are a detective (unmarked) or other subdivision that are permitted take home cars.**\
 \
 **Each Department has specific requirements for vehicles from plate, to lighting setup/window tint, refer to your department uniform structure to find this information.**
 
-### **Vehicle Equipment **
+### \*\*Vehicle Equipment \*\*
 
 All law enforcement vehicles contain the following equipment for use during your duty:
 
@@ -52,9 +50,7 @@ All law enforcement vehicles contain the following equipment for use during your
 * High Visibility Vest - For Traffic Control
 * Extra Equipment such as batteries, cable ties, tape and hand sanitizer
 
-
-
-### **Personal Equipment** <a href="soplawenforcement-personalequipment" id="soplawenforcement-personalequipment"></a>
+### **Personal Equipment** <a href="#soplawenforcement-personalequipment" id="soplawenforcement-personalequipment"></a>
 
 All law enforcement personnel have the following items for use during their duty:
 
@@ -70,9 +66,7 @@ All law enforcement personnel have the following items for use during their duty
 * Pens
 * Notebook
 
-
-
-### **Weapons** <a href="soplawenforcement-weapons" id="soplawenforcement-weapons"></a>
+### **Weapons** <a href="#soplawenforcement-weapons" id="soplawenforcement-weapons"></a>
 
 All officers are equipped with a number of standard duty loadouts. These can be accessed by using standard commands in the text command line by pressing T and typing the spawn identifiers. Typing /clear removes your weapon loadout.
 
@@ -84,21 +78,18 @@ They are as follows:
 * Pump Shotgun W/ Torch
 * Mk II Carbine Rifle W/ Torch, Grip and any scope of the officer’s choice.(LEO1) Carbine Rifle W/ Torch, Grip (LEO2)
 
+### **Electronic Restraint Devices - Taser** <a href="#soplawenforcement-electronicrestraintdevices-taser" id="soplawenforcement-electronicrestraintdevices-taser"></a>
 
-
-### **Electronic Restraint Devices - Taser** <a href="soplawenforcement-electronicrestraintdevices-taser" id="soplawenforcement-electronicrestraintdevices-taser"></a>
-
-Officers on duty  carry taser devices with two cartridges. This tool is considered less than lethal but not entirely non lethal due to inherent risks to health, location of prong strike, and the situation the subject is in.\
-\
-
+Officers on duty carry taser devices with two cartridges. This tool is considered less than lethal but not entirely non lethal due to inherent risks to health, location of prong strike, and the situation the subject is in.\
+\\
 
 * When preparing to tase a subject, officers should issue a warning to the effect of “If you do not comply, I will tase you.”
-* When a taser is deployed, officers should where possible declare ‘taser taser taser’ before firing.&#x20;
+* When a taser is deployed, officers should where possible declare ‘taser taser taser’ before firing.
 * No subject should be tased on ladders, vehicles, edges of rooftops (or when running/walking towards an edge) or near slopes or drops.
 * Tasers should not be deployed on persons standing in water above ankle height, Any person tased in water of any sort should be actively removed from this drowning risk as soon as possible for their own safety. It is however preferable to tase subjects away from water where possible.
 * Due to the limitation on cartridges you carry, tasers should be preferentially used as a compliance tool, not the first method of stopping foot pursuits. Tasers provide us with a vital tool that allows us to disarm subjects with edged or blunt weapons without using lethal force; it is ideal to save your cartridges for these cases where a life might be saved rather than someone running. Tackling is a favored option for these cases.
 
-### **Unit Number Designations** <a href="soplawenforcement-unitnumberdesignations" id="soplawenforcement-unitnumberdesignations"></a>
+### **Unit Number Designations** <a href="#soplawenforcement-unitnumberdesignations" id="soplawenforcement-unitnumberdesignations"></a>
 
 These Designators will be used in your name in TeamSpeak when in patrol as Emergency Services as a prefix. (Eg: DL-DDD) To allow other units, civilians, and dispatch to know unit availability.
 
@@ -124,11 +115,10 @@ These Designators will be used in your name in TeamSpeak when in patrol as Emerg
 | **Y**  | **YOUNG**   | **YANKEE**  | State Police                                         |
 | **Z**  | **ZULU**    | **ZULU**    | Special Weapons and Tactics                          |
 
-### **Sub Divisions** <a href="soplawenforcement-subdivisions" id="soplawenforcement-subdivisions"></a>
+### **Sub Divisions** <a href="#soplawenforcement-subdivisions" id="soplawenforcement-subdivisions"></a>
 
 Sub Divisions are additional or complementary specialist units for law enforcement that provide expert assistance to patrol officers. These are open to join for any qualified LEO members without current active disciplinary action against them.\
-\
-
+\\
 
 At this time they include:
 
@@ -152,16 +142,13 @@ At this time they include:
 | **SEU \*\*** | Speed Enforcement Unit                            | Speed enforcement specialists                                      |
 
 \
-\
-
+\\
 
 When specialist tools are needed, it is required to call for Sub Division assets. For example, TEU Would be called in for traffic accidents and intoxicated drivers. CIU would be called in for serious crime investigation and negotiation.\
 \
 \*\* Speed Enforcement Unit is technically a subdivision; however, members are selected by each department’s chain of command as a reward for performance and respond to regular calls for service alongside other officers.
 
-
-
-### **Use of Force** <a href="soplawenforcement-useofforce" id="soplawenforcement-useofforce"></a>
+### **Use of Force** <a href="#soplawenforcement-useofforce" id="soplawenforcement-useofforce"></a>
 
 Force is a complex subject within Law Enforcement and a critical one to understand.
 
@@ -173,8 +160,7 @@ For example, shooting someone is in most cases, not an appropriate use of force 
 
 The most simple way to explain force is via a process of escalation.
 
-\
-
+\\
 
 If a subject has bare fists, Utilize your hands or baton.
 
@@ -182,8 +168,7 @@ If they have a bladed weapon, and you have a cover officer with a lethal weapon,
 
 **(If you are alone and facing someone with a Melee/bladed weapon, utilize lethal force.)**
 
-\
-
+\\
 
 At all times when facing a subject with a melee weapon, attempt to maintain a distance of roughly 30ft (10m) this allows reaction time to safely stop the subject should they attempt to reach you.
 
@@ -195,12 +180,9 @@ At all times, we should be communicating with the suspect, and potentially warni
 
 Commands such as “Stop resisting.” or “If you do not stop resisting I may have to use force.” can be utilized to gain compliance.
 
-\
-
+\\
 
 **Note, that at all times when you are interacting with the public, be they victims, witnesses or suspects, your body camera is to be running at all times to provide accountability and protect both them and you. (Note, Dash camera in your patrol vehicle automatically starts when the emergency lights are on with 30 seconds prior)**
-
-
 
 **Reasonable Force**
 
@@ -224,24 +206,21 @@ Do note that while the Criminal Investigations Unit exists to investigate seriou
 \
 **Remember, as patrol officers you are fully able and responsible for investigating crimes that have occured. While in larger cases it would be prudent to request CIU, for most crimes you yourselves are able to ask for witness statements, canvas for sightings, check CCTV and request CSU for print sweeps to investigate your call to its conclusion.**
 
-****
+***
+
+***
 
 ### **Be On the Lookout For (BOLO)**
 
 A BOLO is a description in the CAD of a person, vehicle, or property. These notes are visible to all officers to **be on the lookout** for them. Criteria for BOLOs are listed below. If the criteria cannot be met, the BOLO cannot be submitted in the system.
 
-
-
 | Person BOLO                                                                                                                                                                         | Vehicle BOLO                                                                                    | perty BOLO                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | <ul><li>gender</li><li>skin color</li><li>shirt (type + color)</li><li>pants (type + color)</li><li>something that makes the person stand out among others</li><li>reason</li></ul> | <ul><li>type of vehicle</li><li>color</li><li>30% of the license plate</li><li>reason</li></ul> | <ul><li><strong>exact</strong> description of the item</li><li>reason</li></ul> |
 
-
-
 For any form of Bolo you should add your unit number at the end so officers know who to contact regarding said person, vehicle or item.
 
-\
-
+\\
 
 **Arrest / Citation Records**
 
@@ -258,8 +237,7 @@ Ensure that an arrested party is uncuffed before you utilize the jail command (/
 Every arrest and citation filed in the CAD should have short officer notes attached. Failure to include any arrest notes will result in the automatic removal of the charge if the civilian contests it, whether they are guilty or not.\
 \
 A short descriptive note should be attached. Long descriptions are not necessary, only vital information.\
-\
-
+\\
 
 Ensure you have the evidence to charge a person correctly before charges are filed and they are sent to jail, once they begin serving their sentence, no charges may be added or changed as double jeopardy will apply (they are serving time for this crime already) However, before being sent to jail with the jail script, if a charge is missed it can be added.
 
@@ -272,31 +250,33 @@ Example:\
 
 If your vehicle is not capable of transporting a suspect and no officer is available to do so for you, you must fill all appropriate charges against the suspect in the MDT and read the suspect their charges as if it were a regular arrest at the station. Then, you must uncuff them and use the /arrest command for “county transport” to take them to jail.
 
-### **Warrants** <a href="soplawenforcement-warrants" id="soplawenforcement-warrants"></a>
+### **Warrants** <a href="#soplawenforcement-warrants" id="soplawenforcement-warrants"></a>
 
-If a suspect is not already in custody, the officer can submit a warrant through the CAD. This needs to be done within 24 hours after the crime happened.&#x20;
+If a suspect is not already in custody, the officer can submit a warrant through the CAD. This needs to be done within 24 hours after the crime happened.
 
 Note, CIU investigations are not limited to the 24-hour rule for warrant requests.
 
-#### **Arrest Warrant** <a href="soplawenforcement-arrestwarrant" id="soplawenforcement-arrestwarrant"></a>
+#### **Arrest Warrant** <a href="#soplawenforcement-arrestwarrant" id="soplawenforcement-arrestwarrant"></a>
 
 Your warrant should include the following:
 
-* &#x20;       Suspect
-* &#x20;       Charges
-* &#x20;       Brief summary of the evidence proving the crime and identification of the suspect.
+* Suspect
+* Charges
+* Brief summary of the evidence proving the crime and identification of the suspect.
 
-** **
+***
+
+***
 
 **Search Warrant**
 
 If additional evidence is needed and the person is not willing to let the detective search their property, the detective will submit a search warrant request. The warrant will include:
 
-* &#x20;       Location to be searched
-* &#x20;       Property owner
-* &#x20;       Scope of the search  - What you expect to find and why you expect to find it (Evidence).
+* Location to be searched
+* Property owner
+* Scope of the search - What you expect to find and why you expect to find it (Evidence).
 
-### **Priorities In game** <a href="soplawenforcement-prioritiesingame" id="soplawenforcement-prioritiesingame"></a>
+### **Priorities In game** <a href="#soplawenforcement-prioritiesingame" id="soplawenforcement-prioritiesingame"></a>
 
 In-game you will see a priority timer on the top of the screen. This is an indicator used by the civilian department to regulate and keep track of the priorities that are happening.\
 \
@@ -304,11 +284,9 @@ In-game you will see a priority timer on the top of the screen. This is an indic
 \
 LEO can call priority on the channel (10-33) for a number of reasons, the vast majority of which do not apply to the timer. (Eg: Foot Pursuit, or Felony Traffic Stop)
 
-\
+\\
 
-
-\
-
+\\
 
 If you are already on a call, or stop and a priority/All Call is initiated you **must** remain on scene if there is criminal prosecution (arrest is necessary) to be brought against a subject. Do not leave the scene to respond abandoning an active crime. Use officer discretion in this regard.
 
@@ -317,13 +295,11 @@ If you are already on a call, or stop and a priority/All Call is initiated you *
 \
 \
 \
-\
+\\
 
+### **All Calls** <a href="#soplawenforcement-allcalls" id="soplawenforcement-allcalls"></a>
 
-### **All Calls** <a href="soplawenforcement-allcalls" id="soplawenforcement-allcalls"></a>
-
-\
-
+\\
 
 All Calls are defined as situations that cause a serious threat to the life of officers or the general public. Until a shots fired situation directly threatens life, only a determined number of officers need to be attached.
 
@@ -334,7 +310,7 @@ During statewide patrols, there is a level system in place regarding All Calls:
 * Level 1 All Call = All available units in the same county will respond.
 * Level 2 All Call = All available units in the state will respond.
 
-### **Calls** <a href="soplawenforcement-calls" id="soplawenforcement-calls"></a>
+### **Calls** <a href="#soplawenforcement-calls" id="soplawenforcement-calls"></a>
 
 Responding to scenes and calls in a timely manner is mandatory. It’s part of our job as law enforcement to care for our community. Just because the priority timer is 5 minutes off being ready, is not an excuse to not respond to calls and officers may be assigned by supervisors if none are taking calls.
 
@@ -342,9 +318,9 @@ If you are attached to a call where an arrestable crime has occured, and you eit
 
 When attending a scene or traffic stop it is required to create a call for this in the MDT and it should be done at the earliest opportunity and attached to… if not primary, at least secondary should do this and include the plate when possible.
 
-### **Panic Button / Officer In Distress (10-99)** <a href="soplawenforcement-panicbutton-officerindistress-10-99" id="soplawenforcement-panicbutton-officerindistress-10-99"></a>
+### **Panic Button / Officer In Distress (10-99)** <a href="#soplawenforcement-panicbutton-officerindistress-10-99" id="soplawenforcement-panicbutton-officerindistress-10-99"></a>
 
-When a panic button is pressed by an officer, this initiates an automatic 10-99 (Officer In Distress)  response by 3-4 officers.  This activates automatic 10-33 (Priority traffic) When the first units arrive on scene they need to advise if any further units are needed for the call. Panic Button presses are not an automatic all call unless life is determined to be at risk.
+When a panic button is pressed by an officer, this initiates an automatic 10-99 (Officer In Distress) response by 3-4 officers. This activates automatic 10-33 (Priority traffic) When the first units arrive on scene they need to advise if any further units are needed for the call. Panic Button presses are not an automatic all call unless life is determined to be at risk.
 
 Due to the fact that those buttons can have an All Call response to them, officers should not utilize this tool for Motor Vehicle Accidents (Use ai 911 caller or your radio)
 
@@ -352,7 +328,7 @@ Due to the fact that those buttons can have an All Call response to them, office
 
 Vehicle pursuits require coordination, and as such will constitute a priority on the channel allowing for communication of involved and attaching units.
 
-With this there are some rules that need to be followed,&#x20;
+With this there are some rules that need to be followed,
 
 *
   * Do not self-attach to a pursuit, even if it passes you. Wait for dispatch, or units involved, to ask for backup.
@@ -360,20 +336,18 @@ With this there are some rules that need to be followed,&#x20;
   * The secondary unit or Air One will give 10-20s (aka directions). Utilize your PLD on the screen to give updates to the current road and direction of travel.
   * Only the primary unit or a supervisor can request pursuit ending techniques such as roadblocks or spike strips. These are not to be deployed at will, and misuse will result in disciplinary action.
   * Always call for Air Support during a pursuit when available, as this makes LEO’s job far easier.
-  * If shots are fired during a pursuit, back off to a safe distance (100-200m) and follow safely.&#x20;
+  * If shots are fired during a pursuit, back off to a safe distance (100-200m) and follow safely.
   * Do not utilize oncoming lanes unless absolutely necessary and the primary officer reserves the right to call off pursuits if it becomes too dangerous to LEO or civilian life.
   * If a pursuit gets too dangerous, the primary unit, a supervisor or Air One can call in tracking mode. This means that all units should reduce to code 1 and back off to a safe distance (500m - 800m).
 * **When an officer gets injured or is in a traffic collision, the last unit needs to break off and assist the injured officer.**
 * **When a civ drops an item / leaves a vehicle, the last unit is to secure this object / vehicle.**
 
-\
-
+\\
 
 Note that you must roleplay vehicle collisions to the best of your ability should they occur during a pursuit (For example: Slow down, pull over and fix a flat tire, or call out of the pursuit).
 
 **APET (Rolling Roadblock)**\
-\
-
+\\
 
 If a pursuit is slow enough and low violence, it is possible to use this technique to bring a pursuit to an end. It is only to be conducted with supervisor approval, and the following conditions must be met:
 
@@ -383,14 +357,12 @@ If a pursuit is slow enough and low violence, it is possible to use this techniq
 * Sufficient officer presence for the maneuver and back-up.
 * The suspect has not fired a firearm or similar devices at officers.
 
-\
-
+\\
 
 **Spike Strips**
 
 Spike Strips may be deployed on a fleeing vehicle under the following conditions:\
-\
-
+\\
 
 * No hostages are present in the vehicle.
 * The vehicle has been fleeing for over 10 minutes and has shown no sign of stopping by other means.
@@ -400,7 +372,7 @@ Spike Strips may be deployed on a fleeing vehicle under the following conditions
 * Be conscious of where the spiked vehicle will go after it loses control, do not spike people into gas stations or off cliffs.
 * Ensure your position of deployment is safe and secure and you are protected from any impacts or engagement to the best of your ability.
 
-### **Scene Coordination** <a href="soplawenforcement-scenecoordination" id="soplawenforcement-scenecoordination"></a>
+### **Scene Coordination** <a href="#soplawenforcement-scenecoordination" id="soplawenforcement-scenecoordination"></a>
 
 When an active scene takes place that requires large scale law enforcement mobilization, an officer will take scene command. (If a supervisor is present or available, this will usually be them) This individual identified as scene command will issue instructions to ensure the efficient resolution of the scene.
 
@@ -420,7 +392,7 @@ Fire and medical assets are not to be called in until a scene is code 4 (safe) u
 \
 Stage any fire/medical units a safe distance away until needed.
 
-If a suspect is hospitalized at any point during a scene, officers (Not Fire personnel)  must use /ooc to place a hold on them for law enforcement. This can be done at any point up until their release from the hospital; otherwise, they cannot be compelled to stay for law enforcement to pick them up.  If a civilian reminds you in ooc they are waiting for pickup and no officers collect them in a reasonable time they are free to leave.
+If a suspect is hospitalized at any point during a scene, officers (Not Fire personnel) must use /ooc to place a hold on them for law enforcement. This can be done at any point up until their release from the hospital; otherwise, they cannot be compelled to stay for law enforcement to pick them up. If a civilian reminds you in ooc they are waiting for pickup and no officers collect them in a reasonable time they are free to leave.
 
 Should a suspect barricade themself inside a store, house, or other building, and then flee, there must be officers left on scene to clear the structure of any threats or gather any evidence left behind. This also goes for cars ditched or other evidence tossed by suspects.
 
@@ -442,11 +414,11 @@ Ensure at all times you are considering cover… not firing is a lot safer when 
 
 **Officer Discretion**
 
-As a Law Enforcement Officer, you hold a lot of power in your hands. Circumstances depending, you are able to utilize your best judgment to resolve a situation the best way you feel. In non-felony cases, or in cases without a direct victim that wishes to press charges, you may reduce a charge to a citation in lieu of arrest (A fine, with no jail time that still counts as the charge) or a warning, written or verbal for what took place.  Remember that civilians have lives, and our charges can change the path of their character’s story. Accidents happen, and in real life, law enforcement understands that. Use your judgment, and be a human being.
+As a Law Enforcement Officer, you hold a lot of power in your hands. Circumstances depending, you are able to utilize your best judgment to resolve a situation the best way you feel. In non-felony cases, or in cases without a direct victim that wishes to press charges, you may reduce a charge to a citation in lieu of arrest (A fine, with no jail time that still counts as the charge) or a warning, written or verbal for what took place. Remember that civilians have lives, and our charges can change the path of their character’s story. Accidents happen, and in real life, law enforcement understands that. Use your judgment, and be a human being.
 
 **Subject Searches**
 
-All Subjects should be searched upon arrest, this includes before being placed in a vehicle and after release from hospital even if searched prior (In case any items have been taken during their stay) When a female requests a female officer for a search, they should be obliged where possible, and if it is not possible, should understand that there isn’t one available, and that a search will be conducted (over clothing only) in front of body camera and dash camera for their and the officer’s safety. No member of the opposite sex should search a subject below their base layer clothing  (Under an item of clothing next to their skin) under any circumstances. (If this is required, and no member of the subject’s sex is available for a search, you may utilise county officers at this time. Items found under a subject’s clothing should be verbally identified for the camera and subject before being removed as carefully as possible.
+All Subjects should be searched upon arrest, this includes before being placed in a vehicle and after release from hospital even if searched prior (In case any items have been taken during their stay) When a female requests a female officer for a search, they should be obliged where possible, and if it is not possible, should understand that there isn’t one available, and that a search will be conducted (over clothing only) in front of body camera and dash camera for their and the officer’s safety. No member of the opposite sex should search a subject below their base layer clothing (Under an item of clothing next to their skin) under any circumstances. (If this is required, and no member of the subject’s sex is available for a search, you may utilise county officers at this time. Items found under a subject’s clothing should be verbally identified for the camera and subject before being removed as carefully as possible.
 
 **Probable Cause**
 
@@ -512,8 +484,7 @@ Regarding injury and death, refer to the Civilian SOP. If you are injured and ho
 
 If you are on duty as a LEO, you cannot claim ownership of a property on the map if a civilian is using it for a scene. This easily leads to powergaming scenes and it will not be tolerated. We have a very limited number of properties with interiors in game and it's important that we're not trying to powergame one another when others are attempting to use them.
 
-\
-
+\\
 
 As law enforcement officers, it is our duty to be kind and courteous in the face of aggression and disruption. It is not an easy task, however it is our job to deescalate a scene rather than escalate it. By being calm and respectful, we not only increase the trust citizens place on us, but help to reduce the stress level of a scene or situation and prevent injury or escalation.
 
@@ -523,7 +494,7 @@ If a citizen asks you to identify yourself, or it is required for the task you a
 
 When you are off duty playing as your emergency services qualified character you have no law enforcement powers and are not covered by department insurance to act in that capacity.\
 \
-At no point should you interfere with or inject yourself into a scene being handled by on duty personnel and should follow all their instructions. Remember they are your colleagues and you are  a law abiding citizen, you wouldn’t argue or interfere.\
+At no point should you interfere with or inject yourself into a scene being handled by on duty personnel and should follow all their instructions. Remember they are your colleagues and you are a law abiding citizen, you wouldn’t argue or interfere.\
 \
 You may carry a weapon off duty as long as you fully comply with civilian requirements.
 
@@ -533,8 +504,7 @@ While we do not prohibit the wearing of department badges or the department tee 
 \
 Note, that you can and will be removed from emergency services qualified status on a given character if you commit crimes off duty and or lose your drivers licence due to traffic infractions.
 
-\
-
+\\
 
 **Lore Vehicles and Uniforms**
 
@@ -562,7 +532,7 @@ Always attempt to keep your transmissions as short as possible. Think about what
 
 **Routine Response**
 
-Respond following all** **traffic laws, no lights, no sirens - For when there is no risk to life and no perpetrator is on scene (Reporting a break in, abandoned vehicle etc)
+Respond following all\*\* \*\*traffic laws, no lights, no sirens - For when there is no risk to life and no perpetrator is on scene (Reporting a break in, abandoned vehicle etc)
 
 This is also the only response used while transporting suspects.
 
@@ -578,7 +548,7 @@ A response for when there is a risk to property and or a crime is still occurrin
 
 Response for high risk emergency situations where time is critical - life at risk.
 
-### **Rules & Tips** <a href="soplawenforcement-rules-and-tips" id="soplawenforcement-rules-and-tips"></a>
+### **Rules & Tips** <a href="#soplawenforcement-rules-and-tips" id="soplawenforcement-rules-and-tips"></a>
 
 * **No Civ Stalking** - Do not needlessly follow a civilian without reasonable suspicion in the hope they will break the law.
 * **Don’t assume every civilian is a criminal** - Many are living a normal legal life.
@@ -587,4 +557,4 @@ Response for high risk emergency situations where time is critical - life at ris
 * **Maintain confidence and control when talking to individuals or suspects** - Maintaining control does not necessarily mean using the /grab script, however, you can and should maintain control over their movement either verbally or in text chat. ‘I’m holding your arm, follow me.” or ‘/me takes hold by arm and escorts’ - Civilians will Roleplay this.
 * **Don’t let civilians or anyone else in-game walk over you** - You are in charge of the situation, however, polite firm authority is far more productive than aggression.
 * **Patrol Officers are not able to use Bleetr (Twitter) comments in game to react to** - The sort of networks criminals would use or pages of known criminals wouldn’t be followed by regular officers, leaving these for CIU to respond to and handle through Cybercrimes.
-* **Use of Civilian scripts such as Fire or Smoke are prohibited for on duty use. - **This includes using them FOR civilians if they request it.
+* \*\*Use of Civilian scripts such as Fire or Smoke are prohibited for on duty use. - \*\*This includes using them FOR civilians if they request it.
