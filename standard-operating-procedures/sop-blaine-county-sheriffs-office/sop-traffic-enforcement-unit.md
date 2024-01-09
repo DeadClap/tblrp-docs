@@ -90,7 +90,7 @@ The TEU Recruit must show an understanding of how to pursue a subject in a safe 
 
 #### **1.7.1 Motor Bike Unit (MBU)**
 
-****![](../../.gitbook/assets/2)
+![](../../.gitbook/assets/2)
 
 The TEU Recruit must show the ability to maintain control of the motorcycle at high speeds and show you can clear intersections correctly and safely. You cannot crash the motorcycle at any time or hit any vehicle on the roadway. Remember while riding you must stay aware of your surroundings. That includes what is behind you as well.
 
@@ -121,7 +121,7 @@ All TEU Deputies will use the standard weapon loadout of a regular BCSO Deputy.
 
 #### **2.2 Uniform Structure**
 
-****![](../../.gitbook/assets/3)
+![](../../.gitbook/assets/3)
 
 BCSO Fluro Polo
 
