@@ -1,23 +1,3 @@
 # Acronyms
 
-**OOC** - Out-Of-Character
-
-**IC**- In-Character
-
-**LEO**- Law Enforcement Officer
-
-**EMS**- Emergency Medical Services
-
-**PCD**- Priority Cooldown
-
-**PT**- Peacetime
-
-**PIP**- Priority In Progress
-
-**G6**- Gruppe Sech Security
-
-**SAFR**- San Andreas Fire Rescue
-
-**CC**- County Coroner (When CC is called to scene, it means dead players may respawn)
-
-**CEMS**- County EMS (County EMS is representative of normal EMS being unavailable, when County EMS is called to a scene, it means real EMS players will not be responding, and that injured players may transport themselves to the hospital via a teleport)
+<table><thead><tr><th width="121">Acronym</th><th>Meaning</th><th>Usage</th></tr></thead><tbody><tr><td>OOC</td><td>Out-of-Character</td><td></td></tr><tr><td>IC</td><td>In-Character</td><td></td></tr><tr><td>LEO</td><td>Law Enforcement Officer</td><td></td></tr><tr><td>EMS</td><td>Emergency Medical Services</td><td></td></tr><tr><td>PCD</td><td>Priority Cool-down</td><td></td></tr><tr><td>PT</td><td>Peacetime</td><td></td></tr><tr><td>PIP</td><td>Priority-in-Progress</td><td></td></tr><tr><td>G6</td><td>Gruppe Sech Security Services</td><td></td></tr><tr><td>SAFR</td><td>San Andreas Fire Rescue</td><td></td></tr><tr><td>CC</td><td>County Coroner</td><td>If this is called by LEOs dead players may respawn to nearest safe area, and are forbidden from reaction in current/previous scene as this counts as new life.</td></tr><tr><td>CEMS</td><td>County EMS</td><td>If this is called by LEOs, non-fatal injured players may revive if capable, or respawn. This is only when EMS personnel are not online or unavailable.</td></tr></tbody></table>

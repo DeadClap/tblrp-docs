@@ -8,43 +8,43 @@ description: Thin Blue Line RP PENAL CODE HANDBOOK 2021-2022
 
 ## **Table of Contents**
 
-[Title 0: Preamble and Definitions](penal.md#title-0-preamble-and-definitions)
+[_Title 0: Preamble and Definitions_](penal.md#title-0-preamble-and-definitions)
 
-[Title 1: Crimes Against the Person](penal.md#title-1-crimes-against-the-person)
+[_Title 1: Crimes Against the Person_](penal.md#title-1-crimes-against-the-person)
 
-[Title 2: Crimes Against Property and Criminal Profiteering](penal.md#title-2-crimes-against-property-and-criminal-profiteering)
+[_Title 2: Crimes Against Property and Criminal Profiteering_](penal.md#title-2-crimes-against-property-and-criminal-profiteering)
 
-[Title 3: Crimes Against Public Decency](penal.md#title-3-crimes-against-public-decency)
+[_Title 3: Crimes Against Public Decency_](penal.md#title-3-crimes-against-public-decency)
 
-[Title 4: Crimes Against Public Justice](penal.md#title-4-crimes-against-public-justice)
+[_Title 4: Crimes Against Public Justice_](penal.md#title-4-crimes-against-public-justice)
 
-[Title 5: Crimes Against Public Peace](penal.md#title-5-crimes-against-public-peace)
+[_Title 5: Crimes Against Public Peace_](penal.md#title-5-crimes-against-public-peace)
 
-[Title 6: Crimes Against Public Health and Safety](penal.md#title-6-of-crimes-against-public-health-and-safety)
+[_Title 6: Crimes Against Public Health and Safety_](penal.md#title-6-of-crimes-against-public-health-and-safety)
 
-[Title 7: Crimes Against State Dependents](penal.md#title-7-crimes-against-state-dependents)
+[_Title 7: Crimes Against State Dependents_](penal.md#title-7-crimes-against-state-dependents)
 
-[Title 8: Vehicular Offense](penal.md#title-8-vehicular-offenses)
+[_Title 8: Vehicular Offense_](penal.md#title-8-vehicular-offenses)
 
-[Title 9: Control of Deadly Weapons and Equipment](penal.md#title-9-control-of-deadly-weapons-and-equipment)
+[_Title 9: Control of Deadly Weapons and Equipment_](penal.md#title-9-control-of-deadly-weapons-and-equipment)
 
-[Title 10: Operation of Commercial Motor Vehicle](penal.md#title-10-operation-of-commercial-motor-vehicles)
+[_Title 10: Operation of Commercial Motor Vehicle_](penal.md#title-10-operation-of-commercial-motor-vehicles)
 
-[Title 11: Operation of Aircraft](penal.md#title-11-operation-of-aircraft)
+[_Title 11: Operation of Aircraft_](penal.md#title-11-operation-of-aircraft)
 
-[Title 12: Operation of Marine Vessels](penal.md#title-12-operation-of-marine-vessels)
+[_Title 12: Operation of Marine Vessels_](penal.md#title-12-operation-of-marine-vessels)
 
-[Title 13: Sentencing Enhancements](penal.md#title-13-sentencing-enhancements)
+[_Title 13: Sentencing Enhancements_](penal.md#title-13-sentencing-enhancements)
 
-[Title 14: Legal Procedures](penal.md#title-14-legal-procedures)
+[_Title 14: Legal Procedures_](penal.md#title-14-legal-procedures)
 
-[Title 15: Miscellaneous Violations](penal.md#title-15-miscellaneous-violations)
+[_Title 15: Miscellaneous Violations_](penal.md#title-15-miscellaneous-violations)
 
-[Title 16: Fish and Game](penal.md#title-16-fish-and-game)
+[_Title 16: Fish and Game_](penal.md#title-16-fish-and-game)
 
-[Title 17: Amendments and Additions](penal.md#title-17-amendments-and-additions)
+[_Title 17: Amendments and Additions_](penal.md#title-17-amendments-and-additions)
 
-[Sentencing Quick Reference Guide](penal.md#sentencing-quick-reference-guide)
+[_Sentencing Quick Reference Guide_](penal.md#sentencing-quick-reference-guide)
 
 _**THIS PENAL CODE AND RELATED DOCUMENTS, AMENDMENTS AND ADDITIONS ARE NOT LEGALLY BINDING, OR TO BE CONSTRUED, SUBSTITUTED OR USED AS ACTUAL PENAL CODE LAWS AND REGULATIONS IN REAL LIFE. LOS SANTOS COUNTY DEPARTMENT OF JUSTICE RP ASSUMES NO LIABILITY FOR YOUR USE OF THESE IN REAL LIFE, AND AT YOUR SOLE DISCRETION. THIS IS TO BE USED IN GAME ONLY!!!**_
 
@@ -336,7 +336,7 @@ NOTE: Grand Theft Auto does not stack with theft, burglary, or trespassing of a 
 
 \- Violations of Penal Code (2)11 is a felony
 
-&#x20;with 90 seconds imprisonment and a fine of $10,000.
+with 90 seconds imprisonment and a fine of $10,000.
 
 NOTE: If an officer can prove that the individual should have known the item was stolen based on outside factors, such as the price or quality, or any sort of common knowledge, then the person can be charged.
 
@@ -725,15 +725,15 @@ NOTES: "Domesticated" refers to animals listed in [this list](http://en.wikipedi
 | -------------------- | --------------- |
 | (8)7-19, 21-28       | 1               |
 
-&#x20;2\. Points expire after 12 days.
+2\. Points expire after 12 days.
 
-&#x20;3\. A person who receives 4 points shall have his/her license suspended for a period of 6 Days.
+3\. A person who receives 4 points shall have his/her license suspended for a period of 6 Days.
 
-&#x20;4\. A person can only earn 1 point per calendar day.
+4\. A person can only earn 1 point per calendar day.
 
-&#x20;5\. When another section of this code requires a license suspension at the same time that this section requires the same the suspensions shall be added together.
+5\. When another section of this code requires a license suspension at the same time that this section requires the same the suspensions shall be added together.
 
-&#x20;6\. When a driver is issued a license suspension under this or any other section he/she shall be informed of the suspension and the date where the suspension is no longer in effect.
+6\. When a driver is issued a license suspension under this or any other section he/she shall be informed of the suspension and the date where the suspension is no longer in effect.
 
 ### **(8)03. Vehicle Registration**
 
@@ -742,7 +742,7 @@ NOTES: "Domesticated" refers to animals listed in [this list](http://en.wikipedi
    * Exception: A motor vehicle properly registered in any state and that has operated in San Andreas for under 90 days need not be registered in San Andreas.
    * Exception: Any motor vehicle properly registered to the federal government.
 
-&#x20;3\. License plates shall at all times be securely fastened to the rear of the motor vehicle for which they are issued, fastened so as to prevent the plates from swinging, shall be mounted in a position so as to be clearly visible, and so that the characters are upright and display from left to right, and shall be maintained in a condition so as to be clearly legible.
+3\. License plates shall at all times be securely fastened to the rear of the motor vehicle for which they are issued, fastened so as to prevent the plates from swinging, shall be mounted in a position so as to be clearly visible, and so that the characters are upright and display from left to right, and shall be maintained in a condition so as to be clearly legible.
 
 *
   *
@@ -751,13 +751,13 @@ NOTES: "Domesticated" refers to animals listed in [this list](http://en.wikipedi
     * Exception: Vehicles and trailers being towed by another vehicle do not require displayed license plates as long as the towing vehicle displays a license plate.
     * ((OOC Note: Some vehicles do not allow the proper display of plates under this section. In this case as long as the Civilian provides a valid registration that can be ran (a plate) this section is considered complied with. Do note that dirt bikes are not road legal.))
 
-&#x20;4\. A person who sells a motor vehicle must inform the Department of Motor Vehicles within 24 hours of selling the motor vehicle.
+4\. A person who sells a motor vehicle must inform the Department of Motor Vehicles within 24 hours of selling the motor vehicle.
 
 *
   *
     * ((OOC Note: This is done by contacting a civilian supervisor or manager))
 
-&#x20;5\. Proof of registration shall be carried in the motor vehicle for which issued at all times while it is being operated in the State
+5\. Proof of registration shall be carried in the motor vehicle for which issued at all times while it is being operated in the State
 
 \- Violations of Penal Code (8)03 are an infraction with a fine of $194. A motor vehicle that has not been registered may be impounded if driven on a road.
 
@@ -791,7 +791,7 @@ NOTES: "Domesticated" refers to animals listed in [this list](http://en.wikipedi
 1. The driver of a motor vehicle who is in any manner involved in an accident originating from the operation of a motor vehicle that has resulted in damage to the property of any one person in excess of one thousand dollars ($1,000) shall report the accident to the local law enforcement office as soon as possible
    * Exception: An accident that occurs on the drivers private property that only results in damage to the drivers property, and does not result in bodily injury or death need not be reported.
 
-&#x20;2\. Every driver involved in the accident shall, unless rendered incapable, exchange with any other driver or property owner involved in the accident and present at the scene, all of the following information.
+2\. Every driver involved in the accident shall, unless rendered incapable, exchange with any other driver or property owner involved in the accident and present at the scene, all of the following information.
 
 *
   * Driver’s name and current residence address, driver’s license number, vehicle identification number, and current residence address of registered owner.
@@ -808,7 +808,7 @@ NOTES: This section is commonly referred to as Hit and Run.
    * Driver’s name and current residence address, driver’s license number, vehicle identification number, and current residence address of registered owner.
    * Evidence of automobile insurance to include the name and address of the insurance company and the number of the insurance policy.
 
-&#x20;3\. Drivers charged under this section may not be charged with violations of penal code (8)06 for events arising from the same accident.
+3\. Drivers charged under this section may not be charged with violations of penal code (8)06 for events arising from the same accident.
 
 \- Violations of Penal Code (8)08 are a felony with 120 seconds imprisonment and a fine of $10,000.
 
@@ -846,7 +846,7 @@ NOTES: This section is commonly referred to as felony Hit and Run.
    * Upon a roadway restricted to one-way traffic.
    * When the vehicle is necessarily traveling so slowly as to impede the normal movement of traffic, that portion of the road adjacent to the right edge of the roadway may be utilized temporarily when in a condition permitting safe operation.
 
-&#x20;2\. Whenever a road has been divided into two or more roadways by means of intermittent barriers or by means of a dividing section of not less than two feet in width, either unpaved or delineated by curbs, double-parallel lines, or other markings on the roadway, it is unlawful to do either of the following:
+2\. Whenever a road has been divided into two or more roadways by means of intermittent barriers or by means of a dividing section of not less than two feet in width, either unpaved or delineated by curbs, double-parallel lines, or other markings on the roadway, it is unlawful to do either of the following:
 
 *
   * To drive any vehicle over, upon, or across the dividing section.
@@ -862,7 +862,7 @@ NOTES: This section is commonly referred to as felony Hit and Run.
    * A vehicle shall be driven as nearly as practical entirely within a single lane and shall not be moved from the lane until such movement can be made with reasonable safety.
      * Exception: Driving a motorcycle that has two wheels in contact with the ground, between rows of stopped or slow moving vehicles in the same lane, including on both divided and undivided streets, roads, or highways is permitted.
 
-&#x20;4\. On a two-lane highway, no vehicle shall be driven to the left side of the center of the roadway in overtaking and passing another vehicle proceeding in the same direction unless the left side is clearly visible and free of oncoming traffic for a sufficient distance ahead to permit such overtaking and passing to be completely made without interfering with the safe operation of any vehicle approaching from the opposite direction.
+4\. On a two-lane highway, no vehicle shall be driven to the left side of the center of the roadway in overtaking and passing another vehicle proceeding in the same direction unless the left side is clearly visible and free of oncoming traffic for a sufficient distance ahead to permit such overtaking and passing to be completely made without interfering with the safe operation of any vehicle approaching from the opposite direction.
 
 \- Violations of Penal Code (8)13 are an infraction with a $234 fine.
 
@@ -1127,7 +1127,7 @@ NOTE: Each piece of equipment missing or not authorized is a violation of this c
       1. ((Any “standard” combination of truck and trailer is presumed to meet this dimension))
       2. ((Standard means a combination that would normally be seen in the real world such as a semi truck and trailer or a bus))
 
-&#x20;2\. The following vehicles are exempt from this section
+2\. The following vehicles are exempt from this section
 
 1. A tow vehicle towing a vehicle that is unable to be safely operated to a location where repairs can be made as long as both vehicles would meet the requirements in element 1 if considered separately.
 2. A vehicle for which a permit has been issued by the Commercial Vehicle Enforcement division
@@ -1221,10 +1221,10 @@ No person may operate a commercial motor vehicle on any road without a commercia
 
 1. A Commercial Motor Vehicle Driver shall earn points in accordance with the table below:
 
-| <ol><li>Penal Code Violation</li></ol> |  Points Assigned |
-| -------------------------------------- | ---------------- |
-|  (8)7-19, 21-28, 31                    | 1                |
-| ( 10)01, 02, and 04                    | 1                |
+| <ol><li>Penal Code Violation</li></ol> | Points Assigned |
+| -------------------------------------- | --------------- |
+| (8)7-19, 21-28, 31                     | 1               |
+| ( 10)01, 02, and 04                    | 1               |
 
 Points expire after 12 days.
 

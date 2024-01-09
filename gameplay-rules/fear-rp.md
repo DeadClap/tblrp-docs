@@ -1,11 +1,23 @@
 # Fear RP
 
-All characters must operate with some level of **fear for their lives**. While your characters may not truly die, they must act as if their character is subject to fear due to the possibility of being injured or losing their life. You must take into account all repercussions while your life is on the line, you can't be a hero every time.
+"Fear RP" stands for Fear Roleplay in the context of gaming, particularly in role-playing scenarios. This concept is often used in games where characters can experience fear or danger. Fear RP refers to the expectation that players should roleplay their characters realistically in situations that would naturally invoke fear or anxiety.
 
-If an opportunity presents itself where you are not in immediate danger, they may fight back.
+***
 
-Example of **Fear RP**:
+<details>
 
-{% hint style="danger" %}
-`Subject A` is in an alleyway with **4 gang members who all have guns** pointed towards him/her. `Subject A` follows all demands and stays co-operative due to fear for his life.
-{% endhint %}
+<summary>Example A - Hold-up Scenario</summary>
+
+If a character is being held at gunpoint during a robbery, Fear RP would require the player controlling that character to respond realistically, such as complying with the demands of the assailant, rather than acting bravely or attempting to resist without proper justification.
+
+</details>
+
+<details>
+
+<summary>Example B - Life-threatening Situations</summary>
+
+When a character is faced with a life-threatening situation, like being surrounded by a hostile group, Fear RP entails reacting as any person would under such circumstances, expressing fear, anxiety, or compliance, rather than acting casually or trying to break character.
+
+</details>
+
+> The aim of Fear RP is to enhance the immersion and realism in role-playing scenarios by encouraging players to respond authentically to in-game threats or perilous situations. It contributes to a more engaging and cooperative role-playing experience by ensuring that characters react appropriately to the context of the narrative.

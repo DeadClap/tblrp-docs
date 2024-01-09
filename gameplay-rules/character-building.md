@@ -1,50 +1,91 @@
 # Character Building
 
-It is recommended at all times to have a character story. This helps maintain realism and provide an enjoyable RP for all. This can be done through the following:
+"Character Building" generally refers to the process of developing and defining a fictional character for use in storytelling, role-playing, or other creative endeavors. This involves crafting various aspects of the character, including their personality, background, motivations, and relationships. Here are some key elements and considerations involved in character building:
 
-**Characteristics & Traits**
+<details>
 
-Character traits help create a personality for whom you are playing, and help depict what acts you will and won**'**t commit, Examples of **Traits**:
+<summary>Background and History</summary>
 
-{% hint style="success" %}
-**Good Traits**
+Establishing the character's past, upbringing, and significant life events provides a foundation for understanding their motivations and shaping their personality.
 
-* Loyalty
-* Kindness
-* Integrity
-* Generosity
-* Self-control
-* Patience
-* Tolerance
+</details>
 
-**Dark Traits**
+<details>
 
-* Rudeness
-* Greed
-* Selfishness
-* Unforgiving
-{% endhint %}
+<summary>Personality Traits</summary>
 
-**Character's Purpose**
+Defining the character's personality traits helps create a well-rounded and believable individual. Consider aspects such as strengths, weaknesses, likes, dislikes, and any quirks that make the character unique.
 
-Have a real purpose for your character with a consistent or developing story.&#x20;
+</details>
 
-Example of what not to do: Have a single character who is simultaneously the CEO of a company and a homeless drug user.&#x20;
+<details>
 
-**Story**
+<summary>Goals and Motivations</summary>
 
-Develop your character over time, start off with small things, whether your character has good or dark traits. Work your way up to bigger and better things, rather than doing major jumps in a couple of hours. Developing your character helps create a history within the CAD System and a known/recognized name around San Andreas. This is crucial for realism. Examples:
+Identifying what drives the character and their overarching goals or aspirations adds depth to their narrative. This helps create a compelling story arc and provides a sense of purpose for the character.
 
-{% hint style="success" %}
-`Subject A` is a positive guy he moves to San Andreas with 1000$ in his pocket, he makes a roadside mechanic shop and daily went to work, due to his positive vibe a lot of customers came and got jobs done from him. After a couple of months, he gained enough money from profit in his roadside mechanic shop and leased out a building off of Route 68, continuing to develop his career as a mechanic.
-{% endhint %}
+</details>
 
-{% hint style="danger" %}
-`Subject Shitlord` goes and starts to run a dealership in Los Santos from the money he yoinked out his ass, he then starts to kill his customers if they have blonde hair, he eventually becomes a serial killer and then he also becomes a chef at a restaurant and poisons people, he robs shops and banks during his spare time and even robbed his own dealership.&#x20;
-{% endhint %}
+<details>
+
+<summary>Relationships and Connections</summary>
+
+Outlining the character's relationships with others, whether it's family, friends, or adversaries, contributes to their overall development. These connections can influence the character's actions and decisions throughout the story.
+
+</details>
+
+<details>
+
+<summary>Skills and Abilities</summary>
+
+Determining the character's skills, talents, or special abilities is essential, especially in genres like fantasy or science fiction. These attributes contribute to the character's role in the narrative.
+
+</details>
+
+<details>
+
+<summary>Flaws and Challenges</summary>
+
+Introducing flaws or challenges that the character must overcome adds complexity and realism. Characters with imperfections are often more relatable and interesting.
+
+</details>
+
+<details>
+
+<summary>Character Arc</summary>
+
+Planning a character arc involves understanding how the character evolves or changes over the course of the story. This transformation can be crucial to the overall narrative and the character's development.
+
+</details>
+
+<details>
+
+<summary>Consistency and Authenticity</summary>
+
+Ensuring that the character's actions, thoughts, and dialogue remain consistent with their established traits and background helps maintain authenticity and credibility.
+
+</details>
+
+<details>
+
+<summary>Cultural and Environmental Influences</summary>
+
+Consider how the character's cultural background and the environment they inhabit influence their worldview, beliefs, and behaviors.
+
+</details>
+
+<details>
+
+<summary>Evolution over Time</summary>
+
+Characters can evolve and change in response to events or experiences. Allow room for growth and adaptation as the story progresses.
+
+</details>
 
 {% hint style="warning" %}
 **Suicide RP**
 
-Should be a decision/story which is **developed over time.** **Suicide cannot be used to escape from an RP. **
+Should be a decision/story which is **developed over time.**&#x20;
+
+_**Suicide cannot be used to escape from an RP.**_&#x20;
 {% endhint %}

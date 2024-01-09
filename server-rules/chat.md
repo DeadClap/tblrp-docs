@@ -1,15 +1,11 @@
 # Chat
 
-**OOC Chat** may not be used for the following reasons:
-
 {% hint style="danger" %}
 * Attacking, taunting, or calling out players for breaking rules (Must use /report).
 * Gloating
 * Chatting In-Character
 * Spam
 {% endhint %}
-
-**Additional **guidelines:
 
 {% hint style="danger" %}
 * Do not use the **F8** console to speak in-game.
@@ -34,6 +30,4 @@
 Do not use the colors for your entire chat message, only use it for highlighting certain things.
 {% endhint %}
 
-**Private Information / "DOXing": **
-
-The disclosure of private or identifying information about another person without their consent is prohibited.&#x20;
+The disclosure of private or identifying information about another person without their consent is prohibited.

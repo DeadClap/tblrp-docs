@@ -10,7 +10,6 @@
 
 * [No-Nonsense Policy](gameplay-rules/no-nonsense-policy.md)
 * [Character Building](gameplay-rules/character-building.md)
-* [Criminal Story](gameplay-rules/criminal-story.md)
 * [Gangs / Mafias](gameplay-rules/gangs-mafias.md)
 * [RDM / RVDM](gameplay-rules/rdm-rvdm.md)
 * [Meta Gaming](gameplay-rules/meta-gaming.md)
