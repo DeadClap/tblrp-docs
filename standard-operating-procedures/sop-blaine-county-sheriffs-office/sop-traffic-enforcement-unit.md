@@ -90,8 +90,6 @@ The TEU Recruit must show an understanding of how to pursue a subject in a safe 
 
 #### **1.7.1 Motor Bike Unit (MBU)**
 
-![](../../.gitbook/assets/2)
-
 The TEU Recruit must show the ability to maintain control of the motorcycle at high speeds and show you can clear intersections correctly and safely. You cannot crash the motorcycle at any time or hit any vehicle on the roadway. Remember while riding you must stay aware of your surroundings. That includes what is behind you as well.
 
 * You will get one practice run and two attempts.
@@ -120,8 +118,6 @@ All TEU Deputies will use the standard weapon loadout of a regular BCSO Deputy.
 * Traffic Flares (Only when necessary for RP.)
 
 #### **2.2 Uniform Structure**
-
-![](../../.gitbook/assets/3)
 
 BCSO Fluro Polo
 
@@ -154,6 +150,10 @@ Dignitary Protection requests are made to a BCSO Lieutenant and up the CoC. Also
 #### 3.2 Traffic Collisions
 
 TEU units' main focus on motor vehicle accidents (MVA) is to keep the scene safe from any other threats. That could be executed by blocking the road to stop traffic to keep the scene secured. Also, if on scene before fire does. TEU units like BCSO deputies are to help aid victims.   TEU units are also responsible to investigate or aid in the investigation.
+
+#### 3.3 DUI Checkpoints and Enforcement
+
+DUI checkpoints are essential in preventing impaired and irresponsible drivers from injuring or possibly taking themselves or others' lives. Checkpoints are often set up late at night or in the very early morning hours and on weekends, and on holidays associated with parties at which time the proportion of impaired drivers tends to be the highest. Checkpoints are also often set near the exit points of public events where people have been drinking to prevent large numbers of drunk drivers from being released into traffic simultaneously from the event. Deputies will be trained on the proper techniques of setting up, communicating, and enforcing DUI checkpoints.
 
 #### 3.3 DUI Checkpoints and Enforcement
 
