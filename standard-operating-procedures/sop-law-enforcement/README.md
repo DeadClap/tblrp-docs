@@ -22,131 +22,21 @@ You can find a full list of these in the Staff Channel sidebar in Teamspeak (cli
 
 Each individual department has its own uniform policy. In addition, short and long sleeves can only be used during certain time periods of the year.
 
+{% hint style="info" %}
 During winter, we mandate long sleeves for all officers (or winter jackets) that lasts from November 1st to January 31st.
+{% endhint %}
 
 Note: See your department’s Uniform Structure in CAD or through Gitbooks for details.
 
-**You are not to drive any law enforcement vehicle when off duty, unless you are a detective (unmarked) or other subdivision that are permitted take home cars.**\
-\
-**Each Department has specific requirements for vehicles from plate, to lighting setup/window tint, refer to your department uniform structure to find this information.**
+{% hint style="info" %}
+Each Department has specific requirements for vehicles from plate, to lighting setup/window tint, refer to your department uniform structure to find this information.
+{% endhint %}
 
-### \*\*Vehicle Equipment \*\*
+{% hint style="warning" %}
+You are not to drive any law enforcement vehicle when off duty, unless you are a detective (unmarked) or other subdivision that are permitted take home cars.
+{% endhint %}
 
-All law enforcement vehicles contain the following equipment for use during your duty:
-
-* First Aid Kit
-* Fire Extinguisher
-* Prybar
-* Scene Tape
-* Traffic Cones
-* Narcotics Test Kit - For field testing samples for positive/negative narcotics results
-* Carbine Rifle MK2 or Carbine Rifle and Pump Shotgun in vehicle rack. (Ride Along Partners may keep their weapons in the trunk)
-* Latex Gloves
-* Road Flares
-* Duty Bag containing Ticket books, notepads, pens, and reports
-* Spike Strips
-* Plate Carrier - if not worn for duty
-* Rain Jacket
-* High Visibility Vest - For Traffic Control
-* Extra Equipment such as batteries, cable ties, tape and hand sanitizer
-
-### **Personal Equipment** <a href="#soplawenforcement-personalequipment" id="soplawenforcement-personalequipment"></a>
-
-All law enforcement personnel have the following items for use during their duty:
-
-* Individual First Aid Kit (On person)
-* Sidearm
-* Additional Magazines
-* Taser
-* 2 Taser Cartridges
-* Handcuffs
-* Baton
-* Radio
-* Latex Gloves
-* Pens
-* Notebook
-
-### **Weapons** <a href="#soplawenforcement-weapons" id="soplawenforcement-weapons"></a>
-
-All officers are equipped with a number of standard duty loadouts. These can be accessed by using standard commands in the text command line by pressing T and typing the spawn identifiers. Typing /clear removes your weapon loadout.
-
-They are as follows:
-
-* Baton
-* Taser
-* Service Pistol W/ Torch
-* Pump Shotgun W/ Torch
-* Mk II Carbine Rifle W/ Torch, Grip and any scope of the officer’s choice.(LEO1) Carbine Rifle W/ Torch, Grip (LEO2)
-
-### **Electronic Restraint Devices - Taser** <a href="#soplawenforcement-electronicrestraintdevices-taser" id="soplawenforcement-electronicrestraintdevices-taser"></a>
-
-Officers on duty carry taser devices with two cartridges. This tool is considered less than lethal but not entirely non lethal due to inherent risks to health, location of prong strike, and the situation the subject is in.\
-\\
-
-* When preparing to tase a subject, officers should issue a warning to the effect of “If you do not comply, I will tase you.”
-* When a taser is deployed, officers should where possible declare ‘taser taser taser’ before firing.
-* No subject should be tased on ladders, vehicles, edges of rooftops (or when running/walking towards an edge) or near slopes or drops.
-* Tasers should not be deployed on persons standing in water above ankle height, Any person tased in water of any sort should be actively removed from this drowning risk as soon as possible for their own safety. It is however preferable to tase subjects away from water where possible.
-* Due to the limitation on cartridges you carry, tasers should be preferentially used as a compliance tool, not the first method of stopping foot pursuits. Tasers provide us with a vital tool that allows us to disarm subjects with edged or blunt weapons without using lethal force; it is ideal to save your cartridges for these cases where a life might be saved rather than someone running. Tackling is a favored option for these cases.
-
-### **Unit Number Designations** <a href="#soplawenforcement-unitnumberdesignations" id="soplawenforcement-unitnumberdesignations"></a>
-
-These Designators will be used in your name in TeamSpeak when in patrol as Emergency Services as a prefix. (Eg: DL-DDD) To allow other units, civilians, and dispatch to know unit availability.
-
-| Letter | LEO         | NATO        | Unit Type                                            |
-| ------ | ----------- | ----------- | ---------------------------------------------------- |
-| **A**  | **ADAM**    | **ALFA**    | Administrative Monitoring \ No In-Game Participation |
-| **B**  | **BOY**     | **BRAVO**   | Department of Corrections                            |
-| **C**  | **CHARLES** | **CHARLIE** | Transit Authority / Commercial Vehicle Enforcement   |
-| **D**  | **DAVID**   | **DELTA**   | Dispatcher                                           |
-| **E**  | **EDWARD**  | **ECHO**    | Office of Fire Investigations                        |
-| **F**  | **FRANK**   | **FOXTROT** | San Andreas Fire & Rescue                            |
-| **G**  | **GEORGE**  | **GOLF**    | Grapeseed Volunteer Police                           |
-| **H**  | **HOTEL**   | **HOTEL**   | Aerial Transportation Safety Unit                    |
-| **K**  | **KING**    | **KILO**    | K-9 Unit                                             |
-| **M**  | **MARY**    | **MIKE**    | MotorBike Unit                                       |
-| **O**  | **OCEAN**   | **OSCAR**   | Port Authority                                       |
-| **P**  | **PAUL**    | **PAPA**    | Police Department                                    |
-| **Q**  | **QUEEN**   | **QUEBEC**  | Tactical EMS                                         |
-| **R**  | **ROBERT**  | **ROMEO**   | Park Rangers                                         |
-| **S**  | **SAM**     | **SIERRA**  | Sheriff’s Office                                     |
-| **T**  | **TOM**     | **TANGO**   | Traffic Enforcement Unit                             |
-| **X**  | **X-RAY**   | **X-RAY**   | Criminal Investigations Unit                         |
-| **Y**  | **YOUNG**   | **YANKEE**  | State Police                                         |
-| **Z**  | **ZULU**    | **ZULU**    | Special Weapons and Tactics                          |
-
-### **Sub Divisions** <a href="#soplawenforcement-subdivisions" id="soplawenforcement-subdivisions"></a>
-
-Sub Divisions are additional or complementary specialist units for law enforcement that provide expert assistance to patrol officers. These are open to join for any qualified LEO members without current active disciplinary action against them.\
-\\
-
-At this time they include:
-
-|              |                                                   |                                                                    |
-| ------------ | ------------------------------------------------- | ------------------------------------------------------------------ |
-| **ASU**      | Air Support Unit                                  | Aerial spotting and tracking/ Observation                          |
-| **ATSU**     | Aerial Transportation Safety Unit _(Part of ASU)_ | Investigation of air crashes and or drone deployment               |
-| **TEU**      | Traffic Enforcement Unit                          | Traffic accident investigation, DUI enforcement and road safety    |
-| **MBU**      | Motorbike Unit _(Part of TEU)_                    | Similar to TEU but on motorcycles                                  |
-| **CVE**      | Commercial Vehicle Enforcement _(Part of TA)_     | Specialists in Commercial Vehicle laws                             |
-| **CIU**      | Criminal Investigations Unit                      | Investigative Unit for serious crimes                              |
-| **OFI**      | Office of Fire Investigations                     | Investigative Unit for fires                                       |
-| **K-9 Unit** | The launchers of the Bork                         | Narcotics searches, suspect apprehension and corpse location       |
-| **PA**       | Port Authority                                    | Maritime and Port Enforcement                                      |
-| **TA**       | Transit Police                                    | Bus and Train System Enforcement                                   |
-| **PR**       | Park Rangers: Animal control / Parks Enforcement  | Equipped to handle animal related calls and state park enforcement |
-| **DOC**      | Department of Corrections                         | Prisons and Prisoner Transport                                     |
-| **SWAT**     | Special Weapons and Tactics                       | Specialist Armed Intervention                                      |
-| **GVPD**     | Grapeseed Volunteer Police Department             | Corn Enforcement Unit                                              |
-| **CAT**      | Community Action Team                             | Community outreach and interaction                                 |
-| **SEU \*\*** | Speed Enforcement Unit                            | Speed enforcement specialists                                      |
-
-\
-\\
-
-When specialist tools are needed, it is required to call for Sub Division assets. For example, TEU Would be called in for traffic accidents and intoxicated drivers. CIU would be called in for serious crime investigation and negotiation.\
-\
-\*\* Speed Enforcement Unit is technically a subdivision; however, members are selected by each department’s chain of command as a reward for performance and respond to regular calls for service alongside other officers.
+***
 
 ### **Use of Force** <a href="#soplawenforcement-useofforce" id="soplawenforcement-useofforce"></a>
 
@@ -160,7 +50,7 @@ For example, shooting someone is in most cases, not an appropriate use of force 
 
 The most simple way to explain force is via a process of escalation.
 
-\\
+
 
 If a subject has bare fists, Utilize your hands or baton.
 
@@ -168,7 +58,7 @@ If they have a bladed weapon, and you have a cover officer with a lethal weapon,
 
 **(If you are alone and facing someone with a Melee/bladed weapon, utilize lethal force.)**
 
-\\
+
 
 At all times when facing a subject with a melee weapon, attempt to maintain a distance of roughly 30ft (10m) this allows reaction time to safely stop the subject should they attempt to reach you.
 
@@ -180,9 +70,11 @@ At all times, we should be communicating with the suspect, and potentially warni
 
 Commands such as “Stop resisting.” or “If you do not stop resisting I may have to use force.” can be utilized to gain compliance.
 
-\\
 
-**Note, that at all times when you are interacting with the public, be they victims, witnesses or suspects, your body camera is to be running at all times to provide accountability and protect both them and you. (Note, Dash camera in your patrol vehicle automatically starts when the emergency lights are on with 30 seconds prior)**
+
+{% hint style="info" %}
+Note, that at all times when you are interacting with the public, be they victims, witnesses or suspects, your body camera is to be running at all times to provide accountability and protect both them and you. (Note, Dash camera in your patrol vehicle automatically starts when the emergency lights are on with 30 seconds prior)
+{% endhint %}
 
 **Reasonable Force**
 
@@ -208,8 +100,6 @@ Do note that while the Criminal Investigations Unit exists to investigate seriou
 
 ***
 
-***
-
 ### **Be On the Lookout For (BOLO)**
 
 A BOLO is a description in the CAD of a person, vehicle, or property. These notes are visible to all officers to **be on the lookout** for them. Criteria for BOLOs are listed below. If the criteria cannot be met, the BOLO cannot be submitted in the system.
@@ -220,7 +110,7 @@ A BOLO is a description in the CAD of a person, vehicle, or property. These note
 
 For any form of Bolo you should add your unit number at the end so officers know who to contact regarding said person, vehicle or item.
 
-\\
+
 
 **Arrest / Citation Records**
 
@@ -237,7 +127,7 @@ Ensure that an arrested party is uncuffed before you utilize the jail command (/
 Every arrest and citation filed in the CAD should have short officer notes attached. Failure to include any arrest notes will result in the automatic removal of the charge if the civilian contests it, whether they are guilty or not.\
 \
 A short descriptive note should be attached. Long descriptions are not necessary, only vital information.\
-\\
+
 
 Ensure you have the evidence to charge a person correctly before charges are filed and they are sent to jail, once they begin serving their sentence, no charges may be added or changed as double jeopardy will apply (they are serving time for this crime already) However, before being sent to jail with the jail script, if a charge is missed it can be added.
 
@@ -284,22 +174,15 @@ In-game you will see a priority timer on the top of the screen. This is an indic
 \
 LEO can call priority on the channel (10-33) for a number of reasons, the vast majority of which do not apply to the timer. (Eg: Foot Pursuit, or Felony Traffic Stop)
 
-\\
 
-\\
 
 If you are already on a call, or stop and a priority/All Call is initiated you **must** remain on scene if there is criminal prosecution (arrest is necessary) to be brought against a subject. Do not leave the scene to respond abandoning an active crime. Use officer discretion in this regard.
 
-\
-\
-\
-\
-\
-\\
+
 
 ### **All Calls** <a href="#soplawenforcement-allcalls" id="soplawenforcement-allcalls"></a>
 
-\\
+
 
 All Calls are defined as situations that cause a serious threat to the life of officers or the general public. Until a shots fired situation directly threatens life, only a determined number of officers need to be attached.
 
@@ -324,45 +207,37 @@ When a panic button is pressed by an officer, this initiates an automatic 10-99 
 
 Due to the fact that those buttons can have an All Call response to them, officers should not utilize this tool for Motor Vehicle Accidents (Use ai 911 caller or your radio)
 
-**Pursuit Tactics**
+### **Pursuit Tactics**
 
 Vehicle pursuits require coordination, and as such will constitute a priority on the channel allowing for communication of involved and attaching units.
 
 With this there are some rules that need to be followed,
 
-*
-  * Do not self-attach to a pursuit, even if it passes you. Wait for dispatch, or units involved, to ask for backup.
-  * The maximum number of units in pursuit is 3 unless necessary. Other units should be ready to deploy spikes / roadblocks upon request.
-  * The secondary unit or Air One will give 10-20s (aka directions). Utilize your PLD on the screen to give updates to the current road and direction of travel.
-  * Only the primary unit or a supervisor can request pursuit ending techniques such as roadblocks or spike strips. These are not to be deployed at will, and misuse will result in disciplinary action.
-  * Always call for Air Support during a pursuit when available, as this makes LEO’s job far easier.
-  * If shots are fired during a pursuit, back off to a safe distance (100-200m) and follow safely.
-  * Do not utilize oncoming lanes unless absolutely necessary and the primary officer reserves the right to call off pursuits if it becomes too dangerous to LEO or civilian life.
-  * If a pursuit gets too dangerous, the primary unit, a supervisor or Air One can call in tracking mode. This means that all units should reduce to code 1 and back off to a safe distance (500m - 800m).
-* **When an officer gets injured or is in a traffic collision, the last unit needs to break off and assist the injured officer.**
-* **When a civ drops an item / leaves a vehicle, the last unit is to secure this object / vehicle.**
-
-\\
+* Do not self-attach to a pursuit, even if it passes you. Wait for dispatch, or units involved, to ask for backup.
+* The maximum number of units in pursuit is 3 unless necessary. Other units should be ready to deploy spikes / roadblocks upon request.
+* The secondary unit or Air One will give 10-20s (aka directions). Utilize your PLD on the screen to give updates to the current road and direction of travel.
+* Only the primary unit or a supervisor can request pursuit ending techniques such as roadblocks or spike strips. These are not to be deployed at will, and misuse will result in disciplinary action.
+* Always call for Air Support during a pursuit when available, as this makes LEO’s job far easier.
+* If shots are fired during a pursuit, back off to a safe distance (100-200m) and follow safely.
+* Do not utilize oncoming lanes unless absolutely necessary and the primary officer reserves the right to call off pursuits if it becomes too dangerous to LEO or civilian life.
+* If a pursuit gets too dangerous, the primary unit, a supervisor or Air One can call in tracking mode. This means that all units should reduce to code 1 and back off to a safe distance (500m - 800m).
+* When an officer gets injured or is in a traffic collision, the last unit needs to break off and assist the injured officer.
+* When a civ drops an item / leaves a vehicle, the last unit is to secure this object / vehicle.
 
 Note that you must roleplay vehicle collisions to the best of your ability should they occur during a pursuit (For example: Slow down, pull over and fix a flat tire, or call out of the pursuit).
 
+***
+
 **APET (Rolling Roadblock)**\
-\\
 
-If a pursuit is slow enough and low violence, it is possible to use this technique to bring a pursuit to an end. It is only to be conducted with supervisor approval, and the following conditions must be met:
 
-* Weather: As long as you are able to see a reasonable distance (for safety, no heavy fog).
-* Traffic: Light traffic conditions in the immediate area of the maneuver, only due to the unpredictable nature of the suspects.
-* Can be used instead of a normal road block, but other methods must be used/failed or deemed inappropriate to use (hostage etc.)
-* Sufficient officer presence for the maneuver and back-up.
-* The suspect has not fired a firearm or similar devices at officers.
+See the Following page: [rolling-road-block-apet.md](rolling-road-block-apet.md "mention")
 
-\\
+***
 
 **Spike Strips**
 
-Spike Strips may be deployed on a fleeing vehicle under the following conditions:\
-\\
+Spike Strips may be deployed on a fleeing vehicle under the following conditions:
 
 * No hostages are present in the vehicle.
 * The vehicle has been fleeing for over 10 minutes and has shown no sign of stopping by other means.
@@ -484,7 +359,7 @@ Regarding injury and death, refer to the Civilian SOP. If you are injured and ho
 
 If you are on duty as a LEO, you cannot claim ownership of a property on the map if a civilian is using it for a scene. This easily leads to powergaming scenes and it will not be tolerated. We have a very limited number of properties with interiors in game and it's important that we're not trying to powergame one another when others are attempting to use them.
 
-\\
+
 
 As law enforcement officers, it is our duty to be kind and courteous in the face of aggression and disruption. It is not an easy task, however it is our job to deescalate a scene rather than escalate it. By being calm and respectful, we not only increase the trust citizens place on us, but help to reduce the stress level of a scene or situation and prevent injury or escalation.
 
@@ -502,9 +377,9 @@ Badges are not to be worn off duty unless on an active crime scene or incident, 
 
 While we do not prohibit the wearing of department badges or the department tee shirts off duty, be aware that this is quite unrealistic for real officers and usually isn’t done outside of certain places like the gym, or social functions (shirts) or when in a station or at a crime scene or accident (badges) these things can and will make you a target for those that hate law enforcement and will signal you as a primary target to criminals attempting a robbery (They will shoot you first as the biggest threat)\
 \
-Note, that you can and will be removed from emergency services qualified status on a given character if you commit crimes off duty and or lose your drivers licence due to traffic infractions.
+Note, that you can and will be removed from emergency services qualified status on a given character if you commit crimes off duty and or lose your drivers license due to traffic infractions.
 
-\\
+
 
 **Lore Vehicles and Uniforms**
 

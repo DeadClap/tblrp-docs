@@ -32,6 +32,8 @@
 ## Standard Operating Procedures
 
 * [SOP - Law Enforcement](standard-operating-procedures/sop-law-enforcement/README.md)
+  * [Unit Designation](standard-operating-procedures/sop-law-enforcement/unit-designation.md)
+  * [Patrol Equipment](standard-operating-procedures/sop-law-enforcement/patrol-equipment.md)
   * [Rolling Road Block - APET](standard-operating-procedures/sop-law-enforcement/rolling-road-block-apet.md)
   * [Training - Law Enforcement Officer](standard-operating-procedures/sop-law-enforcement/training-law-enforcement-officer.md)
 * [SOP - Blaine County Sheriff's Office](standard-operating-procedures/sop-blaine-county-sheriffs-office/README.md)
