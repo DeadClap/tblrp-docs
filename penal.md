@@ -1698,22 +1698,22 @@ The following tables provide a quick reference to all crimes, punishments, and p
 
 ### **Title 1: Crimes Against the Person**
 
-| Code Name                           | Code Number | Code Type   | Punishment                         |
-| ----------------------------------- | ----------- | ----------- | ---------------------------------- |
-| Criminal Threats                    | (1)01       | Misdemeanor | 60 seconds                         |
-| Assault                             | (1)02       | Misdemeanor | 60 seconds & $1,000                |
-| Assault with a Deadly Weapon        | (1)03       | Felony      | 120 seconds & $10,000              |
-| Battery                             | (1)04       | Misdemeanor | 60 seconds & $2,000                |
-| Aggravated Battery                  | (1)05       | Felony      | 120 seconds                        |
-| Attempted Murder                    | (1)06       | Felony      | 240 seconds and $10,000            |
-| Manslaughter                        | (1)07       | Felony      | 270 seconds                        |
-| Second Degree Murder                | (1)08       | Felony      | 360 seconds                        |
-| First Degree Murder                 | (1)09       | Felony      | Life Sentence ((delete character)) |
-| False Imprisonment                  | (1)10       | Misdemeanor | 60 seconds and $1,000              |
-| Kidnapping                          | (1)11       | Felony      | 210 seconds                        |
-| Torture                             | (1)12       | Felony      | 600 seconds                        |
-| Reckless Endangerment - Misdemeanor | (1)13       | Misdemeanor | 60 seconds and $1,000              |
-| Reckless Endangerment - Felony      | (1)14       | Felony      | 180 seconds                        |
+| Code Number | Code Type   | Code Name                           | Jail Time                          | Bond / Fine Amount |
+| ----------- | ----------- | ----------------------------------- | ---------------------------------- | ------------------ |
+| (1)01       | Misdemeanor | Criminal Threats                    | 60 seconds                         | 0                  |
+| (1)02       | Misdemeanor | Assault                             | 60 seconds & $1,000                | 1000               |
+| (1)03       | Felony      | Assault with a Deadly Weapon        | 120 seconds & $10,000              | 10000              |
+| (1)04       | Misdemeanor | Battery                             | 60 seconds & $2,000                | 2000               |
+| (1)05       | Felony      | Aggravated Battery                  | 120 seconds                        | 0                  |
+| (1)06       | Felony      | Attempted Murder                    | 240 seconds and $10,000            | 10000              |
+| (1)07       | Felony      | Manslaughter                        | 270 seconds                        | 0                  |
+| (1)08       | Felony      | Second Degree Murder                | 360 seconds                        | 0                  |
+| (1)09       | Felony      | First Degree Murder                 | Life Sentence ((delete character)) | 0                  |
+| (1)10       | Misdemeanor | False Imprisonment                  | 60 seconds and $1,000              | 1000               |
+| (1)11       | Felony      | Kidnapping                          | 210 seconds                        | 0                  |
+| (1)12       | Felony      | Torture                             | 600 seconds                        | 0                  |
+| (1)13       | Misdemeanor | Reckless Endangerment - Misdemeanor | 60 seconds and $1,000              | 1000               |
+| (1)14       | Felony      | Reckless Endangerment - Felony      | 180 seconds                        | 0                  |
 
 ### **Title 2: Crimes Against Property and Criminal**
 
