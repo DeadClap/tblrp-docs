@@ -130,9 +130,9 @@ _**THIS PENAL CODE AND RELATED DOCUMENTS, AMENDMENTS AND ADDITIONS ARE NOT LEGAL
 
 #### Infraction - Least serious violation of the penal code. Results in a fine and/or loss of a privilege.
 
-#### Misdemeanor - Minor violation of the penal code. Results in arrest, a fine and/or jail time generally up to 60 seconds.
+#### Misdemeanor - Minor violation of the penal code. Results in arrest, a fine and/or jail time generally up to 1 Month.
 
-#### Felony - Serious violation of the penal code. Results in a fine and jail time of at least 60 seconds.
+#### Felony - Serious violation of the penal code. Results in a fine and jail time of at least 1 Month.
 
 ### **(0)05. Out of Character Notes**
 
@@ -150,7 +150,7 @@ All items in (()) refer to Out of Character Notes.
 2. A person who communicates that they will physically harm or kill another person’s close friends or relatives is guilty under this code section.
 3. Such communication can be not just verbal, but also in writing or transmitted through other media is guilty under this code section.
 
-\- Violations of Penal Code (1)01 are a misdemeanor with 60 seconds imprisonment.
+\- Violations of Penal Code (1)01 are a misdemeanor with 1 Month imprisonment.
 
 NOTE: Criminal Threats differs from assault in terms of the distance between the acts. Criminal Threats can occur across the street, while assault is up close, within reach of leading to battery
 
@@ -158,7 +158,7 @@ NOTE: Criminal Threats differs from assault in terms of the distance between the
 
 1. A person who intentionally puts another in the reasonable belief of imminent physical harm or offensive contact is guilty under this code section.
 
-\- Violations of Penal Code (1)02 are a misdemeanor with 60 seconds imprisonment and a fine of $1,000.
+\- Violations of Penal Code (1)02 are a misdemeanor with 1 Month imprisonment and a fine of $1,000.
 
 NOTE: Assault is defined by distance the threats occur. Someone a few feet away threatening to harm or kill you at any moment is assault. Criminal Threats is less severe as there’s a distance that someone can escape through, or that the perpetrator has more time to reconsider the threat. Any unwanted physical contact is considered to be battery, however grabbing someone during a threat may be either assault or battery, depending on intention and interpretation.
 
@@ -172,7 +172,7 @@ NOTE: Assault is defined by distance the threats occur. Someone a few feet away 
 
 1. A person who uses intentional and unlawful force or violence to cause physical harm to another person is guilty under this code section.
 
-\- Violations of Penal Code (1)04 are a misdemeanor with 60 seconds imprisonment and a fine of $2,000.
+\- Violations of Penal Code (1)04 are a misdemeanor with 1 Month imprisonment and a fine of $2,000.
 
 ### **(1)05. Aggravated Battery**
 
@@ -199,7 +199,7 @@ NOTE: Manslaughter is homicide that is not premeditated or proven to have intent
 
 1. A person who unlawfully kills another with malice aforethought is guilty under this code section.
 
-\- Violations of Penal Code (1)08 are a felony with 360 seconds imprisonment.
+\- Violations of Penal Code (1)08 are a felony with 31 Month imprisonment.
 
 ### **(1)09. First Degree Murder**
 
@@ -213,7 +213,7 @@ NOTE: Manslaughter is homicide that is not premeditated or proven to have intent
 
 1. A person who intentionally and unlawfully restrained, detained, or confined a person and made the person stay or go somewhere against his or her will is guilty under this code section.
 
-\- Violations of Penal Code (1)09 are a misdemeanor with 60 seconds imprisonment and a fine of $1,000.
+\- Violations of Penal Code (1)09 are a misdemeanor with 1 Month imprisonment and a fine of $1,000.
 
 ### **(1)11. Kidnapping**
 
@@ -233,7 +233,7 @@ NOTE: Manslaughter is homicide that is not premeditated or proven to have intent
 
 1. A person who’s conduct creates a substantial serious risk of injury to another person is guilty under this code section.
 
-\- Violations of Penal Code (1)12 are a misdemeanor with 60 seconds imprisonment and a fine of $1,000.
+\- Violations of Penal Code (1)12 are a misdemeanor with 1 Month imprisonment and a fine of $1,000.
 
 ### **(1)14. Reckless Endangerment - Felony**
 
@@ -271,14 +271,14 @@ NOTE: A person cannot trespass on their own property. A peace officer may not te
 4. This charge cannot stack with (2)02. Trespassing
 5. This charge cannot stack with any form of Burglary.
 
-\- Violations of Penal Code (2)03 are a felony with imprisonment for 60 seconds.
+\- Violations of Penal Code (2)03 are a felony with imprisonment for 1 Month.
 
 ### **(2)04. Burglary**
 
 1. A person who enters a structure without the permission of the owner or agent of the owner is guilty under this code section.
 2. This crime cannot stack with any form of Trespassing.
 
-\- Violations of Penal Code (2)04 are a misdemeanor with 60 seconds imprisonment.
+\- Violations of Penal Code (2)04 are a misdemeanor with 1 Month imprisonment.
 
 NOTE : Burglary can include homes, apartments, offices, vehicles or any locked space with restricted access. Burglary is also committed irrelevant if any theft or other crime takes place. A less severe act of burglary is trespassing, which would account for instances where there is no intent to commit a crime, no locked door or other physical restriction. The occupancy state of the structure is not relevant to this penal code. This charge can stack with robbery and or theft as appropriate.
 
@@ -286,7 +286,7 @@ NOTE : Burglary can include homes, apartments, offices, vehicles or any locked s
 
 1. A person who has in their possession the appropriate combination of tools necessary to commit burglary, such as a tension bar along with a screwdriver, shimmy, or other appropriate items is guilty under this code section.
 
-\- Violations of Penal Code (2)05 is a misdemeanor with 60 seconds imprisonment and a fine of $1,000.
+\- Violations of Penal Code (2)05 is a misdemeanor with 1 Month imprisonment and a fine of $1,000.
 
 NOTE: It must be demonstrated that the person has a certain combination of these tools or in an appropriate context that would assume their usage in burglary. Having a screwdriver is not punishable alone, but a screwdriver, along with a tension bar, is punishable.
 
@@ -381,7 +381,7 @@ NOTES: Extortion depends on a person or organization using its authority, power,
 3. A person who intentionally exposes their naked body or genitalia on private property without permission of the property owner is guilty under this code section.
 4. A person who engages in sex or other sexual activity in view of a minor is guilty under this code section.
 
-\- Violations of Penal Code(3)02 is a felony with 60 seconds imprisonment and a fine of $1,000.
+\- Violations of Penal Code(3)02 is a felony with 1 Month imprisonment and a fine of $1,000.
 
 NOTE: Private parties / reservations in public areas are considered public events that can be restricted and therefore permit naked bodies. It is when it is in a public area or exposed to children that it is indecent exposure.
 
@@ -389,7 +389,7 @@ NOTE: Private parties / reservations in public areas are considered public event
 
 1. A person who knowingly engages in or offers to engage in a sexual act in exchange for payment or other goods and services is guilty under this code section.
 
-\- Violations of Penal Code (3)03 is a misdemeanor with 60 seconds imprisonment and a fine of $2,000.
+\- Violations of Penal Code (3)03 is a misdemeanor with 1 Month imprisonment and a fine of $2,000.
 
 NOTE: Anyone who cannot be proven to commit prostitution may charged with Indecent Exposure or Lewd or Dissolute Conduct depending on the circumstances.
 
@@ -445,19 +445,19 @@ NOTE: Anyone who cannot be proven to commit prostitution may charged with Indece
 1. A person who provides false information or details to a peace officer during the course of a criminal investigation or lawful detainment is guilty under this code section.
 2. A person who provides knowingly inaccurate data to a government employee investigating in some official capacity is guilty under this code section.
 
-\- Violations of Penal Code (4)03 is a misdemeanor with 60 seconds imprisonment and a fine of $1,000.
+\- Violations of Penal Code (4)03 is a misdemeanor with 1 Month imprisonment and a fine of $1,000.
 
 ### **(4)04. Filing A False Police Report**
 
 1. A person who reports to any peace officer that a felony or misdemeanor has been committed knowing the report to be false is guilty under this code section.
 
-\- Penal Code (4)04 is a misdemeanor with 60 seconds imprisonment.
+\- Penal Code (4)04 is a misdemeanor with 1 Month imprisonment.
 
 ### **(4)05. Failure To Identify To A Peace Officer**
 
 1. A person who, while being detained or under arrest by a peace officer, fails to provide a peace officer or other legal authority their name as it appears on an I.D. card or other identifiable information for MDC purposes is guilty under this code section.
 
-\- Violations of Penal Code (4)05 is a misdemeanor with 60 seconds imprisonment and a fine of $1,000.
+\- Violations of Penal Code (4)05 is a misdemeanor with 1 Month imprisonment and a fine of $1,000.
 
 ((NOTE: Once a subject has been taken to jail for booking they shall provide their character information out of character if they elect to not identify in character.))
 
@@ -475,7 +475,7 @@ NOTE: Anyone who cannot be proven to commit prostitution may charged with Indece
 1. A person who shows a clear and motivated attempt to prevent a government employee from conducting their duties is guilty under this code section.
 2. A person who fails to comply with an officer's lawful orders is guilty under this code section.
 
-\- Violations of Penal Code (4)07 is a misdemeanor with 60 seconds imprisonment and a $1,000 fine.
+\- Violations of Penal Code (4)07 is a misdemeanor with 1 Month imprisonment and a $1,000 fine.
 
 NOTE: A government employee would need to contact a peace officer to get the charge of Obstruction issued.
 
@@ -484,7 +484,7 @@ NOTE: A government employee would need to contact a peace officer to get the cha
 1. A person who avoids apprehension from an officer by non-vehicular means or resists apprehension by any physical means is guilty under this code section is guilty under this code section.
 2. This charge does not include the attempt to flee and elude by vehicular means, which is (8)29. Evading a Peace Officer.
 
-\- Violations of Penal Code (4)08 is a misdemeanor with 60 seconds imprisonment and a $1,000 fine.
+\- Violations of Penal Code (4)08 is a misdemeanor with 1 Month imprisonment and a $1,000 fine.
 
 NOTE: Resisting with physical violence can additionally result in assault and/or battery charges. This section does not apply to citizen's arrest. Resisting a citizen’s arrest may be considered battery when unreasonable force is used.
 
@@ -492,7 +492,7 @@ NOTE: Resisting with physical violence can additionally result in assault and/or
 
 1. A person who has been physically detained or arrested by a peace officer and escapes or attempts to escape from said Peace Officer’s personal custody is guilty under this code section
 
-\- Violations of Penal Code (4)09 is a misdemeanor with 60 seconds imprisonment in addition to any outstanding charges on an individual who commits an escape.
+\- Violations of Penal Code (4)09 is a misdemeanor with 1 Month imprisonment in addition to any outstanding charges on an individual who commits an escape.
 
 NOTE: Escaping with physical violence can additionally result in assault and/or battery charges.
 
@@ -570,7 +570,7 @@ Note: The simple fact of making a claim to be a lawyer is not enough for a charg
 
 A. Examples include but are not limited to being excessively loud or belligerent, refusing to be sworn in as a witness, refusing to comply with a judges request, and willfully disobeying a court order.
 
-Note: This section must be charged by a judge. ((Because court proceeding are out of game this charge should be filed as a warrant so that the time will be served at the time of the next jailing)) -Violations of (4)19 are a misdemeanor with 60 seconds imprisonment and a fine of $1000
+Note: This section must be charged by a judge. ((Because court proceeding are out of game this charge should be filed as a warrant so that the time will be served at the time of the next jailing)) -Violations of (4)19 are a misdemeanor with 1 Month imprisonment and a fine of $1000
 
 ### **(4)20. Posse Comitatus Act**
 
@@ -600,11 +600,11 @@ Note: This section must be charged by a judge. ((Because court proceeding are ou
 2. Whenever two or more persons assemble together to do an unlawful act, or do a lawful act in a violent, boisterous, or tumultuous manner is guilty under this code section.
 3. Remaining present at the place of any unlawful assembly, after the same has been lawfully warned to disperse, except public officers and persons assisting them in attempting to disperse the same is guilty under this code section.
 
-\- Violations of Penal Code (5)02 is a misdemeanor with 60 seconds imprisonment.
+\- Violations of Penal Code (5)02 is a misdemeanor with 1 Month imprisonment.
 
 ### **(5)03. Incitement To Riot**
 
-1. A person who with the intent to cause a riot does an act or engages in conduct that urges a riot, or urges others to commit acts of force or violence, or the burning or destroying of property, and at a time and place and under circumstances that produce a clear and present and immediate danger of acts of force or violence or the burning or destroying of property is guilty under this code section.Violations of Penal Code (5)03 is a misdemeanor with 60 seconds imprisonment and a $1,000 fine.
+1. A person who with the intent to cause a riot does an act or engages in conduct that urges a riot, or urges others to commit acts of force or violence, or the burning or destroying of property, and at a time and place and under circumstances that produce a clear and present and immediate danger of acts of force or violence or the burning or destroying of property is guilty under this code section.Violations of Penal Code (5)03 is a misdemeanor with 1 Month imprisonment and a $1,000 fine.
 
 ## **Title 6. Of Crimes Against Public Health And Safety**
 
@@ -617,7 +617,7 @@ Note: This section must be charged by a judge. ((Because court proceeding are ou
    * More than 6 plants when such plants in located in a private residence.
 3. Cannabis is legal in the state of San andreas. You may apply for a license to grow and distribute to vendors/dispensaries in the sheriff's office.
 
-\- Violations of Penal Code (6)01 is a misdemeanor with 60 seconds imprisonment and a fine of $1,000.
+\- Violations of Penal Code (6)01 is a misdemeanor with 1 Month imprisonment and a fine of $1,000.
 
 NOTE: A controlled substance is either a prescription medication or any substance on the following list:[https://www.deadiversion.usdoj.gov/schedules/orangebook/c\_cs\_alpha.pdf](https://www.deadiversion.usdoj.gov/schedules/orangebook/c\_cs\_alpha.pdf) except cannabis (marajuana).
 
@@ -634,7 +634,7 @@ NOTE: A controlled substance is either a prescription medication or any substanc
 
 1. A person who willingly possesses a device or mechanism used exclusively for the processing or consumption of an illegal controlled substance is guilty under this code section.
 
-\- Violations of Penal Code (6)03 is a misdemeanor with 60 seconds imprisonment and a fine of $1,000.
+\- Violations of Penal Code (6)03 is a misdemeanor with 1 Month imprisonment and a fine of $1,000.
 
 ### **(6)04. Maintaining A Place For The Purpose Of Distribution**
 
@@ -670,15 +670,15 @@ NOTE: Since it’s irrelevant of possession, this charge can indeed stack with w
 
 1. A person who uses or is under the influence of a controlled substance or dangerous substance without the proper permits or prescription to use such a substance is guilty under this code section.
 
-\- Penal Code (6)08 is a misdemeanor with 60 seconds imprisonment.
+\- Penal Code (6)08 is a misdemeanor with 1 Month imprisonment.
 
 ### **(6)09. Detention of Mentally Disordered Persons**
 
-1. When a person, as a result of a mental health disorder, is a danger to others, or to himself or herself, or gravely disabled, a peace officer may, upon probable cause, take, or cause to be taken, the person into custody for a period of up to 60 seconds for assessment, evaluation, and crisis intervention, or placement for evaluation and treatment in a facility designated by the county for evaluation and treatment and approved by the State.
+1. When a person, as a result of a mental health disorder, is a danger to others, or to himself or herself, or gravely disabled, a peace officer may, upon probable cause, take, or cause to be taken, the person into custody for a period of up to 1 Month for assessment, evaluation, and crisis intervention, or placement for evaluation and treatment in a facility designated by the county for evaluation and treatment and approved by the State.
 
 \- Penal Code (6)09 is not a criminal offense but rather a policy for the handling of mental health disorders.
 
-NOTE: Persons who are held under this code have not committed a crime and are being held for their own well being. Use of this code does not stack with any charge and cannot be used in lieu of a standard punishment for a crime. If a crime has been committed this section is not to be used. This is commonly referred to as a 5150 hold or a baker act hold. This section is most commonly used after an attempted suicide or a person threatening to commit suicide. ((Application of this section is done by use of the hospital script for 60 seconds.))
+NOTE: Persons who are held under this code have not committed a crime and are being held for their own well being. Use of this code does not stack with any charge and cannot be used in lieu of a standard punishment for a crime. If a crime has been committed this section is not to be used. This is commonly referred to as a 5150 hold or a baker act hold. This section is most commonly used after an attempted suicide or a person threatening to commit suicide. ((Application of this section is done by use of the hospital script for 1 Month.))
 
 ## **Title 7: Crimes Against State Dependents**
 
@@ -782,7 +782,7 @@ NOTES: "Domesticated" refers to animals listed in [this list](http://en.wikipedi
 
 1. No person shall drive a motor vehicle at any time when that person’s driving privilege is suspended or revoked.
 
-\- First Violations of Penal Code (8)06 are a misdemeanor with 60 seconds imprisonment, a $1,000 fine, and 6 days added to the current license suspension. A vehicle that is being driven by someone with a suspended or revoked driver’s license shall be impounded until such time that the owner demonstrate he/she has a valid license and upon payment of impound fees (($150 per day)).
+\- First Violations of Penal Code (8)06 are a misdemeanor with 1 Month imprisonment, a $1,000 fine, and 6 days added to the current license suspension. A vehicle that is being driven by someone with a suspended or revoked driver’s license shall be impounded until such time that the owner demonstrate he/she has a valid license and upon payment of impound fees (($150 per day)).
 
 \- Second violation of Penal Code (8)06 within 60 days of a previous violation are a misdemeanor with 90 seconds imprisonment, a $2,000 fine, and 12 days added to the current license suspension. A vehicle that is being driven by someone with a suspended or revoked driver’s license shall be impounded and shall be forfeited ((permanently seized with no return)) if the person violating this penal code is the registered owner. If the violator is not the registered owner the registered owner may pickup the vehicle upon demonstration of a valid license and upon payment of all fees (($150 per day)).
 
@@ -1010,11 +1010,11 @@ When there is intent to harm this charge can be stacked with assault with a dead
 3. A person who is under the age of 21 and drives a vehicle or operate heavy machinery while under the influence of alcohol at or above the legal limit of 0.05 percent BAV
 4. A person who drives or operates heavy machinery under the influence of awareness-altering drugs, regardless of whether those drugs are being used under a prescription.
 
-\- First offenses of penal Code (8)24 are a misdemeanor with 60 seconds imprisonment, a fine of $1000, and license suspension for 10 days.
+\- First offenses of penal Code (8)24 are a misdemeanor with 1 Month imprisonment, a fine of $1000, and license suspension for 10 days.
 
-\- Second offenses of penal Code (8)24 within 120 days of a first offense is a misdemeanor with 60 seconds imprisonment, a fine of $1000, and license suspension for 24 days.
+\- Second offenses of penal Code (8)24 within 120 days of a first offense is a misdemeanor with 1 Month imprisonment, a fine of $1000, and license suspension for 24 days.
 
-\- Third offenses of penal Code (8)24 within 120 days of a first and second offense are a misdemeanor with 60 seconds imprisonment, a fine of $1000, and license suspension for 36 days.
+\- Third offenses of penal Code (8)24 within 120 days of a first and second offense are a misdemeanor with 1 Month imprisonment, a fine of $1000, and license suspension for 36 days.
 
 ### **(8)27. Enhanced Driving Under The Influence (DUI)**
 
@@ -1048,7 +1048,7 @@ NOTE: When the person committing the offense is under 21 years old this charge m
 1. A person who, while operating a vehicle on land, sea, or in air, or while operating a bicycle, willfully flees or otherwise attempts to elude or avoid a pursuing peace officer who communicates visually or audibly their request to pull over or stop is guilty under this code.
 2. This charge does not include the attempt to flee and elude by foot, which is (4)8. Resisting a Peace Officer.
 
-\- Violations of Penal Code (8)29 are a misdemeanor with 60 seconds imprisonment, a $1,000 fine, and impoundment of the vehicle used.
+\- Violations of Penal Code (8)29 are a misdemeanor with 1 Month imprisonment, a $1,000 fine, and impoundment of the vehicle used.
 
 NOTE: A passenger of a vehicle cannot directly commit this crime. However, such a person may be charged as an accessory under (13)05 if the requirements of that section are met.
 
@@ -1152,14 +1152,14 @@ NOTE: Each piece of equipment missing or not authorized is a violation of this c
    * Any firearm in a manner that is against any firearms license restrictions that have been issued
 2. Exception: A peace officer may possess or use such a weapon when required to do so under the performance of his/her peace officer duties.
 
-\- Violations of Penal Code (9)01 is a misdemeanor with 60 seconds imprisonment and a $1,000 fine.
+\- Violations of Penal Code (9)01 is a misdemeanor with 1 Month imprisonment and a $1,000 fine.
 
 ### **(9)02. Brandishing A Firearm**
 
 1. A person who is pointing, holding, openly carrying or brandishing a firearm, air or gas operated weapon, or object that appears like a firearm without proper toy and prop identification in an attempt to elicit fear or hysteria is guilty under this code.
 2. A person holding an object in a manner similar to a firearm who attempts to elicit the same fear or response as brandishing an actual firearm is guilty under this code.
 
-\- Violations of Penal Code (9)02 is a misdemeanor with 60 seconds imprisonment and a fine of $1,000.
+\- Violations of Penal Code (9)02 is a misdemeanor with 1 Month imprisonment and a fine of $1,000.
 
 NOTE: Brandishing explicitly notes that the purpose is to elicit fear or hysteria. A Weapons Discharge violation is irrelevant of the intent to elicit hysteria so the two charges can be stacked if appropriate.
 
@@ -1185,7 +1185,7 @@ NOTE: This charge can stack with brandishing a firearm, so you can in fact be ch
 1. A person who fails to immediately inform a peace officer of a firearm or deadly weapon that is concealed on the person or within his or her control is guilty under this code section. Informing a peace officer must occur within the 1st minute of contact with a peace officer, or exceed the expiration of the initial contact, whichever is shorter.
 2. A person who fails to allow a peace officer to secure the deadly weapon, or fails to secure the weapon at the discretion of the peace officer during the duration of the contact is guilty under this code section.
 
-\- Violations of Penal Code (9)05 are a misdemeanor with 60 seconds imprisonment, a fine of $1,000, and revocation of any weapons permit the holder carries.
+\- Violations of Penal Code (9)05 are a misdemeanor with 1 Month imprisonment, a fine of $1,000, and revocation of any weapons permit the holder carries.
 
 ## **Title 10: Operation of Commercial Motor Vehicles**
 
@@ -1646,7 +1646,7 @@ Boar / Coyote / Crow / Deer / Fish / Mountain Lion / Pigeon / Rabbit
 
 1. Any person who illegally takes or possesses in the field more than three times the daily bag limit, or who illegally possesses more than three times the legal possession limit is guilty under this penal code.
 
-\- Violations of Penal Code (16)04 are a misdemeanor with a $40,000 fine and 60 seconds imprisonment.
+\- Violations of Penal Code (16)04 are a misdemeanor with a $40,000 fine and 1 Month imprisonment.
 
 ### **(16)05. Hunting Hours**
 
@@ -1674,7 +1674,7 @@ Boar / Coyote / Crow / Deer / Fish / Mountain Lion / Pigeon / Rabbit
 
 1. A person who illegally takes, possesses, imports, exports, sells, purchases, barters, trades, or exchanges an animal, or part of any of those animals, for profit or personal gain, is guilty under this penal code.
 
-\- Violations of Penal Code (16)08 are a misdemeanor with a $40,000 fine and 60 seconds imprisonment.
+\- Violations of Penal Code (16)08 are a misdemeanor with a $40,000 fine and 1 Month imprisonment.
 
 ### **(16)09. Use of Animals**
 
@@ -1698,205 +1698,232 @@ The following tables provide a quick reference to all crimes, punishments, and p
 
 ### **Title 1: Crimes Against the Person**
 
-| Code Number | Code Type   | Code Name                           | Jail Time                          | Bond / Fine Amount |
-| ----------- | ----------- | ----------------------------------- | ---------------------------------- | ------------------ |
-| (1)01       | Misdemeanor | Criminal Threats                    | 60 seconds                         | 0                  |
-| (1)02       | Misdemeanor | Assault                             | 60 seconds & $1,000                | 1000               |
-| (1)03       | Felony      | Assault with a Deadly Weapon        | 120 seconds & $10,000              | 10000              |
-| (1)04       | Misdemeanor | Battery                             | 60 seconds & $2,000                | 2000               |
-| (1)05       | Felony      | Aggravated Battery                  | 120 seconds                        | 0                  |
-| (1)06       | Felony      | Attempted Murder                    | 240 seconds and $10,000            | 10000              |
-| (1)07       | Felony      | Manslaughter                        | 270 seconds                        | 0                  |
-| (1)08       | Felony      | Second Degree Murder                | 360 seconds                        | 0                  |
-| (1)09       | Felony      | First Degree Murder                 | Life Sentence ((delete character)) | 0                  |
-| (1)10       | Misdemeanor | False Imprisonment                  | 60 seconds and $1,000              | 1000               |
-| (1)11       | Felony      | Kidnapping                          | 210 seconds                        | 0                  |
-| (1)12       | Felony      | Torture                             | 600 seconds                        | 0                  |
-| (1)13       | Misdemeanor | Reckless Endangerment - Misdemeanor | 60 seconds and $1,000              | 1000               |
-| (1)14       | Felony      | Reckless Endangerment - Felony      | 180 seconds                        | 0                  |
+| Code      | Type        | Title                              | Bond Type           | Jail Time            | Bond / Fine Amount |
+| --------- | ----------- | ---------------------------------- | ------------------- | --------------------| ------------------ |
+| (1)01     | Misdemeanor | Criminal Threats                   | Citation Release    | 1 Month              | 0                  |
+| (1)02     | Misdemeanor | Assault                            | Surety Bond         | 1 Month              | $1,000             |
+| (1)03     | Felony      | Assault with a Deadly Weapon       | Cash Bail           | 2 Months             | $10,000            |
+| (1)04     | Misdemeanor | Battery                            | Recognizance Release | 1 Month              | $2,000             |
+| (1)05     | Felony      | Aggravated Battery                 | Surety Bond         | 2 Months             | 0                  |
+| (1)06     | Felony      | Attempted Murder                   | Cash Bail           | 4 Months             | $10,000            |
+| (1)07     | Felony      | Manslaughter                       | No Bail             | 4.5 Months           | 0                  |
+| (1)08     | Felony      | Second Degree Murder               | No Bail             | 3 Months             | 0                  |
+| (1)09     | Felony      | First Degree Murder                | No Bail             | Life Sentence       | 0                  |
+| (1)10     | Misdemeanor | False Imprisonment                 | Recognizance Release | 1 Month              | $1,000             |
+| (1)11     | Felony      | Kidnapping                         | No Bail             | 3.5 Months           | 0                  |
+| (1)12     | Felony      | Torture                            | No Bail             | 10 Months            | 0                  |
+| (1)13     | Misdemeanor | Reckless Endangerment - Misdemeanor| Citation Release    | 1 Month              | $1,000             |
+| (1)14     | Felony      | Reckless Endangerment - Felony     | No Bail             | 3 Months             | 0                  |
+
+
 
 ### **Title 2: Crimes Against Property and Criminal**
 
-| Code Name                                | Code Number | Code Type   | Punishment            |
-| ---------------------------------------- | ----------- | ----------- | --------------------- |
-| Arson                                    | (2)01       | Felony      | 210 seconds           |
-| Trespassing                              | (2)02       | Misdemeanor | $1,000                |
-| Trespassing within a Restricted Facility | (2)03       | Felony      | 60 seconds            |
-| Burglary                                 | (2)04       | Misdemeanor | 60 seconds            |
-| Possession of Burglary Tools             | (2)05       | Misdemeanor | 60 seconds and $1,000 |
-| Robbery                                  | (2)06       | Felony      | 150 seconds           |
-| Armed Robbery                            | (2)07       | Felony      | 390 seconds           |
-| Petty Theft                              | (2)08       | Misdemeanor | $1,000                |
-| Grand Theft                              | (2)09       | Felony      | 90 seconds            |
-| Grand Theft Auto                         | (2)10       | Felony      | 90 seconds            |
-| Receiving Stolen Property                | (2)11       | Felony      | 90 seconds & $10,000  |
-| Extortion                                | (2)12       | Felony      | 120 seconds & $10,000 |
-| Forgery/Fraud                            | (2)13       | Felony      | 90 seconds            |
-| Vandalism                                | (2)14       | Misdemeanor | 90 seconds            |
+| Code      | Type        | Title                                    | Bond Type           | Jail Time      | Bond / Fine Amount |
+| --------- | ----------- | ---------------------------------------- | ------------------- | -------------- | ------------------ |
+| (2)01     | Felony      | Arson                                    | No Bail             | 3.5 Months    | 0                  |
+| (2)02     | Misdemeanor | Trespassing                              | Citation Release    | 0              | $1,000             |
+| (2)03     | Felony      | Trespassing within a Restricted Facility | Cash Bail           | 1 Month       | 0                  |
+| (2)04     | Misdemeanor | Burglary                                 | Recognizance Release | 1 Month       | 0                  |
+| (2)05     | Misdemeanor | Possession of Burglary Tools             | Citation Release    | 1 Month       | $1,000             |
+| (2)06     | Felony      | Robbery                                  | Cash Bail           | 2.5 Months    | 0                  |
+| (2)07     | Felony      | Armed Robbery                            | No Bail             | 6.5 Months    | 0                  |
+| (2)08     | Misdemeanor | Petty Theft                              | Citation Release    | 0              | $1,000             |
+| (2)09     | Felony      | Grand Theft                              | Cash Bail           | 1.5 Months    | 0                  |
+| (2)10     | Felony      | Grand Theft Auto                         | Cash Bail           | 1.5 Months    | 0                  |
+| (2)11     | Felony      | Receiving Stolen Property                | Cash Bail           | 1.5 Months    | $10,000            |
+| (2)12     | Felony      | Extortion                                | Cash Bail           | 2 Months      | $10,000            |
+| (2)13     | Felony      | Forgery/Fraud                            | Cash Bail           | 1.5 Months    | 0                  |
+| (2)14     | Misdemeanor | Vandalism                                | Cash Bail           | 1.5 Months    | 0                  |
+
+
 
 ### **Title 3: Crimes Against Public Decency**
 
-| Code Name                           | Code Number | Code Type   | Punishment            |
-| ----------------------------------- | ----------- | ----------- | --------------------- |
-| Lewd or Dissolute Conduct in Public | (3)01       | Misdemeanor | $1,000                |
-| Indecent Exposure                   | (3)02       | Felony      | 60 seconds & $1,000   |
-| Prostitution                        | (3)03       | Misdemeanor | 60 seconds            |
-| Pandering/Pimping                   | (3)04       | Felony      | 150 seconds & $10,000 |
-| Sexual Battery                      | (3)05       | Felony      | 120 seconds & $10,000 |
-| Rape                                | (3)06       | Felony      | 210 seconds           |
-| Stalking                            | (3)07       | Felony      | 120 seconds           |
+| Code      | Type        | Title                               | Bond Type           | Jail Time     | Bond / Fine Amount |
+| --------- | ----------- | ----------------------------------- | ------------------- | ------------- | ------------------ |
+| (3)01     | Misdemeanor | Lewd or Dissolute Conduct in Public| Citation Release    | 0             | $1,000             |
+| (3)02     | Felony      | Indecent Exposure                   | Cash Bail           | 1 Month       | $1,000             |
+| (3)03     | Misdemeanor | Prostitution                        | Recognizance Release | 1 Month       | 0                  |
+| (3)04     | Felony      | Pandering/Pimping                   | Cash Bail           | 2.5 Months    | $10,000            |
+| (3)05     | Felony      | Sexual Battery                      | Cash Bail           | 2 Months      | $10,000            |
+| (3)06     | Felony      | Rape                                | No Bail             | 3.5 Months    | 0                  |
+| (3)07     | Felony      | Stalking                            | No Bail             | 2 Months      | 0                  |
+
+
 
 ### **Title 4: Crimes Against Public Justice**
 
-| Code Name                                  | Code Number | Code Type   | Punishment                                            |
-| ------------------------------------------ | ----------- | ----------- | ----------------------------------------------------- |
-| Bribery                                    | (4)01       | Felony      | 120 seconds and $10,000 or double the bribe (greater) |
-| Dissuading a Victim                        | (4)02       | Felony      | 120 seconds & $10,000                                 |
-| False Information to a Government Employee | (4)03       | Misdemeanor | 60 seconds & $1,000                                   |
-| Filing a False Police Report               | (4)04       | Misdemeanor | 60 seconds                                            |
-| Failure to Identify to a Peace Officer     | (4)05       | Misdemeanor | 60 seconds                                            |
-| Impersonation of a Government Employee     | (4)06       | Misdemeanor | 120 seconds and $1,000                                |
-| Obstruction of a Government Employee       | (4)07       | Misdemeanor | 60 seconds and $1,000                                 |
-| Resisting a Peace Officer                  | (4)08       | Misdemeanor | 60 seconds and $1,000                                 |
-| Escape from Custody                        | (4)09       | Misdemeanor | 60 additional seconds                                 |
-| Escape                                     | (4)10       | Felony      | 90 additional seconds and $10,000                     |
-| Prisoner Breakout                          | (4)11       | Felony      | 90 seconds and $10,000                                |
-| Violations of Human Trafficking            | (4)12       | Felony      | 300 seconds and $500,000                              |
-| Misuse of a Government Hotline             | (4)13       | Misdemeanor | $1,000                                                |
-| Tampering with Evidence                    | (4)14       | Misdemeanor | $1,000                                                |
-| Introduction of Contraband                 | (4)15       | Felony      | 120 seconds                                           |
-| False Arrest                               | (4)16       | Felony      | 120 seconds and $10,000                               |
-| Perjury                                    | (4)17       | Felony      | 120 seconds and $10,000                               |
-| Impersonation of a Lawyer                  | (4)18       | Felony      | 90 seconds and $10,000                                |
-| Contempt of Court                          | (4)19       | Misdemeanor | 60 seconds and $1,000                                 |
+| Code      | Type        | Title                                    | Bond Type           | Jail Time     | Bond / Fine Amount               |
+| --------- | ----------- | ---------------------------------------- | ------------------- | ------------- | -------------------------------- |
+| (4)01     | Felony      | Bribery                                  | Cash Bail           | 2 Months      | $10,000 or double the bribe (greater) |
+| (4)02     | Felony      | Dissuading a Victim                      | Cash Bail           | 2 Months      | $10,000                          |
+| (4)03     | Misdemeanor | False Information to a Government Employee | Recognizance Release | 1 Month       | $1,000                           |
+| (4)04     | Misdemeanor | Filing a False Police Report             | Recognizance Release | 1 Month       | 0                                |
+| (4)05     | Misdemeanor | Failure to Identify to a Peace Officer   | Recognizance Release | 1 Month       | 0                                |
+| (4)06     | Misdemeanor | Impersonation of a Government Employee   | Cash Bail           | 2 Months      | $1,000                           |
+| (4)07     | Misdemeanor | Obstruction of a Government Employee     | Recognizance Release | 1 Month       | $1,000                           |
+| (4)08     | Misdemeanor | Resisting a Peace Officer                | Recognizance Release | 1 Month       | $1,000                           |
+| (4)09     | Misdemeanor | Escape from Custody                      | Recognizance Release | 1 Month       | 0                                |
+| (4)10     | Felony      | Escape                                   | Cash Bail           | 1.5 Months    | $10,000                          |
+| (4)11     | Felony      | Prisoner Breakout                        | Cash Bail           | 1.5 Months    | $10,000                          |
+| (4)12     | Felony      | Violations of Human Trafficking          | Surety Bond         | 5 Months      | $500,000                         |
+| (4)13     | Misdemeanor | Misuse of a Government Hotline           | Recognizance Release | 0             | $1,000                           |
+| (4)14     | Misdemeanor | Tampering with Evidence                  | Recognizance Release | 0             | $1,000                           |
+| (4)15     | Felony      | Introduction of Contraband               | Cash Bail           | 2 Months      | 0                                |
+| (4)16     | Felony      | False Arrest                             | Cash Bail           | 2 Months      | $10,000                          |
+| (4)17     | Felony      | Perjury                                  | Cash Bail           | 2 Months      | $10,000                          |
+| (4)18     | Felony      | Impersonation of a Lawyer                | Cash Bail           | 1.5 Months    | $10,000                          |
+| (4)19     | Misdemeanor | Contempt of Court                        | Recognizance Release | 1 Month       | $1,000                           |
+
 
 ### **Title 5: Crimes Against Public Peace**
 
-| Code Name            | Code Number | Code Type   | Punishment          |
-| -------------------- | ----------- | ----------- | ------------------- |
-| Disturbing the Peace | (5)01       | Misdemeanor | $400                |
-| Unlawful Assembly    | (5)02       | Misdemeanor | 60 seconds          |
-| Incitement to Riot   | (5)03       | Misdemeanor | 60 seconds & $1,000 |
+| Code      | Type        | Title                | Bond Type           | Jail Time     | Bond / Fine Amount |
+| --------- | ----------- | --------------------| ------------------- | ------------- | ------------------ |
+| (5)01     | Misdemeanor | Disturbing the Peace | Recognizance Release | 0             | $400               |
+| (5)02     | Misdemeanor | Unlawful Assembly    | Cash Bail           | 1 Month       | 0                  |
+| (5)03     | Misdemeanor | Incitement to Riot   | Cash Bail           | 1 Month       | $1,000             |
+
+
 
 ### **Title 6: Crimes Against Public Health and Safety**
 
-| Code Name                                                | Code Number | Code Type    | Punishment              |
-| -------------------------------------------------------- | ----------- | ------------ | ----------------------- |
-| Possession of a Controlled Substance                     | (6)01       | Misdemeanor  | 60 seconds and $1,000   |
-| Possession of a Controlled Substance with Intent to Sell | (6)02       | Felony       | 120 seconds & $20,000   |
-| Possession of Drug Paraphernalia                         | (6)03       | Misdemeanor  | 60 seconds & $1,000     |
-| Maintaining a Place for the Purpose of Distribution      | (6)04       | Felony       | 90 seconds & $10,000    |
-| Manufacture of a Controlled Substance                    | (6)05       | Felony       | 180 seconds & $50,000   |
-| Sale of a Controlled Substance                           | (6)06       | Felony       | 240 seconds and $20,000 |
-| Public Intoxication                                      | (6)07       | Misdemeanor  | $1,000                  |
-| Under the Influence of a Controlled Substance            | (6)08       | Misdemeanor  | 60 seconds              |
-| Detention of Mentally Disordered Persons                 | (6)09       | Non Criminal | 60 seconds in hospital  |
+| Code      | Type         | Title                                                    | Bond Type            | Jail Time            | Bond / Fine Amount |
+| --------- | ------------ | -------------------------------------------------------- | -------------------- | -------------------- | ------------------ |
+| (6)01     | Misdemeanor  | Possession of a Controlled Substance                     | Cash Bail            | 1 Month              | $1,000             |
+| (6)02     | Felony       | Possession of a Controlled Substance with Intent to Sell | Cash Bail            | 2 Months             | $20,000            |
+| (6)03     | Misdemeanor  | Possession of Drug Paraphernalia                         | Cash Bail            | 1 Month              | $1,000             |
+| (6)04     | Felony       | Maintaining a Place for the Purpose of Distribution      | Cash Bail            | 1.5 Months           | $10,000            |
+| (6)05     | Felony       | Manufacture of a Controlled Substance                    | Cash Bail            | 3 Months             | $50,000            |
+| (6)06     | Felony       | Sale of a Controlled Substance                           | Cash Bail            | 4 Months             | $20,000            |
+| (6)07     | Misdemeanor  | Public Intoxication                                      | Recognizance Release | 0                    | $1,000             |
+| (6)08     | Misdemeanor  | Under the Influence of a Controlled Substance            | Cash Bail            | 1 Month              | 0                  |
+| (6)09     | Non Criminal | Detention of Mentally Disordered Persons                 | No Bail              | 1 Month in hospital | 0                  |
+
+
 
 ### **Title 7: Crimes Against State Dependents**
 
-| Code Name                        | Code Number | Code Type   | Punishment             |
-| -------------------------------- | ----------- | ----------- | ---------------------- |
-| Animal Abuse/Cruelty             | (7)01       | Felony      | 90 seconds and $20,000 |
-| Sale of Alcohol to a Minor       | (7)02       | Misdemeanor | $1,000                 |
-| Minor Alcohol/Cannabis Violation | (7)03       | Misdemeanor | $1,000                 |
+| Code      | Type         | Title                            | Bond Type            | Jail Time       | Bond / Fine Amount |
+| --------- | ------------ | -------------------------------- | -------------------- | --------------- | ------------------ |
+| (7)01     | Felony       | Animal Abuse/Cruelty            | Cash Bail            | 1.5 Months      | $20,000            |
+| (7)02     | Misdemeanor  | Sale of Alcohol to a Minor       | Cash Bail            | 0               | $1,000             |
+| (7)03     | Misdemeanor  | Minor Alcohol/Cannabis Violation | Recognizance Release | 0               | $1,000             |
+
+
 
 ### **Title 8: Vehicular Offenses**
 
-| Code Name                                                    | Code Number | Code Type   | Punishment                                                                                 |
-| ------------------------------------------------------------ | ----------- | ----------- | ------------------------------------------------------------------------------------------ |
-| Driver License Point Violation (4 Points in 12 days)         | (8)02       | N/A         | License Suspension for 6 days.                                                             |
-| Vehicle Registration                                         | (8)03       | Infraction  | $194 and discretionary impoundment of vehicle                                              |
-| Drivers License                                              | (8)04       | Infraction  | $234 and discretionary impoundment of vehicle                                              |
-| Driving Without a License                                    | (8)05       | Misdemeanor | $1,000 and discretionary impoundment of vehicle                                            |
-| Driving With a Suspended or Revoked License - First Offense  | (8)06       | Misdemeanor | 60 seconds, $1,000, and mandatory impoundment of vehicle                                   |
-| Driving With a Suspended or Revoked License - Second Offense | (8)06       | Misdemeanor | 90 seconds, $1,000, and mandatory seizure of vehicle                                       |
-| Accident Reporting Requirements - Property Damage            | (8)07       | Misdemeanor | $1,000 and 1 point                                                                         |
-| Accident Reporting Requirements - Injury or Death            | (8)08       | Felony      | 120 seconds, $10,000, and 1 point                                                          |
-| Vehicle Insurance                                            | (8)09       | Infraction  | $480, 1 point, and in some cases license suspension for 6 days or until insurance obtained |
-| Traffic Signals - Responsibility at a Green Signal           | (8)10       | Infraction  | $234 and 1 point                                                                           |
-| Traffic Signals - Responsibility at a Red Signal             | (8)11       | Infraction  | $480 and 1 point                                                                           |
-| Driving on the Right Side                                    | (8)12       | Infraction  | $234 and 1 point                                                                           |
-| Maintaining Lanes                                            | (8)13       | Infraction  | $234 and 1 point                                                                           |
-| Following Distance                                           | (8)14       | Infraction  | $234 and 1 point                                                                           |
-| RIght of Way                                                 | (8)15       | Infraction  | $234 and 1 point                                                                           |
-| Right of Way - Emergency Vehicles                            | (8)16       | Infraction  | $480 and 1 point                                                                           |
-| Turning                                                      | (8)17       | Infraction  | $234 and 1 point                                                                           |
-| Unreasonably Slow / Stopped                                  | (8)18       | Infraction  | $234 and 1 point                                                                           |
-| Speeding 1-15 mph in excess                                  | (8)18       | Infraction  | $234 and 1 point                                                                           |
-| Speeding 16-25 mph in excess                                 | (8)18       | Infraction  | $360 and 1 point                                                                           |
-| Speeding 25+ mph in excess                                   | (8)18       | Infraction  | $480                                                                                       |
-| Criminal Speeding                                            | (8)19       | Infraction  | $880 and License Suspension for 1 days and 1 point                                         |
-| Stop Signs                                                   | (8)20       | Infraction  | $234 and 1 point                                                                           |
-| Parking                                                      | (8)21       | Infraction  | $234 and discretionary impoundment                                                         |
-| Reckless Driving                                             | (8)22       | Misdemeanor | $1,000 and 1 point                                                                         |
-| Motor Vehicle Contest                                        | (8)23       | Misdemeanor | $394, impoundment of the vehicle, license suspension for 1 day, and 1 point                |
-| Throwing Objects                                             | (8)24       | Misdemeanor | $1,000 and 1 point                                                                         |
-| Driving Under the Influence (DUI) - First Offense            | (8)25       | Misdemeanor | 60 seconds, $1000, license suspension for 10 days, and 1 point                             |
-| Driving Under the Influence (DUI) - Second Offense           | (8)25       | Misdemeanor | 60 seconds, $1000, license suspension for 24 days, and 1 point                             |
-| Driving Under the Influence (DUI) - Third Offense            | (8)25       | Misdemeanor | 60 seconds, $1000, license suspension for 36 days, and 1 point                             |
-| Enhanced Driving Under the Influence (DUI)                   | (8)26       | Felony      | 120 seconds, 5000, license suspension for 60 days, and 1 point                             |
-| Alcohol Beverages in Motor Vehicles                          | (8)27       | Infraction  | $360, and 1 point                                                                          |
-| Evading a Peace Officer                                      | (8)28       | Misdemeanor | 60 seconds, $1,000, and impounded of the vehicle, and 1 point                              |
-| Felony Evading a Peace Officer                               | (8)29       | Felony      | 90 second, $10,000, and impounded of the vehicle, and 1 point                              |
-| Vehicle Equipment                                            | (8)30       | Infraction  | $194                                                                                       |
-| Maximum Vehicle Size and Weight                              | (8)31       | Infraction  | $154, discretionary impoundment, vehicle out of service                                    |
+| Code      | Type         | Title                                                | Bond Type            | Jail Time            | Bond / Fine Amount                                            |
+| --------- | ------------ | ---------------------------------------------------- | -------------------- | -------------------- | ------------------------------------------------------------- |
+| (8)02     | Warning      | Driver License Point Violation (4 Points in 12 days) | Citation Release     | 6 Days               | 0                                                             |
+| (8)03     | Infraction   | Vehicle Registration                                 | Surety Bond          | 0                    | $194 and discretionary impoundment of vehicle                |
+| (8)04     | Infraction   | Drivers License                                      | Surety Bond          | 0                    | $234 and discretionary impoundment of vehicle                |
+| (8)05     | Misdemeanor  | Driving Without a License                            | Cash Bail            | 0                    | $1,000 and discretionary impoundment of vehicle              |
+| (8)06     | Misdemeanor  | Driving With a Suspended or Revoked License - First Offense | Cash Bail       | 1 Month              | $1,000 and mandatory impoundment of vehicle                 |
+| (8)06     | Misdemeanor  | Driving With a Suspended or Revoked License - Second Offense | Cash Bail      | 90 Seconds           | $1,000 and mandatory seizure of vehicle                    |
+| (8)07     | Misdemeanor  | Accident Reporting Requirements - Property Damage    | Recognizance Release | 0                  | $1,000 and 1 point                                            |
+| (8)08     | Felony       | Accident Reporting Requirements - Injury or Death    | Cash Bail            | 120 Seconds          | $10,000 and 1 point                                           |
+| (8)09     | Infraction   | Vehicle Insurance                                    | Cash Bail            | 0                    | $480, 1 point, and in some cases license suspension for 6 days or until insurance obtained |
+| (8)10     | Infraction   | Traffic Signals - Responsibility at a Green Signal   | Cash Bail            | 0                    | $234 and 1 point                                              |
+| (8)11     | Infraction   | Traffic Signals - Responsibility at a Red Signal     | Cash Bail            | 0                    | $480 and 1 point                                              |
+| (8)12     | Infraction   | Driving on the Right Side                            | Cash Bail            | 0                    | $234 and 1 point                                              |
+| (8)13     | Infraction   | Maintaining Lanes                                    | Cash Bail            | 0                    | $234 and 1 point                                              |
+| (8)14     | Infraction   | Following Distance                                   | Cash Bail            | 0                    | $234 and 1 point                                              |
+| (8)15     | Infraction   | RIght of Way                                         | Cash Bail            | 0                    | $234 and 1 point                                              |
+| (8)16     | Infraction   | Right of Way - Emergency Vehicles                    | Cash Bail            | 0                    | $480 and 1 point                                              |
+| (8)17     | Infraction   | Turning                                              | Cash Bail            | 0                    | $234 and 1 point                                              |
+| (8)18     | Infraction   | Unreasonably Slow / Stopped                          | Cash Bail            | 0                    | $234 and 1 point                                              |
+| (8)18     | Infraction   | Speeding 1-15 mph in excess                          | Cash Bail            | 0                    | $234 and 1 point                                              |
+| (8)18     | Infraction   | Speeding 16-25 mph in excess                         | Cash Bail            | 0                    | $360 and 1 point                                              |
+| (8)18     | Infraction   | Speeding 25+ mph in excess                           | Cash Bail            | 0                    | $480                                                          |
+| (8)19     | Infraction   | Criminal Speeding                                    | Cash Bail            | 1 Day Suspension     | $880 and 1 point                                              |
+| (8)20     | Infraction   | Stop Signs                                           | Cash Bail            | 0                    | $234 and 1 point                                              |
+| (8)21     | Infraction   | Parking                                              | Cash Bail            | 0                    | $234 and discretionary impoundment                            |
+| (8)22     | Misdemeanor  | Reckless Driving                                     | Cash Bail            | 0                    | $1,000 and 1 point                                            |
+| (8)23     | Misdemeanor  | Motor Vehicle Contest                                | Surety Bond          | 1 Day Suspension     | $394, impoundment of the vehicle, license suspension for 1 day, and 1 point |
+| (8)24     | Misdemeanor  | Throwing Objects                                     | Cash Bail            | 0                    | $1,000 and 1 point                                            |
+| (8)25     | Misdemeanor  | Driving Under the Influence (DUI) - First Offense    | Cash Bail            | 10 Days Suspension  | 1 Month, $1000, and 1 point                                   |
+| (8)25     | Misdemeanor  | Driving Under the Influence (DUI) - Second Offense   | Cash Bail            | 24 Days Suspension  | 1 Month, $1000, and 1 point                                   |
+| (8)25     | Misdemeanor  | Driving Under the Influence (DUI) - Third Offense    | Cash Bail            | 36 Days Suspension  | 1 Month, $1000, and 1 point                                   |
+| (8)26     | Felony       | Enhanced Driving Under the Influence (DUI)            | Cash Bail            | 60 Days Suspension  | 120 Seconds, $5000, and 1 point                               |
+| (8)27     | Infraction   | Alcohol Beverages in Motor Vehicles                  | Cash Bail            | 0                    | $360 and 1 point                                              |
+| (8)28     | Misdemeanor  | Evading a Peace Officer                              | Cash Bail            | 0                    | 1 Month, $1,000, and impounded of the vehicle, and 1 point  |
+| (8)29     | Felony       | Felony Evading a Peace Officer                       | Cash Bail            | 0                    | 90 Seconds, $10,000, and impounded of the vehicle, and 1 point |
+| (8)30     | Infraction   | Vehicle Equipment                                    | Cash Bail            | 0                    | $194                                                          |
+| (8)31     | Infraction   | Maximum Vehicle Size and Weight                      | Cash Bail            | 0                    | $154, discretionary impoundment, vehicle out of service        |
+
+
 
 ### **Title 9: Control of Deadly Weapons and Equipment**
 
-| Code Name                       | Code Number | Code Type   | Punishment                                                |
-| ------------------------------- | ----------- | ----------- | --------------------------------------------------------- |
-| Possession of an Illegal Weapon | (9)01       | Misdemeanor | 60 seconds and $1,000                                     |
-| Brandishing a Firearm           | (9)02       | Misdemeanor | 60 seconds and $1,000                                     |
-| Weapon Discharge Violation      | (9)03       | Felony      | 90 seconds                                                |
-| Drive-By Shooting               | (9)04       | Felony      | 90 seconds and $10,000                                    |
-| Duty to Inform                  | (9)05       | Misdemeanor | 60 seconds, $1,000, and revocation of the weapons permit. |
+| Code      | Type         | Title                             | Bond Type            | Jail Time       | Bond / Fine Amount                                            |
+| --------- | ------------ | --------------------------------- | -------------------- | --------------- | ------------------------------------------------------------- |
+| (9)01     | Misdemeanor  | Possession of an Illegal Weapon   | Surety Bond          | 1 Month         | $1,000                                                        |
+| (9)02     | Misdemeanor  | Brandishing a Firearm             | Surety Bond          | 1 Month         | $1,000                                                        |
+| (9)03     | Felony       | Weapon Discharge Violation        | Cash Bail            | 1.5 Months      | 0                                                             |
+| (9)04     | Felony       | Drive-By Shooting                 | Surety Bond          | 1.5 Months      | $10,000                                                       |
+| (9)05     | Misdemeanor  | Duty to Inform                    | Surety Bond          | 1 Month         | $1,000 and revocation of the weapons permit                   |
+
+
 
 ### **Title 10: Operation of Commercial Motor Vehicles**
 
-| Code Name                           | Code Number | Code Type  | Punishment                                              |
-| ----------------------------------- | ----------- | ---------- | ------------------------------------------------------- |
-| Drivers Licenses                    | (10)01      | Infraction | $234, discretionary impoundment, Vehicle Out of Service |
-| Additional Certificate Requirements | (10)02      | Infraction | $234, Vehicle Out of Service                            |
-| Duty Day Limits                     | (10)04      | Infraction | $234, Vehicle Out of Service for same day violation     |
+| Code      | Type       | Title                              | Bond Type            | Jail Time | Bond / Fine Amount                                    |
+| --------- | ---------- | ---------------------------------- | -------------------- | --------- | ----------------------------------------------------- |
+| (10)01    | Infraction | Drivers Licenses                   | Surety Bond          | 0         | $234, discretionary impoundment, Vehicle Out of Service |
+| (10)02    | Infraction | Additional Certificate Requirements| Surety Bond          | 0         | $234, Vehicle Out of Service                            |
+| (10)04    | Infraction | Duty Day Limits                    | Surety Bond          | 0         | $234, Vehicle Out of Service for same day violation     |
+
+
 
 ### **Title 11: Operation of Aircraft**
 
-| Code Name                           | Code Number | Code Type  | Punishment                                                 |
-| ----------------------------------- | ----------- | ---------- | ---------------------------------------------------------- |
-| Drivers Licenses                    | (11)01      | Infraction | $11,000                                                    |
-| Additional Certificate Requirements | (11)02      | Infraction | $11,000, 3 day license suspension, airplane out of service |
-| Duty Day Limits                     | (11)03      | Infraction | $11,000, 3 day license suspension, airplane out of service |
-| Equipment                           | (11)04      | Infraction | $11,000, 3 day license suspension, airplane out of service |
-| Restricted Flight Areas             | (11)05      | Infraction | $11,000 and 3 day license suspension                       |
-| Alcohol Rules                       | (11)06      | Infraction | $11,000 and 3 day license suspension                       |
+| Code      | Type       | Title                              | Bond Type            | Jail Time | Bond / Fine Amount                                |
+| --------- | ---------- | ---------------------------------- | -------------------- | --------- | ------------------------------------------------- |
+| (11)01    | Infraction | Drivers Licenses                   | Surety Bond          | 0         | $11,000                                           |
+| (11)02    | Infraction | Additional Certificate Requirements| Surety Bond          | 3 Days    | $11,000, airplane out of service                  |
+| (11)03    | Infraction | Duty Day Limits                    | Surety Bond          | 3 Days    | $11,000, airplane out of service                  |
+| (11)04    | Infraction | Equipment                          | Surety Bond          | 3 Days    | $11,000, airplane out of service                  |
+| (11)05    | Infraction | Restricted Flight Areas            | Surety Bond          | 0         | $11,000                                           |
+| (11)06    | Infraction | Alcohol Rules                      | Surety Bond          | 3 Days    | $11,000, 3 day license suspension                 |
+
+
 
 ### **Title 12: Operation of Marine Vessels**
 
-| Code Name                | Code Number | Code Type  | Punishment |
-| ------------------------ | ----------- | ---------- | ---------- |
-| Equipment                | (12)01      | Infraction | $275       |
-| Restricted Boating Areas | (12)02      | Infraction | $1,070     |
-| Speed                    | (12)03      | Infraction | $384       |
+| Code      | Type       | Title                     | Bond Type            | Jail Time | Bond / Fine Amount |
+| --------- | ---------- | ------------------------- | -------------------- | --------- | ------------------ |
+| (12)01    | Infraction | Equipment                 | Surety Bond          | 0         | $275               |
+| (12)02    | Infraction | Restricted Boating Areas  | Surety Bond          | 0         | $1,070             |
+| (12)03    | Infraction | Speed                     | Surety Bond          | 0         | $384               |
+
+
 
 ### **Title 15: Miscellaneous Violations**
 
-| Code Name                          | Code Number | Code Type  | Punishment                                            |
-| ---------------------------------- | ----------- | ---------- | ----------------------------------------------------- |
-| Racketeering                       | (15)01      | Felony     | 480 seconds and $4,000,000                            |
-| Laundering of Money Instruments    | (15)02      | Felony     | 120 seconds and $250,000 or twice the money laundered |
-| Wiretapping Violation              | (15)03      | Felony     | 90 seconds and $10,000                                |
-| Interference with a Transit System | (15)04      | Infraction | $250                                                  |
+| Code      | Type       | Title                               | Bond Type            | Jail Time | Bond / Fine Amount                        |
+| --------- | ---------- | ----------------------------------- | -------------------- | --------- | ----------------------------------------- |
+| (15)01    | Felony     | Racketeering                        | Surety Bond          | 8 Months  | $4,000,000                                |
+| (15)02    | Felony     | Laundering of Money Instruments     | Surety Bond          | 2 Months  | $250,000 or twice the money laundered      |
+| (15)03    | Felony     | Wiretapping Violation               | Surety Bond          | 90 Days   | $10,000                                   |
+| (15)04    | Infraction | Interference with a Transit System  | Surety Bond          | 0         | $250                                      |
+
+
 
 ### **Title 16: Fish and Game**
 
-| Code Name                                                 | Code Number | Code Type   | Punishment                                                        |
-| --------------------------------------------------------- | ----------- | ----------- | ----------------------------------------------------------------- |
-| Prohibition on Hunting                                    | (16)01      | Misdemeanor | $2,070 and revoking of permit at warden discretion.               |
-| Hunting Permits                                           | (16)02      | Misdemeanor | $870 and revoking of permit at warden discretion.                 |
-| Daily Limits and Possession Limits                        | (16)03      | Misdemeanor | $870 and revoking of permit at warden discretion.                 |
-| Daily Limits and Possession Limits - Excessive Violations | (16)04      | Misdemeanor | 60 seconds, $40,000, and revoking of permit at warden discretion. |
-| Hunting Hours                                             | (16)05      | Misdemeanor | $870 and revoking of permit at warden discretion.                 |
-| Hunting Methods                                           | (16)06      | Misdemeanor | $870 and revoking of permit at warden discretion.                 |
-| Hunting Under the Influence                               | (16)07      | Misdemeanor | $870 and revoking of permit at warden discretion.                 |
-| Poaching                                                  | (16)08      | Misdemeanor | 60 seconds, $40,000, and revoking of permit at warden discretion. |
-| Use of Animals                                            | (16)09      | Misdemeanor | $670 and revoking of permit at warden discretion.                 |
+| Code   | Type        | Title                                                        | Bond Type            | Jail Time | Bond / Fine Amount                                    |
+| ------ | ----------- | ------------------------------------------------------------ | -------------------- | --------- | ----------------------------------------------------- |
+| (16)01 | Misdemeanor | Prohibition on Hunting                                       | Recognizance Release | 0         | $2,070 and revoking of permit at warden discretion    |
+| (16)02 | Misdemeanor | Hunting Permits                                              | Recognizance Release | 0         | $870 and revoking of permit at warden discretion      |
+| (16)03 | Misdemeanor | Daily Limits and Possession Limits                           | Recognizance Release | 0         | $870 and revoking of permit at warden discretion      |
+| (16)04 | Misdemeanor | Daily Limits and Possession Limits - Excessive Violations    | Surety Bond          | 1 Month   | $40,000 and revoking of permit at warden discretion  |
+| (16)05 | Misdemeanor | Hunting Hours                                                | Recognizance Release | 0         | $870 and revoking of permit at warden discretion      |
+| (16)06 | Misdemeanor | Hunting Methods                                              | Recognizance Release | 0         | $870 and revoking of permit at warden discretion      |
+| (16)07 | Misdemeanor | Hunting Under the Influence                                  | Recognizance Release | 0         | $870 and revoking of permit at warden discretion      |
+| (16)08 | Misdemeanor | Poaching                                                     | Surety Bond          | 1 Month   | $40,000 and revoking of permit at warden discretion  |
+| (16)09 | Misdemeanor | Use of Animals                                               | Recognizance Release | 0         | $670 and revoking of permit at warden discretion      |
+
+
